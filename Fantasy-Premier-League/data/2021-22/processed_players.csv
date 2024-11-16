@@ -1,0 +1,742 @@
+id,first_name,second_name,position
+1,Bernd,Leno,GK
+2,Rúnar Alex,Rúnarsson,GK
+3,Willian,Borges Da Silva,MID
+4,Pierre-Emerick,Aubameyang,FWD
+5,Cédric,Soares,DEF
+6,Alexandre,Lacazette,FWD
+7,Granit,Xhaka,MID
+8,Pablo,Marí,DEF
+9,Héctor,Bellerín,DEF
+11,Sead,Kolasinac,DEF
+12,Mohamed Naser,El Sayed Elneny,MID
+13,Ainsley,Maitland-Niles,MID
+14,Rob,Holding,DEF
+15,Thomas,Partey,MID
+16,Kieran,Tierney,DEF
+17,Nicolas,Pépé,MID
+18,Lucas,Torreira,MID
+20,Edward,Nketiah,FWD
+21,Emile,Smith Rowe,MID
+22,Bukayo,Saka,MID
+23,Gabriel,Magalhães,DEF
+24,Konstantinos,Mavropanos,DEF
+25,Mattéo,Guendouzi,MID
+26,Gabriel Teodoro,Martinelli Silva,MID
+27,William,Saliba,DEF
+67,Ben,White,DEF
+466,Nuno,Varela Tavares,DEF
+478,Albert,Sambi Lokonga,MID
+530,Folarin,Balogun,FWD
+531,Reiss,Nelson,MID
+532,Karl,Hein,GK
+558,Martin,Ødegaard,MID
+559,Aaron,Ramsdale,GK
+572,Arthur,Okonkwo,GK
+590,Takehiro,Tomiyasu,DEF
+664,Charlie,Patino,MID
+692,Omari,Hutchinson,MID
+693,Salah-Eddine,Oulad M'hand,MID
+694,Mika,Biereth,FWD
+695,Ryan,Alebiosu,DEF
+705,Zach,Awe,DEF
+711,Zak,Swanson,DEF
+719,Mazeed,Ogungbo,DEF
+720,Marcelo,Flores,MID
+721,Miguel,Azeez,MID
+730,Alex,Kirk,DEF
+10,Calum,Chambers,DEF
+28,Jed,Steer,GK
+29,Conor,Hourihane,MID
+30,Emiliano,Martínez,GK
+31,Björn,Engels,DEF
+32,Bertrand,Traoré,MID
+34,Morgan,Sanson,MID
+35,John,McGinn,MID
+36,Kortney,Hause,DEF
+37,Mahmoud Ahmed,Ibrahim Hassan,MID
+38,Tyrone,Mings,DEF
+40,Ollie,Watkins,FWD
+41,Marvelous,Nakamba,MID
+43,Emiliano,Buendía Stati,MID
+44,Matthew,Cash,DEF
+45,Ezri,Konsa Ngoyo,DEF
+46,Frédéric,Guilbert,DEF
+47,Wesley,Moraes,FWD
+48,Mbwana Ally,Samatta,FWD
+49,Keinan,Davis,FWD
+50,Douglas Luiz,Soares de Paulo,MID
+51,Jacob,Ramsey,MID
+52,Ashley,Young,DEF
+168,Lucas,Digne,DEF
+337,Danny,Ings,FWD
+492,Leon,Bailey,MID
+496,Aaron,Ramsey,MID
+497,Jaden,Philogene-Bidace,MID
+526,Carney,Chukwuemeka,MID
+568,Cameron,Archer,FWD
+596,Viljami,Sinisalo,GK
+610,Lamare,Bogarde,DEF
+638,Tim,Iroegbunam,MID
+650,Filip,Marschall,GK
+670,Josh,Feeney,DEF
+681,Philippe,Coutinho Correia,MID
+684,Kaine,Hayden,DEF
+691,Robin,Olsen,GK
+703,Benjamin,Chrisene,MID
+713,Tommi,O'Reilly,MID
+76,Pontus,Jansson,DEF
+77,Christian,Nørgaard,MID
+78,Ivan,Toney,FWD
+79,Tariqe,Fosu-Henry,MID
+80,David,Raya Martin,GK
+81,Sergi,Canós,MID
+82,Pelenda Joshua,Dasilva,MID
+83,Rico,Henry,DEF
+84,Vitaly,Janelt,MID
+85,Saman,Ghoddos,MID
+86,Mathias,Jensen,MID
+87,Charlie,Goode,DEF
+88,Marcus,Forss,FWD
+89,Mads,Roerslev Rasmussen,DEF
+90,Mads,Bech Sørensen,DEF
+91,Ethan,Pinnock,DEF
+92,Ellery,Balcombe,GK
+93,Jan,Zamburek,MID
+94,Patrik,Gunnarsson,GK
+95,Halil,Dervişoğlu,FWD
+96,Bryan,Mbeumo,MID
+97,Mads,Bidstrup,MID
+479,Frank,Onyeka,MID
+483,Kristoffer,Ajer,DEF
+498,Dominic,Thompson,DEF
+499,Shandon,Baptiste,MID
+524,Yoane,Wissa,MID
+556,Álvaro,Fernández,GK
+556,Álvaro,Fernández,DEF
+569,Finley,Stevens,DEF
+594,Mathias,Jorgensen,DEF
+614,Paris,Maghoma,MID
+619,Matthew,Cox,GK
+628,Maxwell,Haygarth,MID
+640,Nathan,Young-Coombes,FWD
+662,Myles,Peart-Harris,MID
+673,Jonas,Lössl,GK
+699,Christian,Eriksen,MID
+722,Julian,Jeanvier,DEF
+53,Adam,Lallana,MID
+54,Jason,Steele,GK
+55,Pascal,Groß,MID
+56,Shane,Duffy,DEF
+57,Davy,Pröpper,MID
+59,Lewis,Dunk,DEF
+60,Solomon,March,MID
+61,Adam,Webster,DEF
+62,Joël,Veltman,DEF
+63,Neal,Maupay,FWD
+64,Leandro,Trossard,MID
+65,Mathew,Ryan,GK
+66,Alireza,Jahanbakhsh,MID
+68,Bernardo,Fernandes Da Silva Junior,DEF
+69,Robert,Sánchez,GK
+70,Yves,Bissouma,MID
+71,Tariq,Lamptey,DEF
+72,Aaron,Connolly,FWD
+73,Steven,Alzate,MID
+74,Alexis,Mac Allister,MID
+75,Jakub,Moder,MID
+447,Danny,Welbeck,FWD
+462,Enock,Mwepu,MID
+476,Kjell,Scherpen,GK
+500,Florin,Andone,FWD
+535,Andi,Zeqiri,FWD
+536,Michal,Karbownik,DEF
+537,Taylor,Richards,MID
+538,Moisés,Caicedo,MID
+560,Haydon,Roberts,DEF
+584,Marc,Cucurella,DEF
+595,Jürgen,Locadia,FWD
+612,Jeremy,Sarmiento,MID
+653,Ed,Turns,DEF
+654,Marc,Leonard,MID
+655,Evan,Ferguson,FWD
+688,Thomas,McGill,GK
+712,Odeluga,Offiah,DEF
+98,James,Tarkowski,DEF
+99,Phil,Bardsley,DEF
+100,Erik,Pieters,DEF
+101,Jack,Cork,MID
+102,Dale,Stephens,MID
+103,Kevin,Long,DEF
+104,Jay,Rodriguez,FWD
+105,Ashley,Barnes,FWD
+106,Ben,Mee,DEF
+107,Ashley,Westwood,MID
+108,Johann Berg,Gudmundsson,MID
+110,Matthew,Lowton,DEF
+111,Matej,Vydra,FWD
+112,Nick,Pope,GK
+113,Charlie,Taylor,DEF
+114,Will,Norris,GK
+115,Josh,Brownhill,MID
+116,Josh,Benson,MID
+117,Bailey,Peacock-Farrell,GK
+118,Dwight,McNeil,MID
+451,Nathan,Collins,DEF
+480,Wayne,Hennessey,GK
+533,Lewis,Richardson,FWD
+534,Bobby,Thomas,DEF
+565,Owen,Dodgson,DEF
+575,Aaron,Lennon,MID
+578,Maxwel,Cornet,MID
+585,Connor,Roberts,DEF
+700,Wout,Weghorst,FWD
+708,Sam,Waller,GK
+726,Dara,Costelloe,MID
+735,Joseph,McGlynn,FWD
+736,Anthony,Mancini,MID
+119,César,Azpilicueta,DEF
+120,Olivier,Giroud,FWD
+121,Thiago,Emiliano da Silva,DEF
+122,Marcos,Alonso,DEF
+123,Jorge Luiz,Frello Filho,MID
+124,Ross,Barkley,MID
+125,Mateo,Kovacic,MID
+126,Michy,Batshuayi,FWD
+127,Antonio,Rüdiger,DEF
+129,Kepa,Arrizabalaga,GK
+130,N'Golo,Kanté,MID
+131,Hakim,Ziyech,MID
+132,Ruben,Loftus-Cheek,MID
+133,Andreas,Christensen,DEF
+134,Timo,Werner,FWD
+135,Benjamin,Chilwell,DEF
+136,Tammy,Abraham,FWD
+137,Christian,Pulisic,MID
+138,Mason,Mount,MID
+139,Ethan,Ampadu,DEF
+140,Callum,Hudson-Odoi,MID
+141,Kai,Havertz,MID
+142,Reece,James,DEF
+143,Edouard,Mendy,GK
+501,Malang,Sarr,DEF
+527,Trevoh,Chalobah,DEF
+529,Romelu,Lukaku,FWD
+539,Emerson,Palmieri dos Santos,DEF
+592,Saúl,Ñíguez,MID
+606,Marcus,Bettinelli,GK
+671,Lewis,Hall,MID
+672,Harvey,Vale,MID
+690,Robert Kenedy,Nunes do Nascimento,DEF
+144,Conor,Gallagher,MID
+146,Vicente,Guaita,GK
+147,James,Tomkins,DEF
+148,James,McArthur,MID
+149,Christian,Benteke,FWD
+150,Cheikhou,Kouyaté,DEF
+151,Martin,Kelly,DEF
+152,Luka,Milivojevic,MID
+153,Jordan,Ayew,FWD
+154,Wilfried,Zaha,MID
+155,Jeffrey,Schlupp,MID
+156,Jack,Butland,GK
+157,Jairo,Riedewald,MID
+158,Jarosław,Jach,DEF
+159,Jean-Philippe,Mateta,FWD
+160,Eberechi,Eze,MID
+161,Nathan,Ferguson,DEF
+162,Tyrick,Mitchell,DEF
+386,Will,Hughes,MID
+464,Michael,Olise,MID
+474,Joel,Ward,DEF
+477,Marc,Guéhi,DEF
+488,Joachim,Andersen,DEF
+493,Nathaniel,Clyne,DEF
+540,Reece,Hannam,DEF
+541,Jesurun,Rak-Sakyi,MID
+542,Robert,Street,FWD
+543,Scott,Banks,MID
+561,Remi,Matthews,GK
+586,Odsonne,Edouard,FWD
+709,Tayo,Adaramola,DEF
+42,Anwar,El Ghazi,MID
+163,Fabian,Delph,MID
+164,Gylfi,Sigurdsson,MID
+165,Seamus,Coleman,DEF
+166,James,Rodríguez,MID
+167,Bernard,Anício Caldeira Duarte,MID
+169,Michael,Keane,DEF
+170,Jordan,Pickford,GK
+171,Allan,Marques Loureiro,MID
+172,André Filipe,Tavares Gomes,MID
+173,Abdoulaye,Doucouré,MID
+174,Alex,Iwobi,MID
+175,Yerry,Mina,DEF
+176,Tom,Davies,MID
+177,Dominic,Calvert-Lewin,FWD
+178,Mason,Holgate,DEF
+179,Ben,Godfrey,DEF
+180,Richarlison,de Andrade,FWD
+181,João,Virgínia,GK
+282,Donny,van de Beek,MID
+363,Bamidele,Alli,MID
+481,Asmir,Begović,GK
+482,Andros,Townsend,MID
+484,Demarai,Gray,MID
+502,Jonjoe,Kenny,DEF
+503,Anthony,Gordon,MID
+504,Jean-Philippe,Gbamin,MID
+544,Jarrad,Branthwaite,DEF
+545,Nathan,Broadhead,FWD
+564,Moise,Kean,FWD
+570,Niels,Nkounkou,DEF
+571,Andy,Lonergan,GK
+591,Salomón,Rondón,FWD
+602,Ellis,Simms,FWD
+607,Lewis,Dobbin,FWD
+613,Charlie,Whitaker,MID
+616,Harry,Tyrer,GK
+622,Cenk,Tosun,FWD
+623,Reece,Welch,DEF
+630,Tyler,Onyango,MID
+674,Nathan,Patterson,DEF
+675,Vitalii,Mykolenko,DEF
+718,Isaac,Price,MID
+200,Kasper,Schmeichel,GK
+201,Jonny,Evans,DEF
+202,Marc,Albrighton,MID
+203,Nampalys,Mendy,MID
+204,Danny,Ward,GK
+205,Jamie,Vardy,FWD
+206,Dennis,Praet,MID
+207,Ricardo Domingos,Barbosa Pereira,DEF
+208,Daniel,Amartey,DEF
+209,Timothy,Castagne,DEF
+210,Youri,Tielemans,MID
+211,Ayoze,Pérez,MID
+212,James,Maddison,MID
+213,Kelechi,Iheanacho,FWD
+214,Hamza,Choudhury,MID
+215,Harvey,Barnes,MID
+216,Wilfred,Ndidi,MID
+217,Çaglar,Söyüncü,DEF
+218,James,Justin,DEF
+219,Luke,Thomas,DEF
+220,Wesley,Fofana,DEF
+340,Jannik,Vestergaard,DEF
+455,Patson,Daka,FWD
+458,Boubakary,Soumaré,MID
+473,Ryan,Bertrand,DEF
+505,Kiernan,Dewsbury-Hall,MID
+573,Eldin,Jakupovic,GK
+587,Ademola,Lookman,MID
+639,Vontae,Daley-Campbell,DEF
+645,Ben,Nelson,DEF
+646,Lewis,Brunt,MID
+647,Kasey,McAteer,MID
+182,Pablo,Hernández Domínguez,MID
+183,Francisco,Casilla Cortés,GK
+184,Liam,Cooper,DEF
+185,Luke,Ayling,DEF
+186,Mateusz,Klich,MID
+187,Rodrigo,Moreno,FWD
+188,Stuart,Dallas,MID
+189,Patrick,Bamford,FWD
+190,Diego,Llorente,DEF
+191,Kalvin,Phillips,MID
+192,Hélder Wander,Sousa de Azevedo e Costa,MID
+193,Tyler,Roberts,MID
+194,Robin,Koch,DEF
+195,Ian Carlo,Poveda-Ocampo,MID
+196,Raphael,Dias Belloli,MID
+197,Jamie,Shackleton,MID
+198,Pascal,Struijk,DEF
+199,Illan,Meslier,GK
+267,Jack,Harrison,MID
+287,Daniel,James,MID
+463,Héctor Junior,Firpo Adames,DEF
+490,Kristoffer,Klaesson,GK
+550,Sam,Greenwood,FWD
+551,Crysencio,Summerville,MID
+552,Adam,Forshaw,MID
+562,Cody,Drameh,DEF
+563,Charlie,Cresswell,DEF
+576,Liam,McCarron,MID
+577,Joe,Gelhardt,FWD
+600,Nohan,Kenneh,MID
+601,Stuart,McKinstry,MID
+608,Leo Fuhr,Hjelde,DEF
+624,Lewis,Bate,MID
+631,Jack,Jenkins,MID
+657,Kris,Moore,DEF
+658,Archie,Gray,MID
+221,James,Milner,MID
+222,Jordan,Henderson,MID
+223,Adrián,San Miguel del Castillo,GK
+224,Joel,Matip,DEF
+225,Thiago,Alcántara do Nascimento,MID
+226,Xherdan,Shaqiri,MID
+227,Alex,Oxlade-Chamberlain,MID
+228,Roberto,Firmino,FWD
+229,Virgil,van Dijk,DEF
+230,Sadio,Mané,MID
+231,Alisson,Ramses Becker,GK
+232,Fabio Henrique,Tavares,MID
+233,Mohamed,Salah,MID
+234,Andrew,Robertson,DEF
+235,Divock,Origi,FWD
+236,Takumi,Minamino,MID
+237,Trent,Alexander-Arnold,DEF
+238,Joseph,Gomez,DEF
+239,Naby,Keita,MID
+240,Diogo,Jota,MID
+241,Nathaniel,Phillips,DEF
+242,Caoimhin,Kelleher,GK
+243,Ibrahima,Konaté,DEF
+244,Curtis,Jones,MID
+245,Konstantinos,Tsimikas,DEF
+246,Neco,Williams,DEF
+247,Rhys,Williams,DEF
+248,Ben,Davies,DEF
+248,Ben,Davies,DEF
+506,Harvey,Elliott,MID
+553,Ben,Woodburn,MID
+620,Tyler,Morton,MID
+625,Kaide,Gordon,MID
+626,Conor,Bradley,DEF
+627,Owen,Beck,DEF
+656,Marcelo,de Araújo Pitaluga Filho,GK
+660,Jarell,Quansah,DEF
+696,Luis,Díaz,MID
+33,Jack,Grealish,MID
+249,Kyle,Walker,DEF
+250,Ilkay,Gündogan,MID
+251,Kevin,De Bruyne,MID
+252,John,Stones,DEF
+253,Benjamin,Mendy,DEF
+254,Riyad,Mahrez,MID
+255,Raheem,Sterling,MID
+256,João Pedro Cavaco,Cancelo,DEF
+257,Ederson,Santana de Moraes,GK
+258,Nathan,Aké,DEF
+259,Aymeric,Laporte,DEF
+260,Zack,Steffen,GK
+261,Bernardo Mota,Veiga de Carvalho e Silva,MID
+262,Rúben Santos,Gato Alves Dias,DEF
+263,Gabriel Fernando,de Jesus,FWD
+264,Oleksandr,Zinchenko,DEF
+265,Phil,Foden,MID
+266,Rodrigo,Hernandez,MID
+268,Ferran,Torres,MID
+453,Fernando,Luiz Rosa,MID
+507,Cole,Palmer,MID
+508,Samuel,Edozie,MID
+566,Tommy,Doyle,MID
+593,Scott,Carson,GK
+603,Luke,Mbete,DEF
+604,Joshua,Wilson-Esbrand,DEF
+605,Romeo,Lavia,MID
+615,Cieran,Slicker,GK
+629,James,McAtee,MID
+651,Conrad,Egan-Riley,DEF
+663,Kayky da Silva,Chagas,FWD
+704,Liam,Delap,FWD
+269,Edinson,Cavani,FWD
+270,David,de Gea,GK
+271,Nemanja,Matic,MID
+272,Paul,Pogba,MID
+273,Harry,Maguire,DEF
+274,Frederico,Rodrigues de Paula Santos,MID
+275,Luke,Shaw,DEF
+276,Jesse,Lingard,MID
+277,Bruno Miguel,Borges Fernandes,MID
+278,Anthony,Martial,FWD
+279,Alex Nicolao,Telles,DEF
+280,Dean,Henderson,GK
+281,Marcus,Rashford,MID
+283,Axel,Tuanzebe,DEF
+284,Victor,Lindelöf,DEF
+285,Scott,McTominay,MID
+286,Eric,Bailly,DEF
+288,Aaron,Wan-Bissaka,DEF
+289,Mason,Greenwood,MID
+459,Juan,Mata,MID
+485,Jadon,Sancho,MID
+509,Tom,Heaton,GK
+510,José Diogo,Dalot Teixeira,DEF
+511,Andreas,Pereira,MID
+512,Anthony,Elanga,MID
+555,Raphaël,Varane,DEF
+579,Cristiano Ronaldo,dos Santos Aveiro,FWD
+632,Phil,Jones,DEF
+636,Amad,Diallo,MID
+706,Hannibal,Mejbri,MID
+723,Alejandro,Garnacho Ferreyra,MID
+727,Shola,Shoretire,MID
+728,Álvaro,Fernández,GK
+728,Álvaro,Fernández,DEF
+737,Charlie,Savage,MID
+19,Joseph,Willock,MID
+39,Matt,Targett,DEF
+58,Dan,Burn,DEF
+109,Chris,Wood,FWD
+291,Jonjo,Shelvey,MID
+292,Matt,Ritchie,DEF
+293,Ciaran,Clark,DEF
+294,Karl,Darlow,GK
+295,Martin,Dubravka,GK
+296,Callum,Wilson,FWD
+297,Jeff,Hendrick,MID
+298,Ryan,Fraser,MID
+299,Jamaal,Lascelles,DEF
+300,Dwight,Gayle,FWD
+301,Paul,Dummett,DEF
+302,Javier,Manquillo,DEF
+303,Emil,Krafth,DEF
+304,Jacob,Murphy,MID
+305,Fabian,Schär,DEF
+306,Isaac,Hayden,MID
+307,Allan,Saint-Maximin,FWD
+308,Miguel,Almirón,MID
+309,Sean,Longstaff,MID
+310,Joelinton Cássio,Apolinário de Lira,FWD
+311,Jamal,Lewis,DEF
+312,Matthew,Longstaff,MID
+465,Federico,Fernández,DEF
+513,Freddie,Woodman,GK
+514,Mark,Gillespie,GK
+599,Joe,White,MID
+609,Elliot,Anderson,MID
+678,Kieran,Trippier,DEF
+697,Bruno,Guimarães Rodriguez Moura,MID
+707,Lucas,De Bolle,MID
+145,Billy,Gilmour,MID
+290,Brandon,Williams,DEF
+313,Michael,McGovern,GK
+314,Tim,Krul,GK
+315,Teemu,Pukki,FWD
+316,Marco,Stiepermann,MID
+317,Lukas,Rupp,MID
+318,Kenny,McLean,MID
+319,Grant,Hanley,DEF
+320,Onel,Hernández,MID
+321,Sam,Byram,DEF
+322,Jordan,Hugill,FWD
+323,Kieran,Dowell,MID
+324,Christoph,Zimmermann,DEF
+325,Todd,Cantwell,MID
+326,Max,Aarons,DEF
+327,Jacob,Sørensen,DEF
+328,Przemyslaw,Placheta,MID
+329,Adam,Idah,FWD
+330,Josh,Martin,MID
+331,Andrew,Omobamidele,DEF
+448,Angus,Gunn,GK
+449,Milot,Rashica,MID
+456,Ben,Gibson,DEF
+457,Dimitris,Giannoulis,DEF
+471,Pierre,Lees-Melou,MID
+515,Bali,Mumba,DEF
+516,Joshua,Sargent,FWD
+528,Christos,Tzolis,MID
+580,Ozan,Kabak,DEF
+581,Mathias,Normann,MID
+643,Jonathan,Tomkinson,DEF
+648,Jonathan,Rowe,MID
+649,Thomas,Dickson-Peters,FWD
+666,Jon,McCracken,GK
+683,Liam,Gibbs,MID
+715,Abu,Kamara,FWD
+716,Tony,Springett,MID
+332,Theo,Walcott,MID
+333,Fraser,Forster,GK
+334,Alex,McCarthy,GK
+335,Oriol,Romeu Vidal,MID
+336,Nathan,Redmond,MID
+338,Jack,Stephens,DEF
+339,Stuart,Armstrong,MID
+341,James,Ward-Prowse,MID
+342,Kyle,Walker-Peters,DEF
+343,Jan,Bednarek,DEF
+344,Daniel,N'Lundulu,FWD
+345,Che,Adams,FWD
+346,Nathan,Tella,MID
+347,William,Smallbone,MID
+348,Michael,Obafemi,FWD
+349,Ibrahima,Diallo,MID
+350,Moussa,Djenepo,MID
+351,Mohammed,Salisu,DEF
+460,Romain,Perraud,DEF
+491,Tino,Livramento,DEF
+517,Mohamed,Elyounoussi,MID
+518,Armando,Broja,FWD
+519,Shane,Long,FWD
+525,Adam,Armstrong,FWD
+546,Yan,Valery,DEF
+567,Lyanco Evangelista,Silveira Neves Vojnovic,DEF
+637,Harry,Lewis,GK
+641,Willy,Caballero,GK
+665,Dynel,Simeu,DEF
+667,Thierry,Small,DEF
+680,Kgaogelo,Chauke,MID
+731,Tyler,Dibling,MID
+352,Joe,Hart,GK
+353,Hugo,Lloris,GK
+355,Toby,Alderweireld,DEF
+356,Erik,Lamela,MID
+357,Harry,Kane,FWD
+358,Serge,Aurier,DEF
+359,Heung-Min,Son,MID
+360,Matt,Doherty,DEF
+361,Eric,Dier,DEF
+362,Lucas,Rodrigues Moura da Silva,MID
+364,Ben,Davies,DEF
+364,Ben,Davies,DEF
+365,Pierre-Emile,Højbjerg,MID
+366,Harry,Winks,MID
+367,Davinson,Sánchez,DEF
+368,Ryan,Sessegnon,DEF
+369,Steven,Bergwijn,MID
+370,Sergio,Reguilón,DEF
+371,Japhet,Tanganga,DEF
+372,Giovani,Lo Celso,MID
+373,Oliver,Skipp,MID
+374,Joe,Rodon,DEF
+375,Tanguy,Ndombele,MID
+486,Pierluigi,Gollini,GK
+487,Bryan,Gil Salvatierra,MID
+494,Cristian,Romero,DEF
+520,Dane,Scarlett,FWD
+588,Emerson Aparecido,Leite de Souza Junior,DEF
+597,Dilan,Markanday,MID
+598,Tobi,Omole,DEF
+659,Brandon,Austin,GK
+668,Harvey,White,MID
+701,Dejan,Kulusevski,MID
+702,Rodrigo,Bentancur,MID
+714,Alfie,Devine,MID
+717,Jamie,Bowden,MID
+724,Marcel,Lavinier,DEF
+729,Matthew,Craig,MID
+354,Moussa,Sissoko,MID
+376,Ben,Foster,GK
+377,Danny,Rose,DEF
+378,Dan,Gosling,MID
+379,Craig,Cathcart,DEF
+380,Troy,Deeney,FWD
+381,Tom,Cleverley,MID
+382,Francisco,Femenía Far,DEF
+383,Andre,Gray,FWD
+384,Christian,Kabasele,DEF
+385,Nathaniel,Chalobah,MID
+387,William,Troost-Ekong,DEF
+388,Stipe,Perica,FWD
+389,Daniel,Bachmann,GK
+390,Adam,Masina,DEF
+391,Ken,Sema,MID
+392,Philip,Zinckernagel,MID
+393,Isaac,Success Ajayi,FWD
+394,Ayotomiwa,Dele-Bashiru,MID
+395,Ashley,Fletcher,FWD
+396,Francisco,Sierralta,DEF
+397,Domingos,Quina,MID
+398,Marc,Navarro,DEF
+399,Ismaila,Sarr,MID
+400,Jeremy,Ngakia,DEF
+401,Ben,Wilmot,DEF
+402,Joseph,Hungbo,MID
+403,Imrân,Louza,MID
+404,João Pedro,Junqueira de Jesus,FWD
+405,Kwadwo,Baah,MID
+450,Emmanuel,Dennis,FWD
+454,Matthew,Pollock,DEF
+467,Oghenekaro Peter,Etebo,MID
+468,Joshua,King,FWD
+469,Adedapo,Awokoya-Mebude,FWD
+472,Juan Camilo,Hernández Suárez,FWD
+495,Juraj,Kucka,MID
+557,Ozan,Tufan,MID
+574,Robert,Elliot,GK
+618,Nicolas,Nkoulou,DEF
+633,James,Morris,DEF
+642,Vincent,Angelini,GK
+669,Kamil,Conteh,MID
+676,Hassane,Kamara,DEF
+677,Samir,Caetano de Souza Santos,DEF
+679,Edo,Kayembe,MID
+698,Samuel,Kalu,MID
+725,Shaqai,Forde,FWD
+732,Tiago,Çukur,FWD
+733,Adrian,Blake,MID
+734,Jack,Grieves,FWD
+128,Kurt,Zouma,DEF
+406,Mark,Noble,MID
+407,Darren,Randolph,GK
+408,Lukasz,Fabianski,GK
+409,Angelo,Ogbonna,DEF
+410,Winston,Reid,DEF
+411,Aaron,Cresswell,DEF
+412,Andriy,Yarmolenko,MID
+413,Michail,Antonio,FWD
+414,Craig,Dawson,DEF
+415,Ryan,Fredericks,DEF
+416,Manuel,Lanzini,MID
+417,Arthur,Masuaku,DEF
+418,Vladimir,Coufal,DEF
+419,Saïd,Benrahma,MID
+420,Jarrod,Bowen,MID
+421,Declan,Rice,MID
+422,Tomas,Soucek,MID
+423,Pablo,Fornals,MID
+424,Issa,Diop,DEF
+425,Ben,Johnson,DEF
+489,Alphonse,Areola,GK
+521,Frederik,Alves,DEF
+522,Conor,Coventry,MID
+554,Jamal,Baptiste,DEF
+582,Nikola,Vlasic,MID
+589,Alex,Kral,MID
+617,Harrison,Ashby,DEF
+634,Sonny,Perkins,MID
+644,Ajibola,Alese,DEF
+652,Armstrong,Oko-Flex,MID
+682,Pierre,Ekwah,DEF
+710,Daniel,Chesters,MID
+426,João Filipe Iria,Santos Moutinho,MID
+427,Rui Pedro,dos Santos Patrício,GK
+428,Willy,Boly,DEF
+429,Conor,Coady,DEF
+430,Raúl,Jiménez,FWD
+431,Romain,Saïss,DEF
+432,Fernando,Marçal,DEF
+433,Jonathan,Castro Otto,DEF
+434,Leander,Dendoncker,MID
+435,Adama,Traoré,MID
+436,Rúben Diogo,da Silva Neves,MID
+437,Nélson,Cabral Semedo,DEF
+438,Daniel,Castelo Podence,MID
+439,Max,Kilman,DEF
+440,Morgan,Gibbs-White,MID
+441,Pedro,Lomba Neto,MID
+442,Owen,Otasowie,MID
+443,Ki-Jana,Hoever,DEF
+444,Andreas,Söndergaard,GK
+445,Fabio,Silva,FWD
+446,Yerson,Mosquera Valdelamar,DEF
+452,John,Ruddy,GK
+461,Francisco,Machado Mota de Castro Trincão,MID
+470,Rayan,Ait Nouri,DEF
+475,José,Malheiro de Sá,GK
+523,Patrick,Cutrone,FWD
+547,Luke,Cundle,MID
+548,Chem,Campbell,MID
+549,Christian,Marques,DEF
+583,Hee-Chan,Hwang,FWD
+611,Louie,Moulden,GK
+621,James,Storer,GK
+635,Hugo,Bueno,DEF
+661,Bruno André,Cavaco Jordão,MID
+685,Toti António,Gomes,DEF
+686,Dion,Sanderson,DEF
+687,Ryan,Giles,MID
+689,Francisco Jorge,Tomás Oliveira,MID
