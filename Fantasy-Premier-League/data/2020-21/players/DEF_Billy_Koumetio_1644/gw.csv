@@ -1,6 +1,6 @@
-assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,POS,Full Name,own_team,opponent_short_name,opponent_attack,opponent_defense,own_short_name,own_attack,own_defense,crowds,season
-0,0,0,0,0.0,697,344,0,0,0.0,0.0,2021-05-08 19:15:00+00:00,0,16,0,0,0,0,35,0,0,0,2,0.0,0,0,0,0,40,True,0,2,Billy Koumetio,11,SOU,1110,1160,LIV,1190,1300,0,2020
-0,0,0,0,0.0,697,334,0,0,0.0,0.0,2021-05-13 19:15:00+00:00,0,13,0,0,0,0,35,0,0,4,2,0.0,0,0,0,0,40,False,0,2,Billy Koumetio,11,MUN,1250,1240,LIV,1210,1230,0,2020
-0,0,0,0,0.0,697,353,0,0,0.0,0.0,2021-05-16 15:30:00+00:00,0,18,0,0,0,0,36,0,46,2,1,0.0,0,16,17,1,40,False,0,2,Billy Koumetio,11,WBA,1040,1050,LIV,1210,1230,0,2020
-0,0,0,0,0.0,697,360,0,0,0.0,0.0,2021-05-19 19:15:00+00:00,0,4,0,0,0,0,37,0,89,3,0,0.0,0,10,19,9,40,False,0,2,Billy Koumetio,11,BUR,1040,1040,LIV,1210,1230,0,2020
-0,0,0,0,0.0,697,374,0,0,0.0,0.0,2021-05-23 15:00:00+00:00,0,6,0,0,0,0,38,0,172,0,2,0.0,0,49,79,30,40,True,0,2,Billy Koumetio,11,CRY,1120,1020,LIV,1190,1300,0,2020
+assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,POS,Full Name,own_team,gameweek,opponent_short_name,opponent_attack,opponent_defense,own_short_name,own_attack,own_defense,crowds,season
+0,0,0,0,0.0,697,344,0,0,0.0,0.0,2021-05-08 19:15:00+00:00,0,16,0,0,0,0,35,0,0,0,2,0.0,0,0,0,0,40,True,0,2,Billy Koumetio,11,35,SOU,1110,1160,LIV,1190,1300,0,2020
+0,0,0,0,0.0,697,334,0,0,0.0,0.0,2021-05-13 19:15:00+00:00,0,13,0,0,0,0,35,0,0,4,2,0.0,0,0,0,0,40,False,0,2,Billy Koumetio,11,35,MUN,1250,1240,LIV,1210,1230,0,2020
+0,0,0,0,0.0,697,353,0,0,0.0,0.0,2021-05-16 15:30:00+00:00,0,18,0,0,0,0,36,0,46,2,1,0.0,0,16,17,1,40,False,0,2,Billy Koumetio,11,36,WBA,1040,1050,LIV,1210,1230,0,2020
+0,0,0,0,0.0,697,360,0,0,0.0,0.0,2021-05-19 19:15:00+00:00,0,4,0,0,0,0,37,0,89,3,0,0.0,0,10,19,9,40,False,0,2,Billy Koumetio,11,37,BUR,1040,1040,LIV,1210,1230,0,2020
+0,0,0,0,0.0,697,374,0,0,0.0,0.0,2021-05-23 15:00:00+00:00,0,6,0,0,0,0,38,0,172,0,2,0.0,0,49,79,30,40,True,0,2,Billy Koumetio,11,38,CRY,1120,1020,LIV,1190,1300,0,2020
