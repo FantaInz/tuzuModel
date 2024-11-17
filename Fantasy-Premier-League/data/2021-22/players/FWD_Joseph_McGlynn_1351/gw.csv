@@ -1,4 +1,4 @@
-assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,POS,Full Name,own_team
-0,0,0,0,0.0,735,367,0,0,0.0,0.0,2022-05-15T11:00:00Z,0,17,0,0,0,0,37,0,0,0,1,0.0,0,0,0,0,45,False,0,4,Joseph McGlynn,5
-0,0,0,0,0.0,735,171,0,0,0.0,0.0,2022-05-19T19:00:00Z,0,2,0,0,0,0,37,0,0,1,1,0.0,0,0,0,0,45,False,0,4,Joseph McGlynn,5
-0,0,0,0,0.0,735,374,0,0,0.0,0.0,2022-05-22T15:00:00Z,0,14,0,0,0,0,38,0,2242,2,1,0.0,0,1397,1552,155,45,True,0,4,Joseph McGlynn,5
+assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,POS,Full Name,own_team,opponent_short_name,opponent_attack,opponent_defense,own_short_name,own_attack,own_defense
+0,0,0,0,0.0,735,367,0,0,0.0,0.0,2022-05-15T11:00:00Z,0,17,0,0,0,0,37,0,0,0,1,0.0,0,0,0,0,45,False,0,4,Joseph McGlynn,5,TOT,1190,1210,BUR,1130,1100
+0,0,0,0,0.0,735,171,0,0,0.0,0.0,2022-05-19T19:00:00Z,0,2,0,0,0,0,37,0,0,1,1,0.0,0,0,0,0,45,False,0,4,Joseph McGlynn,5,AVL,1140,1090,BUR,1130,1100
+0,0,0,0,0.0,735,374,0,0,0.0,0.0,2022-05-22T15:00:00Z,0,14,0,0,0,0,38,0,2242,2,1,0.0,0,1397,1552,155,45,True,0,4,Joseph McGlynn,5,NEW,1030,1070,BUR,1080,1060
