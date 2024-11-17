@@ -112,8 +112,6 @@ id,first_name,second_name,position
 498,Dominic,Thompson,DEF
 499,Shandon,Baptiste,MID
 524,Yoane,Wissa,MID
-556,Álvaro,Fernández,GK
-556,Álvaro,Fernández,DEF
 569,Finley,Stevens,DEF
 594,Mathias,Jorgensen,DEF
 614,Paris,Maghoma,MID
@@ -397,8 +395,6 @@ id,first_name,second_name,position
 245,Konstantinos,Tsimikas,DEF
 246,Neco,Williams,DEF
 247,Rhys,Williams,DEF
-248,Ben,Davies,DEF
-248,Ben,Davies,DEF
 506,Harvey,Elliott,MID
 553,Ben,Woodburn,MID
 620,Tyler,Morton,MID
@@ -473,8 +469,6 @@ id,first_name,second_name,position
 706,Hannibal,Mejbri,MID
 723,Alejandro,Garnacho Ferreyra,MID
 727,Shola,Shoretire,MID
-728,Álvaro,Fernández,GK
-728,Álvaro,Fernández,DEF
 737,Charlie,Savage,MID
 19,Joseph,Willock,MID
 39,Matt,Targett,DEF
