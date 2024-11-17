@@ -2,3 +2,6 @@ pandas
 numpy
 rapidfuzz
 ipykernel
+xgboost
+scikit-learn
+matplotlib
