@@ -603,9 +603,9 @@ id,first_name,second_name,position
 394,Bruno,Guimarães Rodriguez Moura,MID
 395,Dan,Burn,DEF
 946,Karl,Darlow,GK
-947,Martin,Dubravka,GK
-397,Ryan,Fraser,MID
 396,Martin,Dúbravka,GK
+397,Ryan,Fraser,MID
+948,Mark,Gillespie,GK
 398,Anthony,Gordon,MID
 400,Isaac,Hayden,MID
 949,Jeff,Hendrick,MID
@@ -679,8 +679,8 @@ id,first_name,second_name,position
 447,Chris,Wood,FWD
 448,Joe,Worrall,DEF
 449,Ryan,Yates,MID
-980,Olu,Aina,DEF
-422,Ola,Aina,GK
+422,Ola,Aina,DEF
+981,George,Shelvey,GK
 982,Josh,Powell,DEF
 983,Gonzalo,Montiel,DEF
 436,Murillo,Santiago Costa dos Santos,DEF
@@ -733,8 +733,8 @@ id,first_name,second_name,position
 1017,Ryan,Oné,MID
 1018,Jili,Buyabu,DEF
 1019,Sydie,Peck,MID
-1020,Ben,Brereton,MID
-584,Ben,Brereton Díaz,GK
+584,Ben,Brereton Díaz,MID
+1021,Ivo,Grbic,GK
 1022,Billy,Blacker,FWD
 1023,Oliver,Arblaster,MID
 1024,Dovydas,Sasnauskas,DEF
@@ -795,8 +795,8 @@ id,first_name,second_name,position
 517,Aaron,Cresswell,DEF
 518,Flynn,Downes,MID
 520,Emerson,Palmieri dos Santos,DEF
-1042,Lukasz,Fabianski,GK
-521,Łukasz,Fabiański,MID
+521,Łukasz,Fabiański,GK
+1043,Pablo,Fornals Malla,MID
 523,Danny,Ings,FWD
 275,Ben,Johnson,DEF
 1044,Thilo,Kehrer,DEF
@@ -833,7 +833,7 @@ id,first_name,second_name,position
 553,João Victor,Gomes da Silva,MID
 1054,Jonathan,Castro Otto,DEF
 1055,Bruno,Cavaco Jordão,MID
-1056,Sasa,Kalajdzic,FWD
+555,Saša,Kalajdžić,FWD
 524,Max,Kilman,DEF
 556,Tom,King,GK
 557,Mario,Lemina,MID
@@ -841,7 +841,7 @@ id,first_name,second_name,position
 562,Daniel,Castelo Podence,MID
 554,José,Malheiro de Sá,GK
 565,Pablo,Sarabia,MID
-555,Saša,Kalajdžić,GK
+1057,Matija,Šarkić,GK
 559,Nélson,Cabral Semedo,DEF
 567,Toti António,Gomes,DEF
 534,Boubacar,Traoré,MID
