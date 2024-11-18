@@ -1,16 +1,16 @@
 id,first_name,second_name,position,value,team_id,mean_xg_5
 1,Fábio,Ferreira Vieira,MID,54,1,0.0
 7,Jorge Luiz,Frello Filho,MID,48,1,0.0
-9,Gabriel,Martinelli Silva,MID,69,1,0.12400000000000003
+9,Gabriel,Martinelli Silva,MID,69,1,0.0
 12,Ethan,Nwaneri,MID,45,1,0.0
 13,Martin,Ødegaard,MID,82,1,0.0
 16,Declan,Rice,MID,63,1,0.11000000000000001
 17,Bukayo,Saka,MID,101,1,0.21599999999999997
 20,Thomas,Partey,MID,50,1,0.032
-23,Leandro,Trossard,MID,69,1,0.254
+23,Leandro,Trossard,MID,69,1,0.24800000000000005
 186,Raheem,Sterling,MID,67,1,0.0
 597,Myles,Lewis-Skelly,MID,45,1,0.0
-633,Mikel,Merino,MID,60,1,0.3066666666666667
+633,Mikel,Merino,MID,60,1,0.0
 638,Salah-Eddine,Oulad M'hand,MID,45,1,0.0
 659,Ismeal,Kabia,MID,45,1,0.0
 28,Leon,Bailey,MID,63,2,0.0
@@ -24,7 +24,7 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 42,Boubacar,Kamara,MID,50,2,0.0
 48,John,McGinn,MID,52,2,0.05
 53,Jacob,Ramsey,MID,54,2,0.032
-54,Morgan,Rogers,MID,54,2,0.354
+54,Morgan,Rogers,MID,54,2,0.33799999999999997
 57,Youri,Tielemans,MID,55,2,0.072
 233,Amadou,Onana,MID,50,2,0.11200000000000002
 569,Jaden,Philogene,MID,53,2,0.0
@@ -102,13 +102,13 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 182,Cole,Palmer,MID,110,6,0.6920000000000002
 184,Renato,Palma Veiga,MID,45,6,0.0
 386,Jadon,Sancho,MID,63,6,0.0
-560,Pedro,Lomba Neto,MID,62,6,0.08
+560,Pedro,Lomba Neto,MID,62,6,0.12
 621,João,Félix Sequeira,MID,61,6,0.0
 190,Naouirou,Ahamada,MID,45,7,0.0
 193,Cheick,Doucouré,MID,49,7,0.0
 197,Malcolm,Ebiowei,MID,45,7,0.0
 199,Eberechi,Eze,MID,66,7,0.0
-203,Will,Hughes,MID,49,7,0.062
+203,Will,Hughes,MID,49,7,0.0775
 205,Daichi,Kamada,MID,51,7,0.094
 206,Jefferson,Lerma Solís,MID,48,7,0.0
 208,Matheus,França de Oliveira,MID,44,7,0.0
@@ -127,10 +127,10 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 224,Jack,Harrison,MID,53,8,0.0
 226,Tim,Iroegbunam,MID,45,8,0.0
 230,Dwight,McNeil,MID,58,8,0.08
-577,Jesper,Lindstrøm,MID,51,8,0.27499999999999997
+577,Jesper,Lindstrøm,MID,51,8,0.08
 603,Harrison,Armstrong,MID,45,8,0.0
 614,Jenson,Metcalfe,MID,45,8,0.0
-651,Orel,Mangala,MID,50,8,0.045
+651,Orel,Mangala,MID,50,8,0.05333333333333334
 10,Reiss,Nelson,MID,50,9,0.26
 19,Emile,Smith Rowe,MID,57,9,0.20400000000000001
 239,Adama,Traoré,MID,51,9,0.0
@@ -154,7 +154,7 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 278,Sam,Morsy,MID,49,10,0.044
 281,Jack,Taylor,MID,48,10,0.0
 359,Kalvin,Phillips,MID,49,10,0.062
-611,Sam,Szmodics,MID,58,10,0.32799999999999996
+611,Sam,Szmodics,MID,58,10,0.3075
 619,Jens,Cajuste,MID,45,10,0.0
 631,Jack,Clarke,MID,55,10,0.0
 632,Chiedozie,Ogbene,MID,49,10,0.0
@@ -183,10 +183,10 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 324,Curtis,Jones,MID,53,12,0.0
 327,Luis,Díaz,MID,77,12,0.0
 328,Mohamed,Salah,MID,128,12,0.6479999999999999
-329,Alexis,Mac Allister,MID,62,12,0.044
+329,Alexis,Mac Allister,MID,62,12,0.032
 330,James,McConnell,MID,44,12,0.0
 331,Tyler,Morton,MID,44,12,0.0
-336,Dominik,Szoboszlai,MID,63,12,0.23399999999999999
+336,Dominik,Szoboszlai,MID,63,12,0.23199999999999998
 636,Federico,Chiesa,MID,68,12,0.0
 342,Bernardo,Veiga de Carvalho e Silva,MID,65,13,0.146
 343,Oscar,Bobb,MID,47,13,0.0
@@ -213,7 +213,7 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 381,Scott,McTominay,MID,49,14,0.0
 382,Mason,Mount,MID,63,14,0.0
 384,Facundo,Pellistri Rebollo,MID,50,14,0.0
-385,Marcus,Rashford,MID,69,14,0.096
+385,Marcus,Rashford,MID,69,14,0.176
 613,Toby,Collyer,MID,45,14,0.0
 652,Manuel,Ugarte,MID,49,14,0.0
 667,Jack,Fletcher,MID,45,14,0.0
@@ -235,8 +235,8 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 426,Josh,Bowler,MID,45,16,0.0
 428,Eric,da Silva Moreira,MID,45,16,0.0
 429,Danilo,dos Santos de Oliveira,MID,47,16,0.0
-431,Nicolás,Domínguez,MID,48,16,0.11000000000000001
-432,Anthony,Elanga,MID,52,16,0.057999999999999996
+431,Nicolás,Domínguez,MID,48,16,0.17333333333333334
+432,Anthony,Elanga,MID,52,16,0.05800000000000001
 433,Morgan,Gibbs-White,MID,63,16,0.092
 434,Callum,Hudson-Odoi,MID,54,16,0.10600000000000001
 435,Alex,Mighten,MID,45,16,0.0
@@ -261,7 +261,7 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 584,Ben,Brereton Díaz,MID,51,17,0.0
 608,Tyler,Dibling,MID,46,17,0.0
 623,Mateus Gonçalo,Espanha Fernandes,MID,50,17,0.034
-480,Rodrigo,Bentancur,MID,50,18,0.030000000000000006
+480,Rodrigo,Bentancur,MID,50,18,0.0
 481,Lucas,Bergvall,MID,44,18,0.0
 482,Yves,Bissouma,MID,49,18,0.0
 483,Bryan,Gil Salvatierra,MID,50,18,0.0
@@ -274,11 +274,11 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 494,James,Maddison,MID,76,18,0.0
 499,Pape Matar,Sarr,MID,48,18,0.055
 502,Manor,Solomon,MID,54,18,0.0
-503,Son,Heung-min,MID,99,18,0.124
+503,Son,Heung-min,MID,99,18,0.0
 509,Timo,Werner,MID,62,18,0.0
 610,Mikey,Moore,MID,45,18,0.0
 612,Wilson,Odobert,MID,53,18,0.0
-511,Edson,Álvarez Velázquez,MID,50,19,0.002
+511,Edson,Álvarez Velázquez,MID,50,19,0.0
 514,Jarrod,Bowen,MID,75,19,0.26799999999999996
 519,George,Earthy,MID,45,19,0.0
 525,Mohammed,Kudus,MID,62,19,0.0

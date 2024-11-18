@@ -3,7 +3,7 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 4,Kai,Havertz,FWD,81,1,0.5740000000000001
 665,Nathan,Butler-Oyedeji,FWD,45,1,0.0
 38,Jhon,Durán,FWD,60,2,0.0
-58,Ollie,Watkins,FWD,90,2,0.33599999999999997
+58,Ollie,Watkins,FWD,90,2,0.336
 65,Enes,Ünal,FWD,54,3,0.0
 69,Daniel,Jebbison,FWD,45,3,0.0
 617,Francisco Evanilson,de Lima Barbosa,FWD,59,3,0.22199999999999998
@@ -40,7 +40,7 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 286,Tom,Cannon,FWD,45,11,0.0
 289,Patson,Daka,FWD,48,11,0.0
 306,Jamie,Vardy,FWD,57,11,0.414
-316,Darwin,Núñez Ribeiro,FWD,71,12,0.095
+316,Darwin,Núñez Ribeiro,FWD,71,12,0.12666666666666668
 321,Cody,Gakpo,FWD,71,12,0.06
 351,Erling,Haaland,FWD,153,13,0.7819999999999999
 352,Julián,Álvarez,FWD,70,13,0.0
@@ -54,7 +54,7 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 430,Emmanuel,Dennis,FWD,49,16,0.0
 446,Hwang,Ui-jo,FWD,45,16,0.0
 447,Chris,Wood,FWD,65,16,0.42200000000000004
-27,Cameron,Archer,FWD,50,17,0.5
+27,Cameron,Archer,FWD,50,17,0.414
 453,Adam,Armstrong,FWD,51,17,0.34
 468,Sékou,Mara,FWD,50,17,0.0
 470,Paul,Onuachu,FWD,49,17,0.0

@@ -1,5 +1,5 @@
 id,first_name,second_name,position,value,team_id,mean_xg_5
-3,Gabriel,dos Santos Magalhães,DEF,62,1,0.098
+3,Gabriel,dos Santos Magalhães,DEF,62,1,0.196
 6,Jurriën,Timber,DEF,55,1,0.06
 8,Jakub,Kiwior,DEF,48,1,0.0
 18,William,Saliba,DEF,60,1,0.0
@@ -11,7 +11,7 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 657,Maldini,Kacurri,DEF,40,1,0.0
 658,Ayden,Heaven,DEF,40,1,0.0
 662,Josh,Nichols,DEF,40,1,0.0
-32,Matty,Cash,DEF,44,2,0.006
+32,Matty,Cash,DEF,44,2,0.0
 35,Diego Carlos,Santos Silva,DEF,45,2,0.0
 36,Lucas,Digne,DEF,47,2,0.057999999999999996
 40,Kortney,Hause,DEF,40,2,0.0
@@ -40,7 +40,7 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 96,Kim,Ji-soo,DEF,39,4,0.0
 100,Ben,Mee,DEF,42,4,0.0
 104,Ethan,Pinnock,DEF,45,4,0.122
-105,Mads,Roerslev Rasmussen,DEF,44,4,0.002
+105,Mads,Roerslev Rasmussen,DEF,44,4,0.0025
 112,Mathias,Jorgensen,DEF,45,4,0.0
 338,Sepp,van den Berg,DEF,40,4,0.078
 649,Jayden,Meghoma,DEF,40,4,0.0
@@ -182,7 +182,7 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 460,Ronnie,Edwards,DEF,39,17,0.0
 461,Taylor,Harwood-Bellis,DEF,41,17,0.184
 464,Juan,Larios López,DEF,40,17,0.0
-467,Ryan,Manning,DEF,43,17,0.0125
+467,Ryan,Manning,DEF,43,17,0.0
 472,Jack,Stephens,DEF,40,17,0.046
 474,Sugawara,Yukinari,DEF,45,17,0.0
 475,Charlie,Taylor,DEF,39,17,0.0
@@ -194,7 +194,7 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 487,Emerson,Leite de Souza Junior,DEF,45,18,0.0
 495,Pedro,Porro,DEF,55,18,0.066
 496,Sergio,Reguilón,DEF,42,18,0.0
-498,Cristian,Romero,DEF,51,18,0.05
+498,Cristian,Romero,DEF,51,18,0.0
 504,Djed,Spence,DEF,44,18,0.0
 505,Destiny,Udogie,DEF,49,18,0.044
 506,Micky,van de Ven,DEF,46,18,0.0
@@ -208,7 +208,7 @@ id,first_name,second_name,position,value,team_id,mean_xg_5
 532,Kurt,Zouma,DEF,44,19,0.0
 591,Jean-Clair,Todibo,DEF,43,19,0.025
 643,Kaelan,Casey,DEF,40,19,0.0
-533,Rayan,Aït-Nouri,DEF,47,20,0.11400000000000002
+533,Rayan,Aït-Nouri,DEF,47,20,0.11399999999999999
 542,Craig,Dawson,DEF,44,20,0.092
 543,Matt,Doherty,DEF,43,20,0.0
 549,Hugo,Bueno López,DEF,45,20,0.0
