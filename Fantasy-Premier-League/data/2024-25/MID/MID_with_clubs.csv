@@ -1,0 +1,308 @@
+id,first_name,second_name,position,value,team_id,mean_xg_5
+1,Fábio,Ferreira Vieira,MID,54,1,0.0
+7,Jorge Luiz,Frello Filho,MID,48,1,0.0
+9,Gabriel,Martinelli Silva,MID,69,1,0.12400000000000003
+12,Ethan,Nwaneri,MID,45,1,0.0
+13,Martin,Ødegaard,MID,82,1,0.0
+16,Declan,Rice,MID,63,1,0.11000000000000001
+17,Bukayo,Saka,MID,101,1,0.21599999999999997
+20,Thomas,Partey,MID,50,1,0.032
+23,Leandro,Trossard,MID,69,1,0.254
+186,Raheem,Sterling,MID,67,1,0.0
+597,Myles,Lewis-Skelly,MID,45,1,0.0
+633,Mikel,Merino,MID,60,1,0.3066666666666667
+638,Salah-Eddine,Oulad M'hand,MID,45,1,0.0
+659,Ismeal,Kabia,MID,45,1,0.0
+28,Leon,Bailey,MID,63,2,0.0
+29,Ross,Barkley,MID,52,2,0.0
+30,Enzo,Barrenechea,MID,49,2,0.0
+31,Emiliano,Buendía Stati,MID,53,2,0.0
+33,Leander,Dendoncker,MID,45,2,0.0
+34,Moussa,Diaby,MID,65,2,0.0
+37,Lewis,Dobbin,MID,50,2,0.0
+41,Samuel,Iling-Junior,MID,54,2,0.0
+42,Boubacar,Kamara,MID,50,2,0.0
+48,John,McGinn,MID,52,2,0.05
+53,Jacob,Ramsey,MID,54,2,0.032
+54,Morgan,Rogers,MID,54,2,0.354
+57,Youri,Tielemans,MID,55,2,0.072
+233,Amadou,Onana,MID,50,2,0.11200000000000002
+569,Jaden,Philogene,MID,53,2,0.0
+656,Kadan,Young,MID,45,2,0.0
+60,Tyler,Adams,MID,49,3,0.0
+61,Jaidon,Anthony,MID,45,3,0.0
+62,David,Brooks,MID,49,3,0.0
+63,Ryan,Christie,MID,49,3,0.036
+64,Lewis,Cook,MID,50,3,0.02
+66,Romain,Faivre,MID,50,3,0.0
+67,Hamed,Traorè,MID,45,3,0.0
+71,Justin,Kluivert,MID,53,3,0.16399999999999998
+74,Dango,Ouattara,MID,50,3,0.0
+76,Philip,Billing,MID,48,3,0.0
+77,Alex,Scott,MID,48,3,0.0
+78,Antoine,Semenyo,MID,56,3,0.334
+80,Luis,Sinisterra,MID,50,3,0.0
+83,Marcus,Tavernier,MID,55,3,0.092
+87,Ethan,Brierley,MID,45,4,0.0
+89,Mikkel,Damsgaard,MID,50,4,0.082
+90,Josh,Dasilva,MID,48,4,0.0
+94,Vitaly,Janelt,MID,49,4,0.042
+95,Mathias,Jensen,MID,53,4,0.0
+97,Yunus Emre,Konak,MID,45,4,0.0
+98,Keane,Lewis-Potter,MID,50,4,0.148
+99,Bryan,Mbeumo,MID,79,4,0.406
+101,Christian,Nørgaard,MID,48,4,0.13999999999999999
+102,Frank,Onyeka,MID,49,4,0.0
+103,Myles,Peart-Harris,MID,45,4,0.0
+106,Kevin,Schade,MID,52,4,0.0
+111,Yehor,Yarmoliuk,MID,44,4,0.0
+314,Fábio,Freitas Gouveia Carvalho,MID,48,4,0.0
+602,Ryan,Trevitt,MID,45,4,0.0
+634,Gustavo,Nunes Fernandes Gomes,MID,49,4,0.0
+661,Tony,Yogane,MID,45,4,0.0
+674,Paris,Maghoma,MID,45,4,0.0
+113,Simon,Adingra,MID,53,5,0.0
+114,Benicio,Baker-Boaitey,MID,45,5,0.0
+115,Carlos,Baleba,MID,50,5,0.0
+118,Amario,Cozier-Duberry,MID,45,5,0.0
+119,Mahmoud,Dahoud,MID,49,5,0.0
+121,Julio,Enciso,MID,54,5,0.0
+124,Billy,Gilmour,MID,50,5,0.0
+125,Pascal,Groß,MID,65,5,0.0
+126,Jack,Hinshelwood,MID,50,5,0.038
+127,Ibrahim,Osman,MID,50,5,0.0
+130,Kacper,Kozłowski,MID,45,5,0.0
+132,Solly,March,MID,65,5,0.0
+133,Adrian,Mazilu,MID,45,5,0.0
+134,James,Milner,MID,50,5,0.0
+135,Yankuba,Minteh,MID,53,5,0.0
+136,Mitoma,Kaoru,MID,65,5,0.096
+137,Jakub,Moder,MID,44,5,0.0
+140,Cameron,Peupion,MID,45,5,0.0
+141,Jeremy,Sarmiento Morante,MID,49,5,0.0
+149,Mats,Wieffer,MID,48,5,0.0
+595,Brajan,Gruda,MID,54,5,0.0
+600,Yasin,Ayari,MID,50,5,0.11399999999999999
+601,Andrew,Moran,MID,50,5,0.0
+618,Georginio,Rutter,MID,56,5,0.18400000000000002
+629,Matt,O'Riley,MID,55,5,0.0
+150,Andrey,Nascimento dos Santos,MID,45,6,0.0
+151,Ângelo Gabriel,Borges Damaceno,MID,45,6,0.0
+157,Moisés,Caicedo Corozo,MID,49,6,0.026000000000000002
+158,Cesare,Casadei,MID,44,6,0.0
+161,Carney,Chukwuemeka,MID,48,6,0.0
+166,Kiernan,Dewsbury-Hall,MID,56,6,0.0
+168,Enzo,Fernández,MID,48,6,0.0
+169,Conor,Gallagher,MID,59,6,0.0
+173,Omari,Kellyman,MID,44,6,0.0
+174,Roméo,Lavia,MID,45,6,0.0
+177,Noni,Madueke,MID,64,6,0.238
+179,Mykhailo,Mudryk,MID,62,6,0.0
+181,Christopher,Nkunku,MID,59,6,0.0
+182,Cole,Palmer,MID,110,6,0.6920000000000002
+184,Renato,Palma Veiga,MID,45,6,0.0
+386,Jadon,Sancho,MID,63,6,0.0
+560,Pedro,Lomba Neto,MID,62,6,0.08
+621,João,Félix Sequeira,MID,61,6,0.0
+190,Naouirou,Ahamada,MID,45,7,0.0
+193,Cheick,Doucouré,MID,49,7,0.0
+197,Malcolm,Ebiowei,MID,45,7,0.0
+199,Eberechi,Eze,MID,66,7,0.0
+203,Will,Hughes,MID,49,7,0.062
+205,Daichi,Kamada,MID,51,7,0.094
+206,Jefferson,Lerma Solís,MID,48,7,0.0
+208,Matheus,França de Oliveira,MID,44,7,0.0
+212,David,Ozoh,MID,45,7,0.0
+213,Jesurun,Rak-Sakyi,MID,45,7,0.0
+214,Jeffrey,Schlupp,MID,47,7,0.0
+216,Adam,Wharton,MID,48,7,0.0
+585,Ismaïla,Sarr,MID,57,7,0.22
+644,Franco,Umeh-Chibueze,MID,45,7,0.0
+645,Justin,Devenny,MID,45,7,0.0
+646,Asher,Agbinone,MID,45,7,0.0
+647,Kaden,Rodney,MID,45,7,0.0
+217,Abdoulaye,Doucouré,MID,52,8,0.0
+222,Idrissa,Gueye,MID,49,8,0.05
+223,James,Garner,MID,50,8,0.0
+224,Jack,Harrison,MID,53,8,0.0
+226,Tim,Iroegbunam,MID,45,8,0.0
+230,Dwight,McNeil,MID,58,8,0.08
+577,Jesper,Lindstrøm,MID,51,8,0.27499999999999997
+603,Harrison,Armstrong,MID,45,8,0.0
+614,Jenson,Metcalfe,MID,45,8,0.0
+651,Orel,Mangala,MID,50,8,0.045
+10,Reiss,Nelson,MID,50,9,0.26
+19,Emile,Smith Rowe,MID,57,9,0.20400000000000001
+239,Adama,Traoré,MID,51,9,0.0
+240,Andreas,Hoelgebaum Pereira,MID,52,9,0.33799999999999997
+243,Tom,Cairney,MID,48,9,0.0
+246,Luke,Harris,MID,45,9,0.0
+247,Alex,Iwobi,MID,55,9,0.06599999999999999
+249,Saša,Lukić,MID,49,9,0.0
+254,Harrison,Reed,MID,48,9,0.0
+259,Harry,Wilson,MID,52,9,0.0
+604,Josh,King,MID,45,9,0.0
+605,Martial,Godo,MID,45,9,0.0
+622,Sander,Berge,MID,50,9,0.0
+262,Nathan,Broadhead,MID,49,10,0.0
+264,Wes,Burns,MID,49,10,0.0
+265,Conor,Chaplin,MID,52,10,0.05333333333333334
+271,Marcus,Myers-Harness,MID,49,10,0.0
+273,Cameron,Humphreys,MID,45,10,0.0
+274,Omari,Giraud-Hutchinson,MID,52,10,0.05
+277,Massimo,Luongo,MID,45,10,0.0
+278,Sam,Morsy,MID,49,10,0.044
+281,Jack,Taylor,MID,48,10,0.0
+359,Kalvin,Phillips,MID,49,10,0.062
+611,Sam,Szmodics,MID,58,10,0.32799999999999996
+619,Jens,Cajuste,MID,45,10,0.0
+631,Jack,Clarke,MID,55,10,0.0
+632,Chiedozie,Ogbene,MID,49,10,0.0
+117,Facundo,Buonanotte,MID,51,11,0.434
+192,Jordan,Ayew,MID,52,11,0.0
+285,Boubakary,Soumaré,MID,44,11,0.0
+287,Hamza,Choudhury,MID,44,11,0.0
+290,Bobby,De Cordova-Reid,MID,52,11,0.0
+292,Michael,Golding,MID,44,11,0.0
+297,Wanya,Marçal-Madivádua,MID,45,11,0.0
+298,Stephy,Mavididi,MID,53,11,0.054000000000000006
+299,Kasey,McAteer,MID,48,11,0.0
+300,Wilfred,Ndidi,MID,50,11,0.008
+309,Harry,Winks,MID,45,11,0.024
+501,Oliver,Skipp,MID,49,11,0.0
+570,Abdul,Fatawu,MID,54,11,0.038
+606,Will,Alves,MID,45,11,0.0
+635,Bilal,El Khannouss,MID,49,11,0.0
+312,Stefan,Bajčetić Maquieira,MID,45,12,0.0
+315,Bobby,Clark,MID,45,12,0.0
+317,Diogo,Teixeira da Silva,MID,73,12,0.0
+318,Ben,Doak,MID,45,12,0.0
+319,Harvey,Elliott,MID,52,12,0.0
+320,Endo,Wataru,MID,47,12,0.0
+323,Ryan,Gravenberch,MID,50,12,0.024
+324,Curtis,Jones,MID,53,12,0.0
+327,Luis,Díaz,MID,77,12,0.0
+328,Mohamed,Salah,MID,128,12,0.6479999999999999
+329,Alexis,Mac Allister,MID,62,12,0.044
+330,James,McConnell,MID,44,12,0.0
+331,Tyler,Morton,MID,44,12,0.0
+336,Dominik,Szoboszlai,MID,63,12,0.23399999999999999
+636,Federico,Chiesa,MID,68,12,0.0
+342,Bernardo,Veiga de Carvalho e Silva,MID,65,13,0.146
+343,Oscar,Bobb,MID,47,13,0.0
+345,Kevin,De Bruyne,MID,94,13,0.0
+346,Jérémy,Doku,MID,63,13,0.0
+348,Phil,Foden,MID,93,13,0.21
+349,Jack,Grealish,MID,64,13,0.0
+354,Mateo,Kovačić,MID,56,13,0.126
+356,Matheus Luiz,Nunes,MID,49,13,0.03
+357,James,McAtee,MID,47,13,0.0
+360,Rodrigo 'Rodri',Hernandez,MID,63,13,0.0
+571,Sávio 'Savinho',Moreira de Oliveira,MID,65,13,0.0
+607,Nico,O'Reilly,MID,50,13,0.0
+625,Ilkay,Gündogan,MID,65,13,0.236
+671,Jacob,Wright,MID,45,13,0.0
+364,Amad,Diallo,MID,49,14,0.0
+365,Antony Matheus,dos Santos,MID,57,14,0.0
+366,Bruno,Borges Fernandes,MID,82,14,0.45
+368,Carlos Henrique,Casimiro,MID,48,14,0.15
+370,Christian,Eriksen,MID,54,14,0.0
+372,Alejandro,Garnacho,MID,63,14,0.258
+373,Hannibal,Mejbri,MID,45,14,0.0
+378,Kobbie,Mainoo,MID,52,14,0.0
+381,Scott,McTominay,MID,49,14,0.0
+382,Mason,Mount,MID,63,14,0.0
+384,Facundo,Pellistri Rebollo,MID,50,14,0.0
+385,Marcus,Rashford,MID,69,14,0.096
+613,Toby,Collyer,MID,45,14,0.0
+652,Manuel,Ugarte,MID,49,14,0.0
+667,Jack,Fletcher,MID,45,14,0.0
+673,Jayce,Fitzgerald,MID,45,14,0.0
+391,Miguel,Almirón Rejala,MID,56,15,0.0
+392,Harvey,Barnes,MID,64,15,0.0
+394,Bruno,Guimarães Rodriguez Moura,MID,62,15,0.07799999999999999
+398,Anthony,Gordon,MID,72,15,0.5279999999999999
+400,Isaac,Hayden,MID,45,15,0.0
+402,Jacob,Murphy,MID,50,15,0.0
+403,Joelinton Cássio,Apolinário de Lira,MID,60,15,0.22400000000000003
+406,Garang,Kuol,MID,45,15,0.0
+410,Sean,Longstaff,MID,47,15,0.005
+411,Lewis,Miley,MID,50,15,0.0
+417,Sandro,Tonali,MID,55,15,0.0
+419,Joe,White,MID,45,15,0.0
+420,Joe,Willock,MID,48,15,0.06
+423,Elliot,Anderson,MID,50,16,0.0
+426,Josh,Bowler,MID,45,16,0.0
+428,Eric,da Silva Moreira,MID,45,16,0.0
+429,Danilo,dos Santos de Oliveira,MID,47,16,0.0
+431,Nicolás,Domínguez,MID,48,16,0.11000000000000001
+432,Anthony,Elanga,MID,52,16,0.057999999999999996
+433,Morgan,Gibbs-White,MID,63,16,0.092
+434,Callum,Hudson-Odoi,MID,54,16,0.10600000000000001
+435,Alex,Mighten,MID,45,16,0.0
+439,Lewis,O'Brien,MID,50,16,0.0
+442,Ibrahim,Sangaré,MID,44,16,0.0
+449,Ryan,Yates,MID,49,16,0.188
+531,James,Ward-Prowse,MID,62,16,0.0
+596,João Pedro,Ferreira Silva,MID,59,16,0.0
+620,Ramón,Sosa,MID,55,16,0.0
+188,Lesley,Ugochukwu,MID,45,17,0.0
+397,Ryan,Fraser,MID,48,17,0.0
+450,Carlos,Alcaraz Durán,MID,49,17,0.0
+451,Samuel,Amo-Ameyaw,MID,45,17,0.0
+452,Joe,Aribo,MID,49,17,0.0
+458,Shea,Charles,MID,45,17,0.0
+459,Samuel,Edozie,MID,49,17,0.0
+462,Kamaldeen,Sulemana,MID,50,17,0.0
+463,Adam,Lallana,MID,50,17,0.0
+471,Will,Smallbone,MID,50,17,0.0
+515,Maxwel,Cornet,MID,48,17,0.0
+518,Flynn,Downes,MID,48,17,0.048
+584,Ben,Brereton Díaz,MID,51,17,0.0
+608,Tyler,Dibling,MID,46,17,0.0
+623,Mateus Gonçalo,Espanha Fernandes,MID,50,17,0.034
+480,Rodrigo,Bentancur,MID,50,18,0.030000000000000006
+481,Lucas,Bergvall,MID,44,18,0.0
+482,Yves,Bissouma,MID,49,18,0.0
+483,Bryan,Gil Salvatierra,MID,50,18,0.0
+485,Alfie,Devine,MID,45,18,0.0
+489,Archie,Gray,MID,47,18,0.0
+490,Pierre-Emile,Højbjerg,MID,50,18,0.0
+491,Brennan,Johnson,MID,67,18,0.682
+492,Dejan,Kulusevski,MID,63,18,0.15
+493,Giovani,Lo Celso,MID,49,18,0.0
+494,James,Maddison,MID,76,18,0.0
+499,Pape Matar,Sarr,MID,48,18,0.055
+502,Manor,Solomon,MID,54,18,0.0
+503,Son,Heung-min,MID,99,18,0.124
+509,Timo,Werner,MID,62,18,0.0
+610,Mikey,Moore,MID,45,18,0.0
+612,Wilson,Odobert,MID,53,18,0.0
+511,Edson,Álvarez Velázquez,MID,50,19,0.002
+514,Jarrod,Bowen,MID,75,19,0.26799999999999996
+519,George,Earthy,MID,45,19,0.0
+525,Mohammed,Kudus,MID,62,19,0.0
+526,Luis Guilherme,Lira dos Santos,MID,47,19,0.0
+527,Lucas,Tolentino Coelho de Lima,MID,58,19,0.23200000000000004
+530,Tomáš,Souček,MID,50,19,0.0
+576,Andy,Irving,MID,48,19,0.0
+587,Crysencio,Summerville,MID,57,19,0.0
+588,Guido,Rodríguez,MID,49,19,0.0
+654,Carlos,Soler,MID,50,19,0.0
+534,Boubacar,Traoré,MID,48,20,0.0
+535,Jean-Ricner,Bellegarde,MID,50,20,0.0
+537,Francisco Jorge,Tomás Oliveira,MID,45,20,0.0
+538,Tawanda,Chirewa,MID,45,20,0.0
+540,Luke,Cundle,MID,45,20,0.0
+544,Tommy,Doyle,MID,48,20,0.12000000000000001
+547,Enso,González,MID,45,20,0.0
+548,Gonçalo Manuel,Ganchinho Guedes,MID,53,20,0.0
+550,Hwang,Hee-chan,MID,61,20,0.0
+551,Joe,Hodge,MID,45,20,0.0
+553,João Victor,Gomes da Silva,MID,49,20,0.052000000000000005
+557,Mario,Lemina,MID,50,20,0.0
+562,Daniel,Castelo Podence,MID,55,20,0.0
+563,Rodrigo,Martins Gomes,MID,52,20,0.0
+565,Pablo,Sarabia,MID,51,20,0.36
+642,André,Trindade da Costa Neto,MID,50,20,0.0
+655,Carlos Roberto,Forbs Borges,MID,55,20,0.0
