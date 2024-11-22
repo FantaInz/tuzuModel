@@ -1,222 +1,224 @@
 id,first_name,second_name,position,value,team_id,mean_xg_5,mean_xa_5
-3,Gabriel,dos Santos Magalhães,DEF,62,1,0.196,0.04
-6,Jurriën,Timber,DEF,55,1,0.06,0.052000000000000005
+3,Gabriel,dos Santos Magalhães,DEF,61,1,0.098,0.084
+6,Jurriën,Timber,DEF,55,1,0.057999999999999996,0.052000000000000005
 8,Jakub,Kiwior,DEF,48,1,0.0,0.0
-18,William,Saliba,DEF,60,1,0.0,0.057999999999999996
+18,William,Saliba,DEF,60,1,0.0,0.10800000000000001
 21,Kieran,Tierney,DEF,43,1,0.0,0.0
 22,Tomiyasu,Takehiro,DEF,48,1,0.0,0.0
-24,Benjamin,White,DEF,62,1,0.0,0.0
+24,Benjamin,White,DEF,62,1,0.012,0.041999999999999996
 25,Oleksandr,Zinchenko,DEF,48,1,0.0,0.0
 578,Riccardo,Calafiori,DEF,58,1,0.0,0.0
 657,Maldini,Kacurri,DEF,40,1,0.0,0.0
 658,Ayden,Heaven,DEF,40,1,0.0,0.0
 662,Josh,Nichols,DEF,40,1,0.0,0.0
 32,Matty,Cash,DEF,44,2,0.0,0.0
-35,Diego Carlos,Santos Silva,DEF,45,2,0.0,0.0
-36,Lucas,Digne,DEF,47,2,0.057999999999999996,0.13999999999999999
+35,Diego Carlos,Santos Silva,DEF,45,2,0.012,0.008
+36,Lucas,Digne,DEF,47,2,0.10400000000000001,0.16599999999999998
 40,Kortney,Hause,DEF,40,2,0.0,0.0
 43,Kaine,Kesler-Hayden,DEF,40,2,0.0,0.0
-44,Ezri,Konsa Ngoyo,DEF,45,2,0.05600000000000001,0.062
+44,Ezri,Konsa Ngoyo,DEF,44,2,0.05600000000000001,0.06
 45,Ian,Maatsen,DEF,47,2,0.0,0.0
 49,Tyrone,Mings,DEF,44,2,0.0,0.0
 50,Kosta,Nedeljković,DEF,40,2,0.0,0.0
-52,Pau,Torres,DEF,45,2,0.033999999999999996,0.016
+52,Pau,Torres,DEF,45,2,0.033999999999999996,0.026000000000000002
 56,Lino,da Cruz Sousa,DEF,40,2,0.0,0.0
 598,Lamare,Bogarde,DEF,40,2,0.0,0.0
 640,Sil,Swinkels,DEF,40,2,0.0,0.0
 59,Max,Aarons,DEF,43,3,0.0,0.0
 68,James,Hill,DEF,40,3,0.0,0.0
-70,Milos,Kerkez,DEF,44,3,0.018000000000000002,0.11599999999999999
+70,Milos,Kerkez,DEF,44,3,0.014000000000000002,0.13399999999999998
 72,Chris,Mepham,DEF,44,3,0.0,0.0
-79,Marcos,Senesi,DEF,48,3,0.024,0.062
+79,Marcos,Senesi,DEF,48,3,0.16199999999999998,0.034
 81,Adam,Smith,DEF,45,3,0.12,0.006
-85,Illia,Zabarnyi,DEF,44,3,0.022,0.012
+85,Illia,Zabarnyi,DEF,44,3,0.022,0.014000000000000002
 580,Dean,Huijsen,DEF,43,3,0.0,0.0
 592,Julián,Araujo Zúñiga,DEF,44,3,0.0,0.0
 86,Kristoffer,Ajer,DEF,44,4,0.0,0.0
-88,Nathan,Collins,DEF,45,4,0.24,0.064
+88,Nathan,Collins,DEF,45,4,0.24,0.11200000000000002
 92,Rico,Henry,DEF,43,4,0.0,0.0
 93,Aaron,Hickey,DEF,43,4,0.0,0.0
 96,Kim,Ji-soo,DEF,39,4,0.0,0.0
 100,Ben,Mee,DEF,42,4,0.0,0.0
-104,Ethan,Pinnock,DEF,45,4,0.122,0.072
-105,Mads,Roerslev Rasmussen,DEF,44,4,0.0025,0.085
+104,Ethan,Pinnock,DEF,45,4,0.122,0.094
+105,Mads,Roerslev Rasmussen,DEF,44,4,0.0,0.0
 112,Mathias,Jorgensen,DEF,45,4,0.0,0.0
-338,Sepp,van den Berg,DEF,40,4,0.078,0.02
+338,Sepp,van den Berg,DEF,41,4,0.10200000000000001,0.018
 649,Jayden,Meghoma,DEF,40,4,0.0,0.0
 116,Valentín,Barco,DEF,40,5,0.0,0.0
 120,Lewis,Dunk,DEF,44,5,0.0,0.0
-122,Pervis,Estupiñán,DEF,50,5,0.015000000000000001,0.075
-128,Igor Julio,dos Santos de Paulo,DEF,44,5,0.0125,0.01
+122,Pervis,Estupiñán,DEF,50,5,0.036,0.118
+128,Igor Julio,dos Santos de Paulo,DEF,44,5,0.01,0.008
 131,Tariq,Lamptey,DEF,44,5,0.0,0.0
 139,Odeluga,Offiah,DEF,40,5,0.0,0.0
-144,Jan Paul,van Hecke,DEF,45,5,0.018,0.044000000000000004
-145,Joël,Veltman,DEF,45,5,0.004,0.11200000000000002
+144,Jan Paul,van Hecke,DEF,45,5,0.008,0.066
+145,Joël,Veltman,DEF,45,5,0.004,0.11400000000000002
 147,Adam,Webster,DEF,43,5,0.0,0.0
-628,Ferdi,Kadioglu,DEF,45,5,0.10250000000000001,0.035
+628,Ferdi,Kadioglu,DEF,45,5,0.0,0.0
 663,Imari,Samuels,DEF,40,5,0.0,0.0
 153,Benoît,Badiashile,DEF,43,6,0.0,0.0
 160,Ben,Chilwell,DEF,47,6,0.0,0.0
-162,Levi,Colwill,DEF,46,6,0.002,0.06000000000000001
-163,Marc,Cucurella Saseta,DEF,50,6,0.0,0.0
+162,Levi,Colwill,DEF,45,6,0.002,0.06200000000000001
+163,Marc,Cucurella Saseta,DEF,50,6,0.0,0.088
 167,Axel,Disasi,DEF,43,6,0.0,0.0
 170,Alfie,Gilchrist,DEF,40,6,0.0,0.0
-171,Malo,Gusto,DEF,49,6,0.0,0.0
-172,Reece,James,DEF,49,6,0.0,0.10500000000000001
+171,Malo,Gusto,DEF,49,6,0.178,0.041999999999999996
+172,Reece,James,DEF,49,6,0.0,0.0
 176,Malang,Sarr,DEF,45,6,0.0,0.0
 187,Tosin,Adarabioyo,DEF,43,6,0.0,0.0
-189,Wesley,Fofana,DEF,45,6,0.0,0.016
+189,Wesley,Fofana,DEF,45,6,0.072,0.008
 575,Caleb,Wiley,DEF,40,6,0.0,0.0
-159,Trevoh,Chalobah,DEF,44,7,0.09,0.015000000000000001
+159,Trevoh,Chalobah,DEF,44,7,0.072,0.012
 194,Chris,Richards,DEF,44,7,0.0,0.0
 195,Chadi,Riad Dnanou,DEF,43,7,0.0,0.0
-196,Nathaniel,Clyne,DEF,44,7,0.0,0.0
-200,Marc,Guéhi,DEF,45,7,0.194,0.026000000000000002
+196,Nathaniel,Clyne,DEF,44,7,0.0025,0.005
+200,Marc,Guéhi,DEF,45,7,0.176,0.008
 202,Rob,Holding,DEF,43,7,0.0,0.0
-210,Tyrick,Mitchell,DEF,49,7,0.012,0.048
-211,Daniel,Muñoz,DEF,48,7,0.124,0.055999999999999994
+210,Tyrick,Mitchell,DEF,49,7,0.012,0.054000000000000006
+211,Daniel,Muñoz,DEF,48,7,0.22800000000000004,0.05399999999999999
 215,Joel,Ward,DEF,43,7,0.0,0.0
-650,Maxence,Lacroix,DEF,45,7,0.052000000000000005,0.07
+650,Maxence,Lacroix,DEF,45,7,0.024,0.041999999999999996
 666,Caleb,Kporha,DEF,40,7,0.0,0.0
-219,Jarrad,Branthwaite,DEF,48,8,0.0,0.0
+219,Jarrad,Branthwaite,DEF,48,8,0.0,0.01
 221,Séamus,Coleman,DEF,43,8,0.0,0.0
 225,Mason,Holgate,DEF,40,8,0.0,0.0
-228,Michael,Keane,DEF,43,8,0.033999999999999996,0.0
-231,Vitalii,Mykolenko,DEF,43,8,0.01,0.064
+228,Michael,Keane,DEF,43,8,0.0,0.0
+231,Vitalii,Mykolenko,DEF,43,8,0.016,0.05800000000000001
 234,Nathan,Patterson,DEF,44,8,0.0,0.0
-236,James,Tarkowski,DEF,48,8,0.05600000000000001,0.124
-238,Ashley,Young,DEF,45,8,0.012,0.132
-582,Jake,O'Brien,DEF,47,8,0.0,0.0
+236,James,Tarkowski,DEF,48,8,0.016,0.124
+238,Ashley,Young,DEF,45,8,0.026000000000000002,0.13999999999999999
+582,Jake,O'Brien,DEF,46,8,0.0,0.0
 627,Roman,Dixon,DEF,40,8,0.0,0.0
-191,Joachim,Andersen,DEF,43,9,0.033999999999999996,0.016
-241,Calvin,Bassey,DEF,45,9,0.013999999999999999,0.014000000000000002
+191,Joachim,Andersen,DEF,43,9,0.028000000000000004,0.016
+241,Calvin,Bassey,DEF,45,9,0.012,0.012
 244,Timothy,Castagne,DEF,42,9,0.0,0.0
 245,Issa,Diop,DEF,44,9,0.0,0.0
 250,Kevin,Mbabu,DEF,40,9,0.0,0.0
 253,Tim,Ream,DEF,45,9,0.0,0.0
-255,Antonee,Robinson,DEF,47,9,0.016,0.134
-257,Kenny,Tete,DEF,45,9,0.03799999999999999,0.028000000000000004
+255,Antonee,Robinson,DEF,47,9,0.02,0.14
+257,Kenny,Tete,DEF,45,9,0.044,0.03
 579,Ryan,Sessegnon,DEF,42,9,0.0,0.0
 586,Jorge,Cuenca Barreno,DEF,44,9,0.0,0.0
 261,Elkan,Baggott,DEF,40,10,0.0,0.0
-263,Cameron,Burgess,DEF,39,10,0.043333333333333335,0.013333333333333334
+263,Cameron,Burgess,DEF,39,10,0.0475,0.015
 266,Harry,Clarke,DEF,40,10,0.0,0.0
-267,Leif,Davis,DEF,45,10,0.05800000000000001,0.28600000000000003
+267,Leif,Davis,DEF,45,10,0.05800000000000001,0.22000000000000003
 269,George,Edmundson,DEF,40,10,0.0,0.0
 270,Jacob,Greaves,DEF,40,10,0.0,0.0
-275,Ben,Johnson,DEF,40,10,0.013333333333333334,0.07666666666666667
+275,Ben,Johnson,DEF,40,10,0.01,0.060000000000000005
 279,Corrie,Ndaba,DEF,40,10,0.0,0.0
-282,Axel,Tuanzebe,DEF,40,10,0.0,0.0
+282,Axel,Tuanzebe,DEF,40,10,0.022,0.008
 284,Luke,Woolfenden,DEF,40,10,0.0,0.0
 583,Conor,Townsend,DEF,40,10,0.0,0.0
-630,Dara,O'Shea,DEF,40,10,0.072,0.006
+630,Dara,O'Shea,DEF,40,10,0.084,0.008
 288,Conor,Coady,DEF,40,11,0.0,0.0
-291,Wout,Faes,DEF,42,11,0.11000000000000001,0.016
-295,James,Justin,DEF,46,11,0.0,0.0
-296,Victor,Kristiansen,DEF,45,11,0.0,0.05600000000000001
+291,Wout,Faes,DEF,42,11,0.11000000000000001,0.018
+295,James,Justin,DEF,46,11,0.036,0.028000000000000004
+296,Victor,Kristiansen,DEF,45,11,0.0,0.048
 301,Caleb,Okoli,DEF,40,11,0.0,0.0
-302,Ricardo,Barbosa Pereira,DEF,42,11,0.0,0.015
+302,Ricardo,Barbosa Pereira,DEF,42,11,0.0,0.0
 303,Harry,Souttar,DEF,40,11,0.0,0.0
 305,Luke,Thomas,DEF,39,11,0.0,0.0
-307,Jannik,Vestergaard,DEF,40,11,0.0033333333333333335,0.006666666666666667
+307,Jannik,Vestergaard,DEF,40,11,0.0025,0.005
 616,Ben,Nelson,DEF,40,11,0.0,0.0
-311,Trent,Alexander-Arnold,DEF,70,12,0.04,0.184
-313,Conor,Bradley,DEF,47,12,0.0,0.0
+311,Trent,Alexander-Arnold,DEF,70,12,0.0,0.0
+313,Conor,Bradley,DEF,47,12,0.0,0.01
 322,Joe,Gomez,DEF,48,12,0.0,0.0
-326,Ibrahima,Konaté,DEF,53,12,0.0,0.0
+326,Ibrahima,Konaté,DEF,54,12,0.05600000000000001,0.01
 332,Nathaniel,Phillips,DEF,40,12,0.0,0.0
-333,Jarell,Quansah,DEF,40,12,0.0,0.0
+333,Jarell,Quansah,DEF,39,12,0.0,0.0
 334,Rhys,Williams,DEF,40,12,0.0,0.0
-335,Andrew,Robertson,DEF,59,12,0.0,0.0
-337,Konstantinos,Tsimikas,DEF,46,12,0.04,0.28500000000000003
-339,Virgil,van Dijk,DEF,62,12,0.06,0.03
-340,Manuel,Akanji,DEF,55,13,0.026000000000000002,0.11000000000000001
-341,Nathan,Aké,DEF,53,13,0.02,0.01
-350,Joško,Gvardiol,DEF,63,13,0.076,0.088
+335,Andrew,Robertson,DEF,59,12,0.016,0.17
+337,Konstantinos,Tsimikas,DEF,46,12,0.0,0.0
+339,Virgil,van Dijk,DEF,63,12,0.06,0.030000000000000006
+340,Manuel,Akanji,DEF,55,13,0.0,0.0
+341,Nathan,Aké,DEF,53,13,0.0,0.0
+350,Joško,Gvardiol,DEF,63,13,0.07,0.09
 353,João,Cavaco Cancelo,DEF,53,13,0.0,0.0
-355,Rico,Lewis,DEF,49,13,0.0,0.0
-361,Rúben,Gato Alves Dias,DEF,55,13,0.0,0.0
+355,Rico,Lewis,DEF,49,13,0.02,0.049999999999999996
+361,Rúben,Gato Alves Dias,DEF,54,13,0.0,0.0
 362,John,Stones,DEF,53,13,0.0,0.0
-363,Kyle,Walker,DEF,52,13,0.03,0.23750000000000002
+363,Kyle,Walker,DEF,52,13,0.024,0.202
 626,Issa,Kaboré,DEF,45,13,0.0,0.0
-672,Jahmai,Simpson-Pusey,DEF,40,13,0.0,0.0
-369,Diogo,Dalot Teixeira,DEF,51,14,0.11000000000000001,0.04
+672,Jahmai,Simpson-Pusey,DEF,40,13,0.0,0.01
+675,Josh,Wilson-Esbrand,DEF,40,13,0.0,0.0
+369,Diogo,Dalot Teixeira,DEF,52,14,0.0,0.0
 371,Jonny,Evans,DEF,44,14,0.0,0.0
 376,Victor,Lindelöf,DEF,43,14,0.0,0.0
 377,Harry,Maguire,DEF,49,14,0.0,0.0
 379,Tyrell,Malacia,DEF,44,14,0.0,0.0
-380,Lisandro,Martínez,DEF,44,14,0.094,0.013999999999999999
+380,Lisandro,Martínez,DEF,44,14,0.052000000000000005,0.014000000000000002
 387,Luke,Shaw,DEF,49,14,0.0,0.0
 572,Leny,Yoro,DEF,43,14,0.0,0.0
-593,Matthijs,de Ligt,DEF,50,14,0.14200000000000002,0.006
-594,Noussair,Mazraoui,DEF,45,14,0.024,0.128
+593,Matthijs,de Ligt,DEF,50,14,0.034,0.006
+594,Noussair,Mazraoui,DEF,46,14,0.004,0.10600000000000001
 670,Harry,Amass,DEF,40,14,0.0,0.0
 390,Alex,Murphy,DEF,40,15,0.0,0.0
 393,Sven,Botman,DEF,44,15,0.0,0.0
-395,Dan,Burn,DEF,44,15,0.026000000000000002,0.02
-399,Lewis,Hall,DEF,43,15,0.0,0.22399999999999998
+395,Dan,Burn,DEF,44,15,0.038,0.022000000000000002
+399,Lewis,Hall,DEF,44,15,0.0,0.21800000000000003
 404,Lloyd,Kelly,DEF,43,15,0.0,0.0
 405,Emil,Krafth,DEF,44,15,0.0,0.0
 407,Jamaal,Lascelles,DEF,45,15,0.0,0.0
 408,Jamal,Lewis,DEF,40,15,0.0,0.0
-409,Tino,Livramento,DEF,45,15,0.0,0.014000000000000002
-415,Fabian,Schär,DEF,54,15,0.08399999999999999,0.064
+409,Tino,Livramento,DEF,45,15,0.0,0.016
+415,Fabian,Schär,DEF,54,15,0.072,0.05800000000000001
 416,Matt,Targett,DEF,40,15,0.0,0.0
 418,Kieran,Trippier,DEF,56,15,0.0,0.0
 574,Miodrag,Pivaš,DEF,40,15,0.0,0.0
-26,Álex,Moreno Lopera,DEF,44,16,0.028000000000000004,0.15799999999999997
-422,Ola,Aina,DEF,47,16,0.016,0.09799999999999999
+26,Álex,Moreno Lopera,DEF,44,16,0.018,0.15599999999999997
+422,Ola,Aina,DEF,48,16,0.016,0.04799999999999999
 425,Willy,Boly,DEF,43,16,0.0,0.0
-436,Murillo,Santiago Costa dos Santos,DEF,45,16,0.066,0.054000000000000006
-437,Neco,Williams,DEF,44,16,0.0,0.0
+436,Murillo,Santiago Costa dos Santos,DEF,45,16,0.10400000000000001,0.033999999999999996
+437,Neco,Williams,DEF,43,16,0.0,0.0
 438,Omar,Richards,DEF,45,16,0.0,0.0
 440,Andrew,Omobamidele,DEF,43,16,0.0,0.0
 441,Jonathan,Panzo,DEF,40,16,0.0,0.0
 444,Harry,Toffolo,DEF,43,16,0.0,0.0
 448,Joe,Worrall,DEF,45,16,0.0,0.0
-573,Nikola,Milenković,DEF,45,16,0.126,0.078
+573,Nikola,Milenković,DEF,45,16,0.10200000000000001,0.078
 653,Felipe,Rodrigues da Silva,DEF,45,16,0.0,0.0
-455,Jan,Bednarek,DEF,40,17,0.0,0.134
+455,Jan,Bednarek,DEF,40,17,0.002,0.136
 456,Armel,Bella-Kotchap,DEF,39,17,0.0,0.0
 457,James,Bree,DEF,39,17,0.0,0.0
 460,Ronnie,Edwards,DEF,39,17,0.0,0.0
-461,Taylor,Harwood-Bellis,DEF,41,17,0.184,0.006
+461,Taylor,Harwood-Bellis,DEF,41,17,0.186,0.006
 464,Juan,Larios López,DEF,40,17,0.0,0.0
 467,Ryan,Manning,DEF,43,17,0.0,0.0
-472,Jack,Stephens,DEF,40,17,0.046,0.02
+472,Jack,Stephens,DEF,40,17,0.0,0.0
 474,Sugawara,Yukinari,DEF,45,17,0.0,0.0
 475,Charlie,Taylor,DEF,39,17,0.0,0.0
-476,Kyle,Walker-Peters,DEF,44,17,0.008,0.072
+476,Kyle,Walker-Peters,DEF,44,17,0.008,0.06999999999999998
 477,Nathan,Wood-Gordon,DEF,40,17,0.0,0.0
 478,Ashley,Phillips,DEF,40,18,0.0,0.0
 484,Ben,Davies,DEF,43,18,0.0,0.0
-486,Radu,Drăgușin,DEF,43,18,0.01,0.01
+486,Radu,Drăgușin,DEF,43,18,0.006666666666666667,0.01
 487,Emerson,Leite de Souza Junior,DEF,45,18,0.0,0.0
-495,Pedro,Porro,DEF,55,18,0.066,0.11199999999999999
+495,Pedro,Porro,DEF,55,18,0.041999999999999996,0.128
 496,Sergio,Reguilón,DEF,42,18,0.0,0.0
-498,Cristian,Romero,DEF,51,18,0.0,0.0
+498,Cristian,Romero,DEF,50,18,0.06,0.05800000000000001
 504,Djed,Spence,DEF,44,18,0.0,0.0
-505,Destiny,Udogie,DEF,49,18,0.044,0.15599999999999997
+505,Destiny,Udogie,DEF,49,18,0.033999999999999996,0.156
 506,Micky,van de Ven,DEF,46,18,0.0,0.0
-388,Aaron,Wan-Bissaka,DEF,44,19,0.014000000000000002,0.048
+388,Aaron,Wan-Bissaka,DEF,44,19,0.009999999999999998,0.038
 516,Vladimír,Coufal,DEF,43,19,0.0,0.0
 517,Aaron,Cresswell,DEF,40,19,0.0,0.0
-520,Emerson,Palmieri dos Santos,DEF,44,19,0.174,0.22000000000000003
-524,Max,Kilman,DEF,45,19,0.074,0.006
-528,Konstantinos,Mavropanos,DEF,45,19,0.042,0.004
+520,Emerson,Palmieri dos Santos,DEF,44,19,0.182,0.192
+524,Max,Kilman,DEF,45,19,0.074,0.004
+528,Konstantinos,Mavropanos,DEF,45,19,0.0,0.0
 529,Nayef,Aguerd,DEF,44,19,0.0,0.0
 532,Kurt,Zouma,DEF,44,19,0.0,0.0
-591,Jean-Clair,Todibo,DEF,43,19,0.025,0.005
+591,Jean-Clair,Todibo,DEF,43,19,0.02,0.004
 643,Kaelan,Casey,DEF,40,19,0.0,0.0
-533,Rayan,Aït-Nouri,DEF,47,20,0.11399999999999999,0.054000000000000006
-542,Craig,Dawson,DEF,44,20,0.092,0.006
+677,Ollie,Scarles,DEF,40,19,0.0,0.0
+533,Rayan,Aït-Nouri,DEF,47,20,0.05600000000000001,0.066
+542,Craig,Dawson,DEF,44,20,0.078,0.006
 543,Matt,Doherty,DEF,43,20,0.0,0.0
 549,Hugo,Bueno López,DEF,45,20,0.0,0.0
 552,Ki-Jana,Hoever,DEF,40,20,0.0,0.0
-558,Yerson,Mosquera,DEF,40,20,0.0,0.0
-559,Nélson,Cabral Semedo,DEF,45,20,0.096,0.054000000000000006
+558,Yerson,Mosquera,DEF,39,20,0.0,0.0
+559,Nélson,Cabral Semedo,DEF,45,20,0.094,0.062
 561,Pedro,Cardoso de Lima,DEF,40,20,0.0,0.0
-564,Santiago,Bueno,DEF,43,20,0.0525,0.0025
-567,Toti António,Gomes,DEF,43,20,0.002,0.006
+564,Santiago,Bueno,DEF,43,20,0.041999999999999996,0.002
+567,Toti António,Gomes,DEF,43,20,0.002,0.009999999999999998
 637,Bastien,Meupiyou,DEF,40,20,0.0,0.0
-664,Alfie,Pond,DEF,40,20,0.0,0.0
+664,Alfie,Pond,DEF,39,20,0.0,0.0

@@ -251,6 +251,7 @@ id,first_name,second_name,position
 647,Kaden,Rodney,MID
 650,Maxence,Lacroix,DEF
 666,Caleb,Kporha,DEF
+676,Zach,Marsh,FWD
 156,Armando,Broja,FWD
 217,Abdoulaye,Doucouré,MID
 218,Norberto Bercique,Gomes Betuncal,FWD
@@ -280,6 +281,7 @@ id,first_name,second_name,position
 624,Asmir,Begovic,GK
 627,Roman,Dixon,DEF
 651,Orel,Mangala,MID
+678,Callum,Bates,MID
 10,Reiss,Nelson,MID
 19,Emile,Smith Rowe,MID
 191,Joachim,Andersen,DEF
@@ -435,6 +437,7 @@ id,first_name,second_name,position
 626,Issa,Kaboré,DEF
 671,Jacob,Wright,MID
 672,Jahmai,Simpson-Pusey,DEF
+675,Josh,Wilson-Esbrand,DEF
 364,Amad,Diallo,MID
 365,Antony Matheus,dos Santos,MID
 366,Bruno,Borges Fernandes,MID
@@ -634,6 +637,7 @@ id,first_name,second_name,position
 591,Jean-Clair,Todibo,DEF
 643,Kaelan,Casey,DEF
 654,Carlos,Soler,MID
+677,Ollie,Scarles,DEF
 204,Sam,Johnstone,GK
 533,Rayan,Aït-Nouri,DEF
 534,Boubacar,Traoré,MID

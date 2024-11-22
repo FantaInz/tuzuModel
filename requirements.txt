@@ -5,3 +5,5 @@ ipykernel
 xgboost
 scikit-learn
 matplotlib
+jupyter
+GitPython
