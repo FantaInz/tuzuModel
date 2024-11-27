@@ -1,0 +1,6 @@
+assists,bonus,bps,clean_sheets,creativity,unique_id,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,gameweek,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,POS,Full Name,own_team,opponent_short_name,opponent_attack,opponent_defense,own_short_name,own_attack,own_defense,crowds,season
+0,0,0,0,0.0,928,329,0,0,0.0,0.0,2021-05-01 14:00:00+00:00,0,5,0,0,0,0,34,0,0,0,2,0.0,0,0,0,0,40,False,0,2,Cody Drameh,24,BHA,1150,1100,LEE,1150,1170,0,2020
+0,0,0,0,0.0,928,342,0,0,0.0,0.0,2021-05-08 11:30:00+00:00,0,18,0,0,0,0,35,0,80,1,3,0.0,0,36,48,12,40,True,0,2,Cody Drameh,24,TOT,1170,1290,LEE,1060,1210,0,2020
+0,0,0,0,0.0,928,350,0,0,0.0,0.0,2021-05-15 11:30:00+00:00,0,21,0,0,0,0,36,0,126,4,0,0.0,0,8,29,21,40,False,0,2,Cody Drameh,24,BUR,1040,1040,LEE,1150,1170,0,2020
+0,0,0,0,0.0,928,366,0,0,0.0,0.0,2021-05-18 17:00:00+00:00,0,17,0,0,0,0,37,0,155,2,0,0.0,0,4,33,29,40,False,0,2,Cody Drameh,24,SOU,1030,1110,LEE,1150,1170,0,2020
+0,0,0,0,0.0,928,372,0,0,0.0,0.0,2021-05-23 15:00:00+00:00,0,27,0,0,0,0,38,0,201,1,3,0.0,0,18,50,32,40,True,0,2,Cody Drameh,24,WBA,1000,1040,LEE,1060,1210,0,2020

@@ -1,0 +1,10 @@
+assists,bonus,bps,clean_sheets,creativity,unique_id,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,gameweek,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,POS,Full Name,own_team,opponent_short_name,opponent_attack,opponent_defense,own_short_name,own_attack,own_defense,crowds,season
+0,0,0,0,0.0,845,299,0,0,0.0,0.0,2021-04-12 19:15:00+00:00,0,5,0,0,0,0,31,0,0,0,0,0.0,0,0,0,0,45,False,0,3,Isaac Price,8,BHA,1150,1100,EVE,1100,1140,0,2020
+0,0,0,0,0.0,845,312,0,0,0.0,0.0,2021-04-16 19:00:00+00:00,0,18,0,0,0,0,32,0,32,2,2,0.0,0,21,22,1,45,True,0,3,Isaac Price,8,TOT,1170,1290,EVE,1130,1200,0,2020
+0,0,0,0,0.0,845,319,0,0,0.0,0.0,2021-04-23 19:00:00+00:00,0,1,0,0,0,0,33,0,58,1,0,0.0,0,15,26,11,45,False,0,3,Isaac Price,8,ARS,1130,1220,EVE,1100,1140,0,2020
+0,0,0,0,0.0,845,333,0,0,0.0,0.0,2021-05-01 19:00:00+00:00,0,2,0,0,0,0,34,0,75,2,1,0.0,0,11,31,20,45,True,0,3,Isaac Price,8,AVL,1140,1100,EVE,1130,1200,0,2020
+0,0,0,0,0.0,845,347,0,0,0.0,0.0,2021-05-09 15:30:00+00:00,0,19,0,0,0,0,35,0,86,1,0,0.0,0,-2,27,29,45,False,0,3,Isaac Price,8,WHU,1140,1260,EVE,1100,1140,0,2020
+0,0,0,0,0.0,845,180,0,0,0.0,0.0,2021-05-13 17:00:00+00:00,0,2,0,0,0,0,35,0,86,0,0,0.0,0,-2,27,29,45,False,0,3,Isaac Price,8,AVL,1120,1080,EVE,1100,1140,0,2020
+0,0,0,0,0.0,845,351,0,0,0.0,0.0,2021-05-16 18:00:00+00:00,0,23,0,0,0,0,36,0,94,1,0,0.0,0,4,16,12,45,True,0,3,Isaac Price,8,SHU,1070,1010,EVE,1130,1200,0,2020
+0,0,0,0,0.0,845,363,0,0,0.0,0.0,2021-05-19 17:00:00+00:00,0,20,0,0,0,0,37,0,95,0,1,0.0,0,-3,13,16,45,True,0,3,Isaac Price,8,WOL,1130,1120,EVE,1130,1200,0,2020
+0,0,0,0,0.0,845,375,0,0,0.0,0.0,2021-05-23 15:00:00+00:00,0,13,0,0,0,0,38,0,120,0,5,0.0,0,16,36,20,45,False,0,3,Isaac Price,8,MCI,1280,1340,EVE,1100,1140,0,2020
