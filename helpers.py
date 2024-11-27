@@ -123,7 +123,7 @@ def combine_position_data(data_directory, seasons, positions, output_file_name):
         # Iterate through position files
         for position in positions:
             position_file = f"{position}_players.csv"
-            position_file_path = os.path.join(season_folder, position_file)
+            position_file_path = os.path.join(season_folder, "processed_data", position_file)
 
             if check_file_exists(position_file_path):
                 position_data = load_csv(position_file_path)
