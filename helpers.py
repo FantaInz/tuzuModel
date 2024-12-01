@@ -137,6 +137,10 @@ def combine_position_data(data_directory, seasons, positions, output_file_name):
     if combined_data:
         try:
             combined_df = pd.concat(combined_data, ignore_index=True)
+            if {"unique_id", "season", "gameweek"}.issubset(combined_df.columns):
+                combined_df.sort_values(by=["unique_id", "season", "gameweek"], inplace=True)
+            else:
+                log("One or more required columns ('unique_id', 'season', 'gameweek') missing. Sorting skipped.", level="WARNING")
             output_file_path = os.path.join(training_data_folder, output_file_name)
             save_csv(combined_df, output_file_path)
             log(f"Combined data saved to {output_file_path}.")
