@@ -149,6 +149,34 @@ def combine_position_data(data_directory, seasons, positions, output_file_name):
     else:
         log("No data found for the specified positions in the given seasons.", level="WARNING")
 
+def calculate_season_average_until_gw(data, value_column, group_columns, current_column="gameweek"):
+    """
+    Calculate the season average of a specific value (e.g., xG) until the current gameweek.
+    
+    Args:
+        data (pd.DataFrame): The DataFrame containing the data.
+        value_column (str): The column to calculate the average for (e.g., 'expected_goals').
+        group_columns (list): The columns to group by (e.g., ['unique_id', 'season']).
+        current_column (str): The column to compare for gameweeks (default is 'gameweek').
+
+    Returns:
+        pd.Series: A Series containing the average values until the current gameweek.
+    """
+    # Sort the data by the specified grouping columns and the current column
+    data = data.sort_values(by=group_columns + [current_column])
+
+    # Calculate expanding mean for each group and shift to exclude the current gameweek
+    averages = (
+        data.groupby(group_columns)[value_column]
+        .expanding()
+        .mean()
+        .shift()
+        .reset_index(level=group_columns, drop=True)
+    )
+
+    # Fill NaN values for the first gameweek with 0
+    return averages.fillna(0)
+
 # ========================
 # Git Helpers
 # ========================

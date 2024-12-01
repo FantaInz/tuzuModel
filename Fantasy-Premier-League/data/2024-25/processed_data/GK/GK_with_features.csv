@@ -1,73 +1,73 @@
-id,first_name,second_name,position,value,team_id,rolling_xg_3,rolling_goals_3,last_game_goals,last_game_xg,cumulative_goals,cumulative_xg
-5,Karl,Hein,GK,40,1,0.0,0.0,0.0,0.0,0,0.0
-15,David,Raya Martin,GK,55,1,0.0,0.0,0.0,0.0,0,0.0
-73,Norberto,Murara Neto,GK,43,1,0.0,0.0,0.0,0.0,0,0.0
-639,Tommy,Setford,GK,45,1,0.0,0.0,0.0,0.0,0,0.0
-39,Joe,Gauci,GK,40,2,0.0,0.0,0.0,0.0,0,0.0
-46,Filip,Marschall,GK,40,2,0.0,0.0,0.0,0.0,0,0.0
-47,Emiliano,Martínez Romero,GK,50,2,0.0,0.0,0.0,0.0,0,0.0
-51,Robin,Olsen,GK,45,2,0.0,0.0,0.0,0.0,0,0.0
-55,Viljami,Sinisalo,GK,40,2,0.0,0.0,0.0,0.0,0,0.0
-641,Oliwier,Zych,GK,40,2,0.0,0.0,0.0,0.0,0,0.0
-75,Alex,Paulsen,GK,40,3,0.0,0.0,0.0,0.0,0,0.0
-84,Mark,Travers,GK,44,3,0.0,0.0,0.0,0.0,0,0.0
-152,Kepa,Arrizabalaga,GK,45,3,0.0,0.0,0.0,0.0,0,0.0
-599,Will,Dennis,GK,40,3,0.0,0.0,0.0,0.0,0,0.0
-91,Mark,Flekken,GK,45,4,0.0,0.0,0.0,0.0,0,0.0
-109,Hákon,Valdimarsson,GK,40,4,0.0,0.0,0.0,0.0,0,0.0
-142,Jason,Steele,GK,43,5,0.0,0.0,0.0,0.0,0,0.0
-146,Bart,Verbruggen,GK,45,5,0.0,0.0,0.0,0.0,0,0.0
-615,Carl,Rushworth,GK,40,5,0.0,0.0,0.0,0.0,0,0.0
-668,Killian,Cahill,GK,39,5,0.0,0.0,0.0,0.0,0,0.0
-154,Lucas,Bergström,GK,40,6,0.0,0.0,0.0,0.0,0,0.0
-155,Marcus,Bettinelli,GK,40,6,0.0,0.0,0.0,0.0,0,0.0
-183,Đorđe,Petrović,GK,44,6,0.0,0.0,0.0,0.0,0,0.0
-185,Robert,Sánchez,GK,47,6,0.0,0.0,0.0,0.0,0,0.0
-581,Filip,Jørgensen,GK,42,6,0.0,0.0,0.0,0.0,0,0.0
-201,Dean,Henderson,GK,44,7,0.0,0.0,0.0,0.0,0,0.01
-209,Remi,Matthews,GK,40,7,0.0,0.0,0.0,0.0,0,0.0
-445,Matt,Turner,GK,40,7,0.0,0.0,0.0,0.0,0,0.0
-227,João,Neves Virgínia,GK,40,8,0.0,0.0,0.0,0.0,0,0.0
-235,Jordan,Pickford,GK,49,8,0.0,0.0,0.0,0.0,0,0.0
-624,Asmir,Begovic,GK,40,8,0.0,0.0,0.0,0.0,0,0.0
-242,Steven,Benda,GK,40,9,0.0,0.0,0.0,0.0,0,0.0
-248,Bernd,Leno,GK,50,9,0.0,0.0,0.0,0.0,0,0.0
-280,Cieran,Slicker,GK,40,10,0.0,0.0,0.0,0.0,0,0.0
-283,Christian,Walton,GK,44,10,0.0,0.0,0.0,0.0,0,0.0
-568,Arijanet,Muric,GK,44,10,0.0,0.0,0.0,0.0,0,0.0
-293,Mads,Hermansen,GK,45,11,0.0,0.0,0.0,0.0,0,0.0
-294,Daniel,Iversen,GK,40,11,0.0,0.0,0.0,0.0,0,0.0
-304,Jakub,Stolarczyk,GK,40,11,0.0,0.0,0.0,0.0,0,0.0
-308,Danny,Ward,GK,40,11,0.0,0.0,0.0,0.0,0,0.0
-310,Alisson,Ramses Becker,GK,54,12,0.0,0.0,0.0,0.0,0,0.0
-325,Caoimhin,Kelleher,GK,45,12,0.0,0.0,0.0,0.0,0,0.0
-660,Vítezslav,Jaros,GK,40,12,0.0,0.0,0.0,0.0,0,0.0
-669,Harvey,Davies,GK,40,12,0.0,0.0,0.0,0.0,0,0.0
-344,Scott,Carson,GK,40,13,0.0,0.0,0.0,0.0,0,0.0
-347,Ederson,Santana de Moraes,GK,55,13,0.0,0.0,0.0,0.0,0,0.0
-358,Stefan,Ortega Moreno,GK,52,13,0.0,0.0,0.0,0.0,0,0.0
-367,Altay,Bayindir,GK,43,14,0.0,0.0,0.0,0.0,0,0.0
-374,Tom,Heaton,GK,40,14,0.0,0.0,0.0,0.0,0,0.0
-383,André,Onana,GK,51,14,0.0,0.0,0.0,0.0,0,0.0
-396,Martin,Dúbravka,GK,42,15,0.0,0.0,0.0,0.0,0,0.0
-412,Odysseas,Vlachodimos,GK,43,15,0.0,0.0,0.0,0.0,0,0.0
-413,Nick,Pope,GK,50,15,0.0,0.0,0.0,0.0,0,0.0
-414,John,Ruddy,GK,40,15,0.0,0.0,0.0,0.0,0,0.0
-427,Carlos Miguel,dos Santos Pereira,GK,42,16,0.0,0.0,0.0,0.0,0,0.0
-443,Matz,Sels,GK,47,16,0.0,0.0,0.0,0.0,0,0.0
-14,Aaron,Ramsdale,GK,44,17,0.0,0.0,0.0,0.0,0,0.0
-454,Gavin,Bazunu,GK,43,17,0.0,0.0,0.0,0.0,0,0.0
-465,Mateusz,Lis,GK,40,17,0.0,0.0,0.0,0.0,0,0.0
-466,Joe,Lumley,GK,40,17,0.0,0.0,0.0,0.0,0,0.0
-469,Alex,McCarthy,GK,43,17,0.0,0.0,0.0,0.0,0,0.0
-479,Brandon,Austin,GK,40,18,0.0,0.0,0.0,0.0,0,0.0
-488,Fraser,Forster,GK,43,18,0.0,0.0,0.0,0.0,0,0.0
-508,Guglielmo,Vicario,GK,50,18,0.0,0.0,0.0,0.0,0,0.0
-510,Alfie,Whiteman,GK,40,18,0.0,0.0,0.0,0.0,0,0.0
-513,Alphonse,Areola,GK,43,19,0.0,0.0,0.0,0.0,0,0.0
-521,Łukasz,Fabiański,GK,41,19,0.0,0.0,0.0,0.0,0,0.0
-522,Wes,Foderingham,GK,43,19,0.0,0.0,0.0,0.0,0,0.0
-204,Sam,Johnstone,GK,44,20,0.0,0.0,0.0,0.0,0,0.0
-536,Daniel,Bentley,GK,40,20,0.0,0.0,0.0,0.0,0,0.0
-554,José,Malheiro de Sá,GK,43,20,0.0,0.0,0.0,0.0,0,0.0
-556,Tom,King,GK,40,20,0.0,0.0,0.0,0.0,0,0.0
+id,first_name,second_name,position,value,team_id,rolling_xg_5,average_xg_per_game
+5,Karl,Hein,GK,40,1,0.0,0.0
+15,David,Raya Martin,GK,55,1,0.0,0.0
+73,Norberto,Murara Neto,GK,43,1,0.0,0.0
+639,Tommy,Setford,GK,45,1,0.0,0.0
+39,Joe,Gauci,GK,40,2,0.0,0.0
+46,Filip,Marschall,GK,40,2,0.0,0.0
+47,Emiliano,Martínez Romero,GK,50,2,0.0,0.0
+51,Robin,Olsen,GK,45,2,0.0,0.0
+55,Viljami,Sinisalo,GK,40,2,0.0,0.0
+641,Oliwier,Zych,GK,40,2,0.0,0.0
+75,Alex,Paulsen,GK,40,3,0.0,0.0
+84,Mark,Travers,GK,44,3,0.0,0.0
+152,Kepa,Arrizabalaga,GK,45,3,0.0,0.0
+599,Will,Dennis,GK,40,3,0.0,0.0
+91,Mark,Flekken,GK,45,4,0.0,0.0
+109,Hákon,Valdimarsson,GK,40,4,0.0,0.0
+142,Jason,Steele,GK,43,5,0.0,0.0
+146,Bart,Verbruggen,GK,45,5,0.0,0.0
+615,Carl,Rushworth,GK,40,5,0.0,0.0
+668,Killian,Cahill,GK,39,5,0.0,0.0
+154,Lucas,Bergström,GK,40,6,0.0,0.0
+155,Marcus,Bettinelli,GK,40,6,0.0,0.0
+183,Đorđe,Petrović,GK,44,6,0.0,0.0
+185,Robert,Sánchez,GK,47,6,0.0,0.0
+581,Filip,Jørgensen,GK,42,6,0.0,0.0
+201,Dean,Henderson,GK,44,7,0.0,0.0009090909090909091
+209,Remi,Matthews,GK,40,7,0.0,0.0
+445,Matt,Turner,GK,40,7,0.0,0.0
+227,João,Neves Virgínia,GK,40,8,0.0,0.0
+235,Jordan,Pickford,GK,49,8,0.0,0.0
+624,Asmir,Begovic,GK,40,8,0.0,0.0
+242,Steven,Benda,GK,40,9,0.0,0.0
+248,Bernd,Leno,GK,50,9,0.0,0.0
+280,Cieran,Slicker,GK,40,10,0.0,0.0
+283,Christian,Walton,GK,44,10,0.0,0.0
+568,Arijanet,Muric,GK,44,10,0.0,0.0
+293,Mads,Hermansen,GK,45,11,0.0,0.0
+294,Daniel,Iversen,GK,40,11,0.0,0.0
+304,Jakub,Stolarczyk,GK,40,11,0.0,0.0
+308,Danny,Ward,GK,40,11,0.0,0.0
+310,Alisson,Ramses Becker,GK,54,12,0.0,0.0
+325,Caoimhin,Kelleher,GK,45,12,0.0,0.0
+660,Vítezslav,Jaros,GK,40,12,0.0,0.0
+669,Harvey,Davies,GK,40,12,0.0,0.0
+344,Scott,Carson,GK,40,13,0.0,0.0
+347,Ederson,Santana de Moraes,GK,55,13,0.0,0.0
+358,Stefan,Ortega Moreno,GK,52,13,0.0,0.0
+367,Altay,Bayindir,GK,43,14,0.0,0.0
+374,Tom,Heaton,GK,40,14,0.0,0.0
+383,André,Onana,GK,51,14,0.0,0.0
+396,Martin,Dúbravka,GK,42,15,0.0,0.0
+412,Odysseas,Vlachodimos,GK,43,15,0.0,0.0
+413,Nick,Pope,GK,50,15,0.0,0.0
+414,John,Ruddy,GK,40,15,0.0,0.0
+427,Carlos Miguel,dos Santos Pereira,GK,42,16,0.0,0.0
+443,Matz,Sels,GK,47,16,0.0,0.0
+14,Aaron,Ramsdale,GK,44,17,0.0,0.0
+454,Gavin,Bazunu,GK,43,17,0.0,0.0
+465,Mateusz,Lis,GK,40,17,0.0,0.0
+466,Joe,Lumley,GK,40,17,0.0,0.0
+469,Alex,McCarthy,GK,43,17,0.0,0.0
+479,Brandon,Austin,GK,40,18,0.0,0.0
+488,Fraser,Forster,GK,43,18,0.0,0.0
+508,Guglielmo,Vicario,GK,50,18,0.0,0.0
+510,Alfie,Whiteman,GK,40,18,0.0,0.0
+513,Alphonse,Areola,GK,43,19,0.0,0.0
+521,Łukasz,Fabiański,GK,41,19,0.0,0.0
+522,Wes,Foderingham,GK,43,19,0.0,0.0
+204,Sam,Johnstone,GK,44,20,0.0,0.0
+536,Daniel,Bentley,GK,40,20,0.0,0.0
+554,José,Malheiro de Sá,GK,43,20,0.0,0.0
+556,Tom,King,GK,40,20,0.0,0.0
