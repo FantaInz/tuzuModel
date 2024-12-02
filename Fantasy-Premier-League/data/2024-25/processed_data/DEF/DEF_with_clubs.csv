@@ -57,6 +57,7 @@ id,first_name,second_name,position,value,team_id
 628,Ferdi,Kadioglu,DEF,45,5
 663,Imari,Samuels,DEF,40,5
 681,Ruairi,McConville,DEF,40,5
+685,Jacob,Slater,DEF,40,5
 153,Benoît,Badiashile,DEF,43,6
 160,Ben,Chilwell,DEF,47,6
 162,Levi,Colwill,DEF,45,6
@@ -76,18 +77,18 @@ id,first_name,second_name,position,value,team_id
 200,Marc,Guéhi,DEF,45,7
 202,Rob,Holding,DEF,43,7
 210,Tyrick,Mitchell,DEF,49,7
-211,Daniel,Muñoz,DEF,48,7
+211,Daniel,Muñoz,DEF,47,7
 215,Joel,Ward,DEF,43,7
 650,Maxence,Lacroix,DEF,45,7
 666,Caleb,Kporha,DEF,40,7
 219,Jarrad,Branthwaite,DEF,48,8
 221,Séamus,Coleman,DEF,43,8
 225,Mason,Holgate,DEF,40,8
-228,Michael,Keane,DEF,43,8
+228,Michael,Keane,DEF,42,8
 231,Vitalii,Mykolenko,DEF,43,8
 234,Nathan,Patterson,DEF,44,8
 236,James,Tarkowski,DEF,48,8
-238,Ashley,Young,DEF,45,8
+238,Ashley,Young,DEF,46,8
 582,Jake,O'Brien,DEF,46,8
 627,Roman,Dixon,DEF,40,8
 191,Joachim,Andersen,DEF,43,9
@@ -100,6 +101,7 @@ id,first_name,second_name,position,value,team_id
 257,Kenny,Tete,DEF,45,9
 579,Ryan,Sessegnon,DEF,42,9
 586,Jorge,Cuenca Barreno,DEF,44,9
+690,Samuel,Amissah,DEF,40,9
 261,Elkan,Baggott,DEF,40,10
 263,Cameron,Burgess,DEF,39,10
 266,Harry,Clarke,DEF,40,10
@@ -125,18 +127,18 @@ id,first_name,second_name,position,value,team_id
 311,Trent,Alexander-Arnold,DEF,69,12
 313,Conor,Bradley,DEF,47,12
 322,Joe,Gomez,DEF,48,12
-326,Ibrahima,Konaté,DEF,54,12
+326,Ibrahima,Konaté,DEF,53,12
 332,Nathaniel,Phillips,DEF,40,12
 333,Jarell,Quansah,DEF,39,12
 334,Rhys,Williams,DEF,40,12
 335,Andrew,Robertson,DEF,59,12
 337,Konstantinos,Tsimikas,DEF,46,12
-339,Virgil,van Dijk,DEF,63,12
+339,Virgil,van Dijk,DEF,64,12
 340,Manuel,Akanji,DEF,54,13
 341,Nathan,Aké,DEF,53,13
-350,Joško,Gvardiol,DEF,63,13
+350,Joško,Gvardiol,DEF,62,13
 353,João,Cavaco Cancelo,DEF,53,13
-355,Rico,Lewis,DEF,48,13
+355,Rico,Lewis,DEF,47,13
 361,Rúben,Gato Alves Dias,DEF,54,13
 362,John,Stones,DEF,53,13
 363,Kyle,Walker,DEF,52,13
@@ -152,7 +154,7 @@ id,first_name,second_name,position,value,team_id
 387,Luke,Shaw,DEF,49,14
 572,Leny,Yoro,DEF,43,14
 593,Matthijs,de Ligt,DEF,50,14
-594,Noussair,Mazraoui,DEF,46,14
+594,Noussair,Mazraoui,DEF,47,14
 670,Harry,Amass,DEF,40,14
 390,Alex,Murphy,DEF,40,15
 393,Sven,Botman,DEF,44,15
@@ -168,7 +170,7 @@ id,first_name,second_name,position,value,team_id
 418,Kieran,Trippier,DEF,56,15
 574,Miodrag,Pivaš,DEF,40,15
 26,Álex,Moreno Lopera,DEF,44,16
-422,Ola,Aina,DEF,48,16
+422,Ola,Aina,DEF,49,16
 425,Willy,Boly,DEF,43,16
 436,Murillo,Santiago Costa dos Santos,DEF,46,16
 437,Neco,Williams,DEF,43,16
@@ -195,7 +197,7 @@ id,first_name,second_name,position,value,team_id
 484,Ben,Davies,DEF,43,18
 486,Radu,Drăgușin,DEF,43,18
 487,Emerson,Leite de Souza Junior,DEF,45,18
-495,Pedro,Porro,DEF,55,18
+495,Pedro,Porro,DEF,56,18
 496,Sergio,Reguilón,DEF,42,18
 498,Cristian,Romero,DEF,50,18
 504,Djed,Spence,DEF,44,18
@@ -213,7 +215,8 @@ id,first_name,second_name,position,value,team_id
 591,Jean-Clair,Todibo,DEF,43,19
 643,Kaelan,Casey,DEF,40,19
 677,Ollie,Scarles,DEF,40,19
-533,Rayan,Aït-Nouri,DEF,48,20
+686,Ezra,Mayers,DEF,40,19
+533,Rayan,Aït-Nouri,DEF,49,20
 542,Craig,Dawson,DEF,44,20
 543,Matt,Doherty,DEF,43,20
 549,Hugo,Bueno López,DEF,45,20

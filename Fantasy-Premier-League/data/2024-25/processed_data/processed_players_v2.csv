@@ -101,6 +101,7 @@ id,first_name,second_name,position
 599,Will,Dennis,GK
 617,Francisco Evanilson,de Lima Barbosa,FWD
 680,Max,Kinsey,DEF
+687,Ben,Winterburn,MID
 86,Kristoffer,Ajer,DEF
 87,Ethan,Brierley,MID
 88,Nathan,Collins,DEF
@@ -181,6 +182,7 @@ id,first_name,second_name,position
 663,Imari,Samuels,DEF
 668,Killian,Cahill,GK
 681,Ruairi,McConville,DEF
+685,Jacob,Slater,DEF
 150,Andrey,Nascimento dos Santos,MID
 151,Ângelo Gabriel,Borges Damaceno,MID
 153,Benoît,Badiashile,DEF
@@ -314,6 +316,7 @@ id,first_name,second_name,position
 604,Josh,King,MID
 605,Martial,Godo,MID
 622,Sander,Berge,MID
+690,Samuel,Amissah,DEF
 260,Ali,Al-Hamadi,FWD
 261,Elkan,Baggott,DEF
 262,Nathan,Broadhead,MID
@@ -411,6 +414,7 @@ id,first_name,second_name,position
 636,Federico,Chiesa,MID
 660,Vítezslav,Jaros,GK
 669,Harvey,Davies,GK
+688,Treymaurice,Nyoni,MID
 340,Manuel,Akanji,DEF
 341,Nathan,Aké,DEF
 342,Bernardo,Veiga de Carvalho e Silva,MID
@@ -615,6 +619,7 @@ id,first_name,second_name,position
 612,Wilson,Odobert,MID
 683,Callum,Olusesi,MID
 684,Malachi,Hardy,DEF
+689,Luca,Williams-Barnett,MID
 388,Aaron,Wan-Bissaka,DEF
 511,Edson,Álvarez Velázquez,MID
 512,Michail,Antonio,FWD
@@ -643,6 +648,7 @@ id,first_name,second_name,position
 643,Kaelan,Casey,DEF
 654,Carlos,Soler,MID
 677,Ollie,Scarles,DEF
+686,Ezra,Mayers,DEF
 204,Sam,Johnstone,GK
 533,Rayan,Aït-Nouri,DEF
 534,Boubacar,Traoré,MID

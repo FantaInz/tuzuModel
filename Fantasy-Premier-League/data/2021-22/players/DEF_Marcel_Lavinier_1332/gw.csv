@@ -1,8 +1,0 @@
-assists,bonus,bps,clean_sheets,creativity,unique_id,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,gameweek,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,POS,Full Name,own_team,opponent_short_name,opponent_attack,opponent_defense,own_short_name,own_attack,own_defense,crowds,season
-0,0,0,0,0.0,1332,327,0,0,0.0,0.0,2022-04-16 11:30:00+00:00,0,5,0,0,0,0,33,0,0,1,0,0.0,0,0,0,0,40,True,0,2,Marcel Lavinier,18,BHA,1160,1120,TOT,1190,1210,1,2021
-0,0,0,0,0.0,1332,332,0,0,0.0,0.0,2022-04-23 16:30:00+00:00,0,4,0,0,0,0,34,0,90,0,0,0.0,0,26,27,1,40,False,0,2,Marcel Lavinier,18,BRE,1120,1080,TOT,1200,1210,1,2021
-0,0,0,0,0.0,1332,347,0,0,0.0,0.0,2022-05-01 13:00:00+00:00,0,11,0,0,0,0,35,0,150,1,3,0.0,0,17,30,13,40,True,0,2,Marcel Lavinier,18,LEI,1080,1160,TOT,1190,1210,1,2021
-0,0,0,0,0.0,1332,358,0,0,0.0,0.0,2022-05-07 18:45:00+00:00,0,12,0,0,0,0,36,0,210,1,1,0.0,0,10,29,19,40,False,0,2,Marcel Lavinier,18,LIV,1300,1340,TOT,1200,1210,1,2021
-0,0,0,0,0.0,1332,218,0,0,0.0,0.0,2022-05-12 18:45:00+00:00,0,1,0,0,0,0,36,0,210,0,3,0.0,0,10,29,19,40,True,0,2,Marcel Lavinier,18,ARS,1210,1220,TOT,1190,1210,1,2021
-0,0,0,0,0.0,1332,367,0,0,0.0,0.0,2022-05-15 11:00:00+00:00,0,21,0,0,0,0,37,0,267,0,1,0.0,0,15,37,22,40,True,0,2,Marcel Lavinier,18,BUR,1130,1100,TOT,1190,1210,1,2021
-0,0,0,0,0.0,1332,380,0,0,0.0,0.0,2022-05-22 15:00:00+00:00,0,25,0,0,0,0,38,0,333,5,0,0.0,0,25,47,22,40,False,0,2,Marcel Lavinier,18,NOR,1040,1040,TOT,1200,1210,1,2021

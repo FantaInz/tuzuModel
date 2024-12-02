@@ -1,6 +1,0 @@
-assists,bonus,bps,clean_sheets,creativity,unique_id,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,gameweek,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,POS,Full Name,own_team,opponent_short_name,opponent_attack,opponent_defense,own_short_name,own_attack,own_defense,crowds,season
-0,0,0,0,0.0,1210,349,0,0,0.0,0.0,2022-05-01 15:30:00+00:00,0,19,0,0,0,0,35,0,0,2,1,0.0,0,0,0,0,40,False,0,2,Alex Kirk,1,WHU,1110,1160,ARS,1210,1220,1,2021
-0,0,0,0,0.0,1210,351,0,0,0.0,0.0,2022-05-08 13:00:00+00:00,0,24,0,0,0,0,36,0,72,1,2,0.0,0,33,40,7,40,True,0,2,Alex Kirk,1,LEE,1070,1100,ARS,1150,1190,1,2021
-0,0,0,0,0.0,1210,218,0,0,0.0,0.0,2022-05-12 18:45:00+00:00,0,18,0,0,0,0,36,0,72,0,3,0.0,0,33,40,7,40,False,0,2,Alex Kirk,1,TOT,1190,1210,ARS,1210,1220,1,2021
-0,0,0,0,0.0,1210,365,0,0,0.0,0.0,2022-05-16 19:00:00+00:00,0,15,0,0,0,0,37,0,197,0,2,0.0,0,41,56,15,40,False,0,2,Alex Kirk,1,NEW,1050,1040,ARS,1210,1220,1,2021
-0,0,0,0,0.0,1210,371,0,0,0.0,0.0,2022-05-22 15:00:00+00:00,0,8,0,0,0,0,38,0,252,1,5,0.0,0,38,61,23,40,True,0,2,Alex Kirk,1,EVE,1090,1110,ARS,1150,1190,1,2021

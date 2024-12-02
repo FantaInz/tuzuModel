@@ -9,10 +9,10 @@ id,first_name,second_name,position,value,team_id
 8,Jakub,Kiwior,DEF,48,1
 9,Gabriel,Martinelli Silva,MID,69,1
 12,Ethan,Nwaneri,MID,45,1
-13,Martin,Ødegaard,MID,82,1
+13,Martin,Ødegaard,MID,83,1
 15,David,Raya Martin,GK,55,1
 16,Declan,Rice,MID,62,1
-17,Bukayo,Saka,MID,102,1
+17,Bukayo,Saka,MID,103,1
 18,William,Saliba,DEF,60,1
 20,Thomas,Partey,MID,50,1
 21,Kieran,Tierney,DEF,43,1
@@ -20,7 +20,7 @@ id,first_name,second_name,position,value,team_id
 23,Leandro,Trossard,MID,68,1
 24,Benjamin,White,DEF,62,1
 25,Oleksandr,Zinchenko,DEF,48,1
-73,Norberto,Murara Neto,GK,43,1
+73,Norberto,Murara Neto,GK,42,1
 186,Raheem,Sterling,MID,67,1
 578,Riccardo,Calafiori,DEF,58,1
 597,Myles,Lewis-Skelly,MID,45,1
@@ -42,7 +42,7 @@ id,first_name,second_name,position,value,team_id
 35,Diego Carlos,Santos Silva,DEF,45,2
 36,Lucas,Digne,DEF,47,2
 37,Lewis,Dobbin,MID,50,2
-38,Jhon,Durán,FWD,59,2
+38,Jhon,Durán,FWD,58,2
 39,Joe,Gauci,GK,40,2
 40,Kortney,Hause,DEF,40,2
 41,Samuel,Iling-Junior,MID,54,2
@@ -58,7 +58,7 @@ id,first_name,second_name,position,value,team_id
 51,Robin,Olsen,GK,45,2
 52,Pau,Torres,DEF,44,2
 53,Jacob,Ramsey,MID,54,2
-54,Morgan,Rogers,MID,54,2
+54,Morgan,Rogers,MID,53,2
 55,Viljami,Sinisalo,GK,40,2
 56,Lino,da Cruz Sousa,DEF,40,2
 57,Youri,Tielemans,MID,55,2
@@ -87,7 +87,7 @@ id,first_name,second_name,position,value,team_id
 74,Dango,Ouattara,MID,50,3
 75,Alex,Paulsen,GK,40,3
 76,Philip,Billing,MID,48,3
-77,Alex,Scott,MID,48,3
+77,Alex,Scott,MID,47,3
 78,Antoine,Semenyo,MID,57,3
 79,Marcos,Senesi,DEF,48,3
 80,Luis,Sinisterra,MID,49,3
@@ -101,6 +101,7 @@ id,first_name,second_name,position,value,team_id
 599,Will,Dennis,GK,40,3
 617,Francisco Evanilson,de Lima Barbosa,FWD,60,3
 680,Max,Kinsey,DEF,40,3
+687,Ben,Winterburn,MID,45,3
 86,Kristoffer,Ajer,DEF,44,4
 87,Ethan,Brierley,MID,45,4
 88,Nathan,Collins,DEF,45,4
@@ -114,7 +115,7 @@ id,first_name,second_name,position,value,team_id
 96,Kim,Ji-soo,DEF,39,4
 97,Yunus Emre,Konak,MID,45,4
 98,Keane,Lewis-Potter,MID,50,4
-99,Bryan,Mbeumo,MID,79,4
+99,Bryan,Mbeumo,MID,78,4
 100,Ben,Mee,DEF,42,4
 101,Christian,Nørgaard,MID,48,4
 102,Frank,Onyeka,MID,49,4
@@ -157,7 +158,7 @@ id,first_name,second_name,position,value,team_id
 133,Adrian,Mazilu,MID,45,5
 134,James,Milner,MID,50,5
 135,Yankuba,Minteh,MID,52,5
-136,Mitoma,Kaoru,MID,64,5
+136,Mitoma,Kaoru,MID,65,5
 137,Jakub,Moder,MID,44,5
 138,Mark,O’Mahony,FWD,45,5
 139,Odeluga,Offiah,DEF,40,5
@@ -181,6 +182,7 @@ id,first_name,second_name,position,value,team_id
 663,Imari,Samuels,DEF,40,5
 668,Killian,Cahill,GK,39,5
 681,Ruairi,McConville,DEF,40,5
+685,Jacob,Slater,DEF,40,5
 150,Andrey,Nascimento dos Santos,MID,45,6
 151,Ângelo Gabriel,Borges Damaceno,MID,45,6
 153,Benoît,Badiashile,DEF,43,6
@@ -240,7 +242,7 @@ id,first_name,second_name,position,value,team_id
 208,Matheus,França de Oliveira,MID,44,7
 209,Remi,Matthews,GK,40,7
 210,Tyrick,Mitchell,DEF,49,7
-211,Daniel,Muñoz,DEF,48,7
+211,Daniel,Muñoz,DEF,47,7
 212,David,Ozoh,MID,45,7
 213,Jesurun,Rak-Sakyi,MID,45,7
 214,Jeffrey,Schlupp,MID,47,7
@@ -265,9 +267,9 @@ id,first_name,second_name,position,value,team_id
 223,James,Garner,MID,49,8
 224,Jack,Harrison,MID,53,8
 225,Mason,Holgate,DEF,40,8
-226,Tim,Iroegbunam,MID,45,8
+226,Tim,Iroegbunam,MID,44,8
 227,João,Neves Virgínia,GK,40,8
-228,Michael,Keane,DEF,43,8
+228,Michael,Keane,DEF,42,8
 229,Neal,Maupay,FWD,49,8
 230,Dwight,McNeil,MID,56,8
 231,Vitalii,Mykolenko,DEF,43,8
@@ -276,7 +278,7 @@ id,first_name,second_name,position,value,team_id
 235,Jordan,Pickford,GK,49,8
 236,James,Tarkowski,DEF,48,8
 237,Youssef,Ramalho Chermiti,FWD,49,8
-238,Ashley,Young,DEF,45,8
+238,Ashley,Young,DEF,46,8
 577,Jesper,Lindstrøm,MID,51,8
 582,Jake,O'Brien,DEF,46,8
 603,Harrison,Armstrong,MID,45,8
@@ -286,10 +288,10 @@ id,first_name,second_name,position,value,team_id
 651,Orel,Mangala,MID,50,8
 678,Callum,Bates,MID,45,8
 10,Reiss,Nelson,MID,50,9
-19,Emile,Smith Rowe,MID,58,9
+19,Emile,Smith Rowe,MID,57,9
 191,Joachim,Andersen,DEF,43,9
-239,Adama,Traoré,MID,50,9
-240,Andreas,Hoelgebaum Pereira,MID,52,9
+239,Adama,Traoré,MID,49,9
+240,Andreas,Hoelgebaum Pereira,MID,51,9
 241,Calvin,Bassey,DEF,45,9
 242,Steven,Benda,GK,40,9
 243,Tom,Cairney,MID,48,9
@@ -314,6 +316,7 @@ id,first_name,second_name,position,value,team_id
 604,Josh,King,MID,45,9
 605,Martial,Godo,MID,45,9
 622,Sander,Berge,MID,50,9
+690,Samuel,Amissah,DEF,40,9
 260,Ali,Al-Hamadi,FWD,48,10
 261,Elkan,Baggott,DEF,40,10
 262,Nathan,Broadhead,MID,49,10
@@ -337,7 +340,7 @@ id,first_name,second_name,position,value,team_id
 280,Cieran,Slicker,GK,40,10
 281,Jack,Taylor,MID,48,10
 282,Axel,Tuanzebe,DEF,40,10
-283,Christian,Walton,GK,44,10
+283,Christian,Walton,GK,43,10
 284,Luke,Woolfenden,DEF,40,10
 359,Kalvin,Phillips,MID,49,10
 568,Arijanet,Muric,GK,44,10
@@ -371,7 +374,7 @@ id,first_name,second_name,position,value,team_id
 303,Harry,Souttar,DEF,40,11
 304,Jakub,Stolarczyk,GK,40,11
 305,Luke,Thomas,DEF,39,11
-306,Jamie,Vardy,FWD,56,11
+306,Jamie,Vardy,FWD,55,11
 307,Jannik,Vestergaard,DEF,40,11
 308,Danny,Ward,GK,40,11
 309,Harry,Winks,MID,45,11
@@ -395,7 +398,7 @@ id,first_name,second_name,position,value,team_id
 323,Ryan,Gravenberch,MID,50,12
 324,Curtis,Jones,MID,53,12
 325,Caoimhin,Kelleher,GK,45,12
-326,Ibrahima,Konaté,DEF,54,12
+326,Ibrahima,Konaté,DEF,53,12
 327,Luis,Díaz,MID,76,12
 328,Mohamed,Salah,MID,131,12
 329,Alexis,Mac Allister,MID,62,12
@@ -407,13 +410,14 @@ id,first_name,second_name,position,value,team_id
 335,Andrew,Robertson,DEF,59,12
 336,Dominik,Szoboszlai,MID,63,12
 337,Konstantinos,Tsimikas,DEF,46,12
-339,Virgil,van Dijk,DEF,63,12
+339,Virgil,van Dijk,DEF,64,12
 636,Federico,Chiesa,MID,68,12
 660,Vítezslav,Jaros,GK,40,12
 669,Harvey,Davies,GK,40,12
+688,Treymaurice,Nyoni,MID,45,12
 340,Manuel,Akanji,DEF,54,13
 341,Nathan,Aké,DEF,53,13
-342,Bernardo,Veiga de Carvalho e Silva,MID,64,13
+342,Bernardo,Veiga de Carvalho e Silva,MID,63,13
 343,Oscar,Bobb,MID,47,13
 344,Scott,Carson,GK,40,13
 345,Kevin,De Bruyne,MID,94,13
@@ -421,12 +425,12 @@ id,first_name,second_name,position,value,team_id
 347,Ederson,Santana de Moraes,GK,55,13
 348,Phil,Foden,MID,91,13
 349,Jack,Grealish,MID,64,13
-350,Joško,Gvardiol,DEF,63,13
-351,Erling,Haaland,FWD,151,13
+350,Joško,Gvardiol,DEF,62,13
+351,Erling,Haaland,FWD,150,13
 352,Julián,Álvarez,FWD,70,13
 353,João,Cavaco Cancelo,DEF,53,13
 354,Mateo,Kovačić,MID,55,13
-355,Rico,Lewis,DEF,48,13
+355,Rico,Lewis,DEF,47,13
 356,Matheus Luiz,Nunes,MID,49,13
 357,James,McAtee,MID,47,13
 358,Stefan,Ortega Moreno,GK,52,13
@@ -460,14 +464,14 @@ id,first_name,second_name,position,value,team_id
 380,Lisandro,Martínez,DEF,44,14
 381,Scott,McTominay,MID,49,14
 382,Mason,Mount,MID,63,14
-383,André,Onana,GK,51,14
+383,André,Onana,GK,52,14
 384,Facundo,Pellistri Rebollo,MID,50,14
 385,Marcus,Rashford,MID,69,14
 387,Luke,Shaw,DEF,49,14
 389,Joshua,Zirkzee,FWD,66,14
 572,Leny,Yoro,DEF,43,14
 593,Matthijs,de Ligt,DEF,50,14
-594,Noussair,Mazraoui,DEF,46,14
+594,Noussair,Mazraoui,DEF,47,14
 613,Toby,Collyer,MID,45,14
 648,Ethan,Wheatley,FWD,45,14
 652,Manuel,Ugarte,MID,49,14
@@ -478,7 +482,7 @@ id,first_name,second_name,position,value,team_id
 391,Miguel,Almirón Rejala,MID,55,15
 392,Harvey,Barnes,MID,63,15
 393,Sven,Botman,DEF,44,15
-394,Bruno,Guimarães Rodriguez Moura,MID,62,15
+394,Bruno,Guimarães Rodriguez Moura,MID,61,15
 395,Dan,Burn,DEF,44,15
 396,Martin,Dúbravka,GK,42,15
 398,Anthony,Gordon,MID,72,15
@@ -508,17 +512,17 @@ id,first_name,second_name,position,value,team_id
 574,Miodrag,Pivaš,DEF,40,15
 590,William,Osula,FWD,50,15
 26,Álex,Moreno Lopera,DEF,44,16
-422,Ola,Aina,DEF,48,16
+422,Ola,Aina,DEF,49,16
 423,Elliot,Anderson,MID,50,16
 424,Taiwo,Awoniyi,FWD,56,16
 425,Willy,Boly,DEF,43,16
 426,Josh,Bowler,MID,45,16
 427,Carlos Miguel,dos Santos Pereira,GK,42,16
-428,Eric,da Silva Moreira,MID,45,16
+428,Eric,da Silva Moreira,MID,44,16
 429,Danilo,dos Santos de Oliveira,MID,47,16
 430,Emmanuel,Dennis,FWD,49,16
 431,Nicolás,Domínguez,MID,48,16
-432,Anthony,Elanga,MID,52,16
+432,Anthony,Elanga,MID,51,16
 433,Morgan,Gibbs-White,MID,63,16
 434,Callum,Hudson-Odoi,MID,54,16
 435,Alex,Mighten,MID,45,16
@@ -595,7 +599,7 @@ id,first_name,second_name,position,value,team_id
 492,Dejan,Kulusevski,MID,63,18
 493,Giovani,Lo Celso,MID,49,18
 494,James,Maddison,MID,76,18
-495,Pedro,Porro,DEF,55,18
+495,Pedro,Porro,DEF,56,18
 496,Sergio,Reguilón,DEF,42,18
 497,Richarlison,de Andrade,FWD,68,18
 498,Cristian,Romero,DEF,50,18
@@ -615,6 +619,7 @@ id,first_name,second_name,position,value,team_id
 612,Wilson,Odobert,MID,53,18
 683,Callum,Olusesi,MID,45,18
 684,Malachi,Hardy,DEF,40,18
+689,Luca,Williams-Barnett,MID,45,18
 388,Aaron,Wan-Bissaka,DEF,44,19
 511,Edson,Álvarez Velázquez,MID,50,19
 512,Michail,Antonio,FWD,54,19
@@ -637,14 +642,15 @@ id,first_name,second_name,position,value,team_id
 532,Kurt,Zouma,DEF,44,19
 576,Andy,Irving,MID,48,19
 587,Crysencio,Summerville,MID,57,19
-588,Guido,Rodríguez,MID,49,19
+588,Guido,Rodríguez,MID,48,19
 589,Niclas,Füllkrug,FWD,67,19
 591,Jean-Clair,Todibo,DEF,43,19
 643,Kaelan,Casey,DEF,40,19
 654,Carlos,Soler,MID,50,19
 677,Ollie,Scarles,DEF,40,19
+686,Ezra,Mayers,DEF,40,19
 204,Sam,Johnstone,GK,44,20
-533,Rayan,Aït-Nouri,DEF,48,20
+533,Rayan,Aït-Nouri,DEF,49,20
 534,Boubacar,Traoré,MID,48,20
 535,Jean-Ricner,Bellegarde,MID,50,20
 536,Daniel,Bentley,GK,40,20
@@ -652,7 +658,7 @@ id,first_name,second_name,position,value,team_id
 538,Tawanda,Chirewa,MID,45,20
 539,Leon,Chiwome,FWD,45,20
 540,Luke,Cundle,MID,45,20
-541,Matheus,Santos Carneiro Da Cunha,FWD,70,20
+541,Matheus,Santos Carneiro Da Cunha,FWD,71,20
 542,Craig,Dawson,DEF,44,20
 543,Matt,Doherty,DEF,43,20
 544,Tommy,Doyle,MID,48,20

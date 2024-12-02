@@ -204,7 +204,6 @@ def preprocess_prediction_data(data):
 
     # Feature engineering
     data['was_home'] = data['was_home'].astype(int)
-    data['home_crowd_effect'] = data['was_home'] * data['crowds']
     data["_unique_id_copy"] = data["unique_id"]
     data["_pos_copy"] = data["POS"]
 
@@ -212,7 +211,7 @@ def preprocess_prediction_data(data):
     data = data.sort_values(by=["unique_id", "season", "gameweek"])
 
     # One-hot encoding for categorical columns
-    dummy_columns = ["POS", "home_crowd_effect", "unique_id", "own_team", "opponent_team"]
+    dummy_columns = ["POS", "was_home", "unique_id", "own_team", "opponent_team"]
     data = pd.get_dummies(data, columns=dummy_columns)
 
     data["unique_id"] = data["_unique_id_copy"]

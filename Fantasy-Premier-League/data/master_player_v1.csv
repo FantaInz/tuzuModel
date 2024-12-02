@@ -1,1760 +1,1294 @@
-First_Name,Last_Name,Unique_ID,24_id,23_id,22_id,21_id,20_id
-Fábio,Ferreira Vieira,1,1,4,25,-1,-1
-Gabriel,Fernando de Jesus,2,2,8,28,263,282
-Gabriel,dos Santos Magalhães,3,3,5,16,-1,-1
-Kai,Havertz,4,4,6,145,141,500
-Karl,Hein,5,5,646,655,532,-1
-Jurriën,Timber,6,6,585,-1,-1,-1
-Jorge Luiz,Frello Filho,7,7,9,130,123,105
-Jakub,Kiwior,8,8,10,710,-1,-1
-Gabriel,Martinelli Silva,9,9,12,19,-1,-1
-Ethan,Nwaneri,12,12,772,630,-1,-1
-Martin,Ødegaard,13,13,14,7,558,645
-David,Raya Martin,15,15,113,81,80,-1
-Declan,Rice,16,16,540,467,421,448
-Bukayo,Saka,17,17,19,13,22,24
-William,Saliba,18,18,20,26,27,27
-Thomas,Partey,20,20,15,6,15,567
-Kieran,Tierney,21,21,24,8,16,17
-Tomiyasu,Takehiro,22,22,-1,-1,-1,-1
-Leandro,Trossard,23,23,26,111,64,69
-Benjamin,White,24,24,29,10,-1,-1
-Oleksandr,Zinchenko,25,25,31,313,264,283
-Norberto,Murara Neto,73,73,77,574,-1,-1
-Raheem,Sterling,186,186,216,304,255,276
-Riccardo,Calafiori,578,578,-1,-1,-1,-1
-Myles,Lewis-Skelly,597,597,764,-1,-1,-1
-Mikel,Merino,633,633,-1,-1,-1,-1
-Salah-Eddine,Oulad M'hand,638,638,-1,-1,693,-1
-Tommy,Setford,639,639,-1,-1,-1,-1
-Maldini,Kacurri,657,657,-1,-1,-1,-1
-Ayden,Heaven,658,658,-1,-1,-1,-1
-Ismeal,Kabia,659,659,-1,-1,-1,-1
-Josh,Nichols,662,662,-1,-1,-1,-1
-Nathan,Butler-Oyedeji,665,665,-1,685,-1,-1
-Leon,Bailey,28,28,34,45,492,-1
-Ross,Barkley,29,29,630,131,124,106
-Enzo,Barrenechea,30,30,-1,-1,-1,-1
-Emiliano,Buendía Stati,31,31,35,42,43,-1
-Matty,Cash,32,32,36,43,-1,-1
-Leander,Dendoncker,33,33,40,479,434,464
-Moussa,Diaby,34,34,599,-1,-1,-1
-Diego Carlos,Santos Silva,35,35,41,50,-1,-1
-Lucas,Digne,36,36,42,33,168,155
-Lewis,Dobbin,37,37,624,-1,607,-1
-Jhon,Durán,38,38,44,711,-1,-1
-Joe,Gauci,39,39,818,-1,-1,-1
-Kortney,Hause,40,40,45,38,36,39
-Samuel,Iling-Junior,41,41,-1,-1,-1,-1
-Boubacar,Kamara,42,42,47,53,-1,-1
-Kaine,Kesler-Hayden,43,43,793,-1,-1,-1
-Ezri,Konsa Ngoyo,44,44,48,44,45,46
-Ian,Maatsen,45,45,609,-1,-1,-1
-Filip,Marschall,46,46,670,670,650,-1
-Emiliano,Martínez Romero,47,47,49,31,-1,-1
-John,McGinn,48,48,50,37,35,38
-Tyrone,Mings,49,49,51,39,38,41
-Kosta,Nedeljković,50,50,-1,-1,-1,-1
-Robin,Olsen,51,51,53,35,691,573
-Pau,Torres,52,52,584,-1,-1,-1
-Jacob,Ramsey,53,53,55,47,51,554
-Morgan,Rogers,54,54,803,-1,-1,-1
-Viljami,Sinisalo,55,55,57,707,596,-1
-Lino,da Cruz Sousa,56,56,-1,-1,-1,-1
-Youri,Tielemans,57,57,58,259,210,228
-Ollie,Watkins,58,58,60,40,40,514
-Amadou,Onana,233,233,261,577,-1,-1
-Jaden,Philogene,569,569,-1,-1,-1,-1
-Lamare,Bogarde,598,598,-1,638,610,-1
-Sil,Swinkels,640,640,-1,744,-1,-1
-Oliwier,Zych,641,641,686,745,-1,-1
-Kadan,Young,656,656,865,672,-1,-1
-Ben,Broggio,679,679,-1,-1,-1,-1
-Max,Aarons,59,59,643,-1,326,-1
-Tyler,Adams,60,60,673,506,-1,-1
-Jaidon,Anthony,61,61,62,75,-1,-1
-David,Brooks,62,62,64,60,-1,-1
-Ryan,Christie,63,63,65,69,-1,-1
-Lewis,Cook,64,64,66,67,-1,-1
-Enes,Ünal,65,65,804,-1,-1,-1
-Romain,Faivre,66,66,799,-1,-1,-1
-Hamed,Traorè,67,67,87,723,-1,-1
-James,Hill,68,68,69,539,-1,-1
-Daniel,Jebbison,69,69,483,-1,-1,699
-Milos,Kerkez,70,70,595,-1,-1,-1
-Justin,Kluivert,71,71,72,-1,-1,-1
-Chris,Mepham,72,72,75,71,-1,-1
-Dango,Ouattara,74,74,78,705,-1,-1
-Alex,Paulsen,75,75,-1,-1,-1,-1
-Philip,Billing,76,76,63,70,-1,-1
-Alex,Scott,77,77,644,-1,-1,-1
-Antoine,Semenyo,78,78,82,714,-1,-1
-Marcos,Senesi,79,79,83,576,-1,-1
-Luis,Sinisterra,80,80,705,-1,-1,-1
-Adam,Smith,81,81,84,57,-1,-1
-Marcus,Tavernier,83,83,86,535,-1,-1
-Mark,Travers,84,84,88,72,-1,-1
-Illia,Zabarnyi,85,85,89,722,-1,-1
-Kepa,Arrizabalaga,152,152,187,133,129,112
-Dean,Huijsen,580,580,-1,-1,-1,-1
-Julián,Araujo Zúñiga,592,592,-1,-1,-1,-1
-Will,Dennis,599,599,-1,77,-1,-1
-Francisco Evanilson,de Lima Barbosa,617,617,-1,-1,-1,-1
-Max,Kinsey,680,680,802,-1,-1,-1
-Kristoffer,Ajer,86,86,90,84,483,-1
-Ethan,Brierley,87,87,684,-1,-1,-1
-Nathan,Collins,88,88,96,516,451,-1
-Mikkel,Damsgaard,89,89,98,580,-1,-1
-Josh,Dasilva,90,90,99,83,-1,-1
-Mark,Flekken,91,91,101,-1,-1,-1
-Rico,Henry,92,92,103,85,83,-1
-Aaron,Hickey,93,93,104,510,-1,-1
-Vitaly,Janelt,94,94,105,86,84,-1
-Mathias,Jensen,95,95,106,88,86,-1
-Kim,Ji-soo,96,96,-1,-1,-1,-1
-Yunus Emre,Konak,97,97,-1,-1,-1,-1
-Keane,Lewis-Potter,98,98,107,515,-1,-1
-Bryan,Mbeumo,99,99,108,95,96,-1
-Ben,Mee,100,100,109,526,106,88
-Christian,Nørgaard,101,101,110,79,77,-1
-Frank,Onyeka,102,102,111,93,479,-1
-Myles,Peart-Harris,103,103,744,-1,662,-1
-Ethan,Pinnock,104,104,112,92,91,-1
-Mads,Roerslev Rasmussen,105,105,114,90,89,-1
-Kevin,Schade,106,106,115,688,-1,-1
-Igor Thiago,Nascimento Rodrigues,107,107,-1,-1,-1,-1
-Ivan,Toney,108,108,117,80,78,-1
-Hákon,Valdimarsson,109,109,789,-1,-1,-1
-Yoane,Wissa,110,110,119,89,524,-1
-Yehor,Yarmoliuk,111,111,-1,-1,-1,-1
-Mathias,Jorgensen,112,112,121,595,594,-1
-Fábio,Freitas Gouveia Carvalho,314,314,-1,296,-1,-1
-Sepp,van den Berg,338,338,312,500,-1,-1
-Ryan,Trevitt,602,602,118,632,-1,-1
-Gustavo,Nunes Fernandes Gomes,634,634,-1,-1,-1,-1
-Jayden,Meghoma,649,649,-1,-1,-1,-1
-Tony,Yogane,661,661,-1,-1,-1,-1
-Paris,Maghoma,674,674,-1,-1,614,-1
-Simon,Adingra,113,113,122,-1,-1,-1
-Benicio,Baker-Boaitey,114,114,742,-1,-1,-1
-Carlos,Baleba,115,115,690,-1,-1,-1
-Valentín,Barco,116,116,816,-1,-1,-1
-Amario,Cozier-Duberry,118,118,-1,668,-1,-1
-Mahmoud,Dahoud,119,119,128,-1,-1,-1
-Lewis,Dunk,120,120,129,106,59,62
-Julio,Enciso,121,121,130,125,-1,-1
-Pervis,Estupiñán,122,122,131,586,-1,-1
-Evan,Ferguson,123,123,132,596,655,-1
-Billy,Gilmour,124,124,133,149,145,124
-Pascal,Groß,125,125,134,104,55,57
-Jack,Hinshelwood,126,126,621,677,-1,-1
-Ibrahim,Osman,127,127,-1,-1,-1,-1
-Igor Julio,dos Santos de Paulo,128,128,606,-1,-1,-1
-João Pedro,Junqueira de Jesus,129,129,135,-1,404,-1
-Kacper,Kozłowski,130,130,137,126,-1,-1
-Tariq,Lamptey,131,131,139,114,71,77
-Solly,March,132,132,140,107,-1,-1
-Adrian,Mazilu,133,133,-1,-1,-1,-1
-James,Milner,134,134,142,274,221,241
-Yankuba,Minteh,135,135,-1,-1,-1,-1
-Mitoma,Kaoru,136,136,-1,-1,-1,-1
-Jakub,Moder,137,137,144,117,75,628
-Mark,O’Mahony,138,138,741,-1,-1,-1
-Odeluga,Offiah,139,139,845,736,712,-1
-Cameron,Peupion,140,140,786,762,-1,-1
-Jeremy,Sarmiento Morante,141,141,146,119,-1,-1
-Jason,Steele,142,142,148,102,54,528
-Deniz,Undav,143,143,149,123,-1,-1
-Jan Paul,van Hecke,144,144,150,544,-1,-1
-Joël,Veltman,145,145,151,109,62,67
-Bart,Verbruggen,146,146,152,-1,-1,-1
-Adam,Webster,147,147,153,108,61,66
-Danny,Welbeck,148,148,154,103,447,588
-Mats,Wieffer,149,149,-1,-1,-1,-1
-Brajan,Gruda,595,595,-1,-1,-1,-1
-Yasin,Ayari,600,600,124,719,-1,-1
-Andrew,Moran,601,601,-1,651,-1,-1
-Carl,Rushworth,615,615,-1,-1,-1,-1
-Georginio,Rutter,618,618,-1,700,-1,-1
-Ferdi,Kadioglu,628,628,-1,-1,-1,-1
-Matt,O'Riley,629,629,-1,-1,-1,-1
-Imari,Samuels,663,663,-1,765,-1,-1
-Killian,Cahill,668,668,-1,-1,-1,-1
-Ruairi,McConville,681,681,-1,-1,-1,-1
-Andrey,Nascimento dos Santos,150,150,186,702,-1,-1
-Ângelo Gabriel,Borges Damaceno,151,151,589,-1,-1,-1
-Benoît,Badiashile,153,153,191,689,-1,-1
-Lucas,Bergström,154,154,659,-1,-1,-1
-Marcus,Bettinelli,155,155,192,635,606,183
-Moisés,Caicedo Corozo,157,157,126,120,-1,-1
-Cesare,Casadei,158,158,791,-1,-1,-1
-Ben,Chilwell,160,160,195,139,-1,-1
-Carney,Chukwuemeka,161,161,196,48,526,672
-Levi,Colwill,162,162,197,559,-1,-1
-Marc,Cucurella Saseta,163,163,198,112,-1,-1
-David Datro,Fofana,164,164,200,684,-1,-1
-Deivid Washington,de Souza Eugênio,165,165,677,-1,-1,-1
-Kiernan,Dewsbury-Hall,166,166,-1,266,505,-1
-Axel,Disasi,167,167,611,-1,-1,-1
-Enzo,Fernández,168,168,199,724,-1,-1
-Conor,Gallagher,169,169,202,148,144,544
-Alfie,Gilchrist,170,170,716,775,-1,-1
-Malo,Gusto,171,171,203,-1,-1,-1
-Reece,James,172,172,206,146,142,123
-Omari,Kellyman,173,173,618,-1,-1,-1
-Roméo,Lavia,174,174,667,321,-1,-1
-Romelu,Lukaku Bolingoli,175,175,207,-1,-1,-1
-Malang,Sarr,176,176,214,143,501,-1
-Noni,Madueke,177,177,208,708,-1,-1
-Marc,Guiu Paz,178,178,-1,-1,-1,-1
-Mykhailo,Mudryk,179,179,210,699,-1,-1
-Nicolas,Jackson,180,180,211,-1,-1,-1
-Christopher,Nkunku,181,181,212,-1,-1,-1
-Cole,Palmer,182,182,362,316,507,552
-Đorđe,Petrović,183,183,687,-1,-1,-1
-Renato,Palma Veiga,184,184,-1,-1,-1,-1
-Robert,Sánchez,185,185,145,113,69,597
-Tosin,Adarabioyo,187,187,286,209,-1,572
-Wesley,Fofana,189,189,201,272,220,561
-Jadon,Sancho,386,386,397,340,485,-1
-Pedro,Lomba Neto,560,560,567,486,441,474
-Caleb,Wiley,575,575,-1,-1,-1,-1
-Filip,Jørgensen,581,581,-1,-1,-1,-1
-João,Félix Sequeira,621,621,-1,690,-1,-1
-Eddie,Nketiah,11,11,13,11,-1,-1
-Trevoh,Chalobah,159,159,194,141,527,-1
-Naouirou,Ahamada,190,190,219,725,-1,-1
-Cheick,Doucouré,193,193,223,514,-1,-1
-Chris,Richards,194,194,238,530,-1,-1
-Chadi,Riad Dnanou,195,195,-1,-1,-1,-1
-Nathaniel,Clyne,196,196,222,157,493,577
-Malcolm,Ebiowei,197,197,224,173,-1,-1
-Eberechi,Eze,199,199,226,169,160,489
-Marc,Guéhi,200,200,228,167,477,-1
-Dean,Henderson,201,201,385,398,280,305
-Rob,Holding,202,202,7,5,14,16
-Will,Hughes,203,203,229,163,386,-1
-Daichi,Kamada,205,205,-1,-1,-1,-1
-Jefferson,Lerma Solís,206,206,231,64,-1,-1
-Jean-Philippe,Mateta,207,207,232,168,159,641
-Matheus,França de Oliveira,208,208,615,-1,-1,-1
-Remi,Matthews,209,209,233,495,561,-1
-Tyrick,Mitchell,210,210,234,170,162,146
-Daniel,Muñoz,211,211,792,-1,-1,-1
-David,Ozoh,212,212,721,676,-1,-1
-Jesurun,Rak-Sakyi,213,213,657,172,541,688
-Jeffrey,Schlupp,214,214,240,161,155,142
-Joel,Ward,215,215,242,156,474,134
-Adam,Wharton,216,216,807,-1,-1,-1
-Matt,Turner,445,445,28,24,-1,-1
-Ismaïla,Sarr,585,585,-1,-1,-1,-1
-Franco,Umeh-Chibueze,644,644,821,-1,-1,-1
-Justin,Devenny,645,645,-1,-1,-1,-1
-Asher,Agbinone,646,646,-1,-1,-1,-1
-Kaden,Rodney,647,647,825,601,-1,-1
-Maxence,Lacroix,650,650,-1,-1,-1,-1
-Caleb,Kporha,666,666,-1,-1,-1,-1
-Zach,Marsh,676,676,-1,-1,-1,-1
-Armando,Broja,156,156,193,150,518,-1
-Abdoulaye,Doucouré,217,217,249,185,173,512
-Norberto Bercique,Gomes Betuncal,218,218,691,-1,-1,-1
-Jarrad,Branthwaite,219,219,245,196,544,170
-Dominic,Calvert-Lewin,220,220,246,191,177,164
-Séamus,Coleman,221,221,-1,-1,-1,-1
-Idrissa,Gueye,222,222,254,611,-1,-1
-James,Garner,223,223,250,570,-1,317
-Jack,Harrison,224,224,661,233,267,203
-Mason,Holgate,225,225,255,192,178,165
-Tim,Iroegbunam,226,226,46,49,638,709
-João,Neves Virgínia,227,227,266,-1,-1,-1
-Michael,Keane,228,228,257,180,169,156
-Neal,Maupay,229,229,258,110,63,68
-Dwight,McNeil,230,230,259,534,118,100
-Vitalii,Mykolenko,231,231,260,194,675,-1
-Iliman,Ndiaye,232,232,486,-1,-1,656
-Nathan,Patterson,234,234,262,197,674,-1
-Jordan,Pickford,235,235,263,182,170,157
-James,Tarkowski,236,236,265,199,98,81
-Youssef,Ramalho Chermiti,237,237,645,-1,-1,-1
-Ashley,Young,238,238,588,538,52,-1
-Jesper,Lindstrøm,577,577,-1,-1,-1,-1
-Jake,O'Brien,582,582,235,-1,-1,-1
-Harrison,Armstrong,603,603,-1,-1,-1,-1
-Jenson,Metcalfe,614,614,760,-1,-1,-1
-Asmir,Begovic,624,624,-1,-1,-1,-1
-Roman,Dixon,627,627,-1,-1,-1,-1
-Orel,Mangala,651,651,453,536,-1,-1
-Callum,Bates,678,678,-1,-1,-1,-1
-Reiss,Nelson,10,10,578,23,531,21
-Emile,Smith Rowe,19,19,22,12,21,23
-Joachim,Andersen,191,191,220,165,488,571
-Adama,Traoré,239,239,662,-1,435,465
-Andreas,Hoelgebaum Pereira,240,240,267,346,-1,-1
-Calvin,Bassey,241,241,610,-1,-1,-1
-Steven,Benda,242,242,692,-1,-1,-1
-Tom,Cairney,243,243,268,200,-1,175
-Timothy,Castagne,244,244,688,258,209,498
-Issa,Diop,245,245,271,470,424,451
-Luke,Harris,246,246,683,546,-1,-1
-Alex,Iwobi,247,247,256,186,174,159
-Bernd,Leno,248,248,275,2,1,8
-Saša,Lukić,249,249,276,-1,-1,-1
-Kevin,Mbabu,250,250,277,532,-1,-1
-Rodrigo,Muniz Carvalho,251,251,279,218,-1,-1
-Raúl,Jiménez,252,252,558,476,430,460
-Tim,Ream,253,253,281,201,-1,176
-Harrison,Reed,254,254,282,211,-1,373
-Antonee,Robinson,255,255,283,217,-1,484
-Jay,Stansfield,256,256,651,219,-1,-1
-Kenny,Tete,257,257,285,215,-1,517
-Carlos Vinícius,Alves Morais,258,258,287,618,-1,-1
-Harry,Wilson,259,259,288,212,-1,257
-Ryan,Sessegnon,579,579,514,436,368,399
-Jorge,Cuenca Barreno,586,586,-1,-1,-1,-1
-Josh,King,604,604,-1,-1,-1,-1
-Martial,Godo,605,605,-1,641,-1,-1
-Sander,Berge,622,622,475,-1,-1,360
-Ali,Al-Hamadi,260,260,-1,-1,-1,-1
-Elkan,Baggott,261,261,-1,-1,-1,-1
-Nathan,Broadhead,262,262,-1,-1,545,680
-Cameron,Burgess,263,263,-1,-1,-1,-1
-Wes,Burns,264,264,-1,-1,-1,-1
-Conor,Chaplin,265,265,-1,-1,-1,-1
-Harry,Clarke,266,266,-1,-1,-1,-1
-Leif,Davis,267,267,-1,-1,-1,214
-Liam,Delap,268,268,-1,323,704,539
-George,Edmundson,269,269,-1,-1,-1,-1
-Jacob,Greaves,270,270,-1,-1,-1,-1
-Marcus,Myers-Harness,271,271,-1,-1,-1,-1
-George,Hirst,272,272,-1,-1,-1,-1
-Cameron,Humphreys,273,273,-1,-1,-1,-1
-Omari,Giraud-Hutchinson,274,274,-1,-1,-1,-1
-Ben,Johnson,275,275,536,471,425,452
-Freddie,Ladapo,276,276,-1,-1,-1,-1
-Massimo,Luongo,277,277,-1,-1,-1,-1
-Sam,Morsy,278,278,-1,-1,-1,-1
-Corrie,Ndaba,279,279,-1,-1,-1,-1
-Cieran,Slicker,280,280,-1,-1,615,-1
-Jack,Taylor,281,281,-1,-1,-1,-1
-Axel,Tuanzebe,282,282,-1,-1,283,307
-Christian,Walton,283,283,-1,-1,-1,503
-Luke,Woolfenden,284,284,-1,-1,-1,-1
-Kalvin,Phillips,359,359,364,325,191,204
-Arijanet,Muric,568,568,172,-1,-1,-1
-Conor,Townsend,583,583,-1,-1,-1,418
-Sam,Szmodics,611,611,-1,-1,-1,-1
-Jens,Cajuste,619,619,-1,-1,-1,-1
-Dara,O'Shea,630,630,173,-1,-1,425
-Jack,Clarke,631,631,-1,-1,-1,-1
-Chiedozie,Ogbene,632,632,328,-1,-1,-1
-Facundo,Buonanotte,117,117,125,679,-1,-1
-Jordan,Ayew,192,192,221,159,153,140
-Odsonne,Edouard,198,198,225,166,586,-1
-Boubakary,Soumaré,285,285,-1,269,458,-1
-Tom,Cannon,286,286,-1,-1,-1,-1
-Hamza,Choudhury,287,287,-1,263,214,234
-Conor,Coady,288,288,-1,475,429,459
-Patson,Daka,289,289,-1,271,455,-1
-Bobby,De Cordova-Reid,290,290,270,205,-1,-1
-Wout,Faes,291,291,-1,612,-1,-1
-Michael,Golding,292,292,-1,-1,-1,-1
-Mads,Hermansen,293,293,-1,-1,-1,-1
-Daniel,Iversen,294,294,-1,548,-1,-1
-James,Justin,295,295,-1,268,218,239
-Victor,Kristiansen,296,296,-1,709,-1,-1
-Wanya,Marçal-Madivádua,297,297,-1,-1,-1,-1
-Stephy,Mavididi,298,298,-1,-1,-1,-1
-Kasey,McAteer,299,299,-1,687,647,-1
-Wilfred,Ndidi,300,300,-1,265,216,236
-Caleb,Okoli,301,301,-1,-1,-1,-1
-Ricardo,Barbosa Pereira,302,302,-1,256,-1,-1
-Harry,Souttar,303,303,-1,727,-1,-1
-Jakub,Stolarczyk,304,304,-1,-1,-1,-1
-Luke,Thomas,305,305,693,270,219,240
-Jamie,Vardy,306,306,-1,255,205,224
-Jannik,Vestergaard,307,307,-1,253,340,369
-Danny,Ward,308,308,-1,254,204,223
-Harry,Winks,309,309,-1,434,366,397
-Oliver,Skipp,501,501,515,441,373,404
-Abdul,Fatawu,570,570,-1,-1,-1,-1
-Will,Alves,606,606,-1,-1,-1,-1
-Ben,Nelson,616,616,-1,-1,645,-1
-Bilal,El Khannouss,635,635,-1,-1,-1,-1
-Alisson,Ramses Becker,310,310,291,281,231,252
-Trent,Alexander-Arnold,311,311,290,285,237,259
-Stefan,Bajčetić Maquieira,312,312,-1,-1,-1,-1
-Conor,Bradley,313,313,757,-1,626,-1
-Bobby,Clark,315,315,627,584,-1,-1
-Darwin,Núñez Ribeiro,316,316,293,297,-1,-1
-Diogo,Teixeira da Silva,317,317,294,288,-1,-1
-Ben,Doak,318,318,628,665,-1,-1
-Harvey,Elliott,319,319,295,294,506,265
-Endo,Wataru,320,320,-1,-1,-1,-1
-Cody,Gakpo,321,321,297,680,-1,-1
-Joe,Gomez,322,322,298,-1,-1,-1
-Ryan,Gravenberch,323,323,708,-1,-1,-1
-Curtis,Jones,324,324,300,291,244,263
-Caoimhin,Kelleher,325,325,301,289,242,560
-Ibrahima,Konaté,326,326,302,290,243,-1
-Luis,Díaz,327,327,303,293,696,-1
-Mohamed,Salah,328,328,308,283,233,254
-Alexis,Mac Allister,329,329,304,116,74,80
-James,McConnell,330,330,629,-1,-1,-1
-Tyler,Morton,331,331,-1,-1,620,-1
-Nathaniel,Phillips,332,332,306,501,241,589
-Jarell,Quansah,333,333,626,-1,660,-1
-Rhys,Williams,334,334,-1,498,247,594
-Andrew,Robertson,335,335,307,284,234,255
-Dominik,Szoboszlai,336,336,309,-1,-1,-1
-Konstantinos,Tsimikas,337,337,311,292,245,242
-Virgil,van Dijk,339,339,313,280,229,250
-Federico,Chiesa,636,636,-1,-1,-1,-1
-Vítezslav,Jaros,660,660,-1,-1,-1,-1
-Harvey,Davies,669,669,-1,592,-1,-1
-Manuel,Akanji,340,340,341,610,-1,-1
-Nathan,Aké,341,341,342,308,258,279
-Bernardo,Veiga de Carvalho e Silva,342,342,344,311,-1,-1
-Oscar,Bobb,343,343,345,-1,-1,-1
-Scott,Carson,344,344,347,502,593,608
-Kevin,De Bruyne,345,345,349,301,251,272
-Jérémy,Doku,346,346,678,-1,-1,-1
-Ederson,Santana de Moraes,347,347,352,307,257,278
-Phil,Foden,348,348,353,314,265,284
-Jack,Grealish,349,349,354,305,33,37
-Joško,Gvardiol,350,350,616,-1,-1,-1
-Erling,Haaland,351,351,355,318,-1,-1
-Julián,Álvarez,352,352,343,319,-1,-1
-João,Cavaco Cancelo,353,353,-1,-1,-1,-1
-Mateo,Kovačić,354,354,356,-1,-1,-1
-Rico,Lewis,355,355,358,573,-1,-1
-Matheus Luiz,Nunes,356,356,566,589,-1,-1
-James,McAtee,357,357,360,317,629,-1
-Stefan,Ortega Moreno,358,358,361,324,-1,-1
-Rodrigo 'Rodri',Hernandez,360,360,-1,-1,-1,-1
-Rúben,Gato Alves Dias,361,361,350,312,-1,-1
-John,Stones,362,362,368,302,252,273
-Kyle,Walker,363,363,369,299,249,270
-Sávio 'Savinho',Moreira de Oliveira,571,571,-1,-1,-1,-1
-Nico,O'Reilly,607,607,-1,774,-1,-1
-Ilkay,Gündogan,625,625,-1,300,250,271
-Issa,Kaboré,626,626,602,-1,-1,-1
-Jacob,Wright,671,671,814,-1,-1,-1
-Jahmai,Simpson-Pusey,672,672,-1,-1,-1,-1
-Josh,Wilson-Esbrand,675,675,-1,322,-1,-1
-Amad,Diallo,364,364,371,550,636,640
-Antony Matheus,dos Santos,365,365,372,609,-1,-1
-Bruno,Borges Fernandes,366,366,373,333,-1,-1
-Altay,Bayindir,367,367,695,-1,-1,-1
-Carlos Henrique,Casimiro,368,368,376,593,-1,-1
-Diogo,Dalot Teixeira,369,369,377,342,-1,-1
-Christian,Eriksen,370,370,379,519,699,-1
-Jonny,Evans,371,371,703,249,201,219
-Alejandro,Garnacho,372,372,382,569,-1,-1
-Hannibal,Mejbri,373,373,383,-1,706,712
-Tom,Heaton,374,374,384,348,509,28
-Rasmus,Højlund,375,375,617,-1,-1,-1
-Victor,Lindelöf,376,376,386,337,284,308
-Harry,Maguire,377,377,387,330,273,298
-Kobbie,Mainoo,378,378,388,643,-1,-1
-Tyrell,Malacia,379,379,389,504,-1,-1
-Lisandro,Martínez,380,380,391,533,-1,-1
-Scott,McTominay,381,381,392,338,285,309
-Mason,Mount,382,382,209,142,138,120
-André,Onana,383,383,597,-1,-1,-1
-Facundo,Pellistri Rebollo,384,384,394,347,-1,-1
-Marcus,Rashford,385,385,396,335,281,306
-Luke,Shaw,387,387,398,332,275,300
-Joshua,Zirkzee,389,389,-1,-1,-1,-1
-Leny,Yoro,572,572,-1,-1,-1,-1
-Matthijs,de Ligt,593,593,-1,-1,-1,-1
-Noussair,Mazraoui,594,594,-1,-1,-1,-1
-Toby,Collyer,613,613,826,-1,-1,-1
-Ethan,Wheatley,648,648,850,-1,-1,-1
-Manuel,Ugarte,652,652,-1,-1,-1,-1
-Jack,Fletcher,667,667,-1,-1,-1,-1
-Harry,Amass,670,670,846,-1,-1,-1
-Jayce,Fitzgerald,673,673,-1,-1,-1,-1
-Alex,Murphy,390,390,634,-1,-1,-1
-Miguel,Almirón Rejala,391,391,402,369,-1,-1
-Harvey,Barnes,392,392,603,264,215,235
-Sven,Botman,393,393,405,377,-1,-1
-Bruno,Guimarães Rodriguez Moura,394,394,406,374,697,-1
-Dan,Burn,395,395,407,358,58,61
-Martin,Dúbravka,396,396,-1,-1,-1,-1
-Anthony,Gordon,398,398,412,195,503,168
-Lewis,Hall,399,399,204,661,671,-1
-Isaac,Hayden,400,400,413,-1,306,336
-Alexander,Isak,401,401,415,594,-1,-1
-Jacob,Murphy,402,402,423,365,304,497
-Joelinton Cássio,Apolinário de Lira,403,403,416,371,310,340
-Lloyd,Kelly,404,404,70,73,-1,-1
-Emil,Krafth,405,405,417,364,303,333
-Garang,Kuol,406,406,418,683,-1,-1
-Jamaal,Lascelles,407,407,419,360,299,328
-Jamal,Lewis,408,408,420,372,311,513
-Tino,Livramento,409,409,633,419,491,-1
-Sean,Longstaff,410,410,421,370,309,480
-Lewis,Miley,411,411,635,741,-1,-1
-Odysseas,Vlachodimos,412,412,710,-1,-1,-1
-Nick,Pope,413,413,424,376,112,96
-John,Ruddy,414,414,-1,-1,452,453
-Fabian,Schär,415,415,427,366,305,334
-Matt,Targett,416,416,428,367,39,42
-Sandro,Tonali,417,417,429,-1,-1,-1
-Kieran,Trippier,418,418,430,357,678,-1
-Joe,White,419,419,794,-1,599,-1
-Joe,Willock,420,420,432,373,-1,-1
-Callum,Wilson,421,421,433,356,296,506
-Miodrag,Pivaš,574,574,-1,-1,-1,-1
-William,Osula,590,590,490,-1,-1,711
-Álex,Moreno Lopera,26,26,-1,-1,-1,-1
-Ola,Aina,422,422,-1,-1,-1,562
-Elliot,Anderson,423,423,403,552,609,602
-Taiwo,Awoniyi,424,424,437,397,-1,-1
-Willy,Boly,425,425,439,474,428,458
-Josh,Bowler,426,426,440,-1,-1,-1
-Carlos Miguel,dos Santos Pereira,427,427,-1,-1,-1,-1
-Eric,da Silva Moreira,428,428,-1,-1,-1,-1
-Danilo,dos Santos de Oliveira,429,429,442,703,-1,-1
-Emmanuel,Dennis,430,430,443,585,450,-1
-Nicolás,Domínguez,431,431,712,-1,-1,-1
-Anthony,Elanga,432,432,378,344,512,702
-Morgan,Gibbs-White,433,433,447,493,440,473
-Callum,Hudson-Odoi,434,434,205,144,140,122
-Alex,Mighten,435,435,456,395,-1,-1
-Murillo,Santiago Costa dos Santos,436,436,696,-1,-1,-1
-Neco,Williams,437,437,467,295,246,264
-Omar,Richards,438,438,461,511,-1,-1
-Lewis,O'Brien,439,439,458,524,-1,-1
-Andrew,Omobamidele,440,440,711,-1,331,-1
-Jonathan,Panzo,441,441,460,389,-1,-1
-Ibrahim,Sangaré,442,442,713,-1,-1,-1
-Matz,Sels,443,443,808,-1,-1,-1
-Harry,Toffolo,444,444,465,523,-1,-1
-Hwang,Ui-jo,446,446,466,-1,-1,-1
-Chris,Wood,447,447,468,354,109,91
-Joe,Worrall,448,448,469,388,-1,-1
-Ryan,Yates,449,449,470,387,-1,-1
-James,Ward-Prowse,531,531,664,407,341,370
-Nikola,Milenković,573,573,-1,-1,-1,-1
-João Pedro,Ferreira Silva,596,596,-1,-1,-1,-1
-Ramón,Sosa,620,620,-1,-1,-1,-1
-Felipe,Rodrigues da Silva,653,653,-1,-1,-1,-1
-Aaron,Ramsdale,14,14,17,15,559,483
-Cameron,Archer,27,27,33,54,568,-1
-Lesley,Ugochukwu,188,188,613,-1,-1,-1
-Ryan,Fraser,397,397,410,359,298,507
-Carlos,Alcaraz Durán,450,450,-1,-1,-1,-1
-Samuel,Amo-Ameyaw,451,451,-1,778,-1,-1
-Joe,Aribo,452,452,-1,-1,-1,-1
-Adam,Armstrong,453,453,-1,408,525,-1
-Gavin,Bazunu,454,454,-1,422,-1,-1
-Jan,Bednarek,455,455,-1,410,343,376
-Armel,Bella-Kotchap,456,456,-1,423,-1,-1
-James,Bree,457,457,-1,716,-1,43
-Shea,Charles,458,458,348,773,-1,-1
-Samuel,Edozie,459,459,-1,624,508,-1
-Ronnie,Edwards,460,460,-1,-1,-1,-1
-Taylor,Harwood-Bellis,461,461,-1,-1,-1,623
-Kamaldeen,Sulemana,462,462,-1,731,-1,-1
-Adam,Lallana,463,463,138,101,53,54
-Juan,Larios López,464,464,-1,622,-1,-1
-Mateusz,Lis,465,465,-1,421,-1,-1
-Joe,Lumley,466,466,-1,-1,-1,-1
-Ryan,Manning,467,467,-1,-1,-1,-1
-Sékou,Mara,468,468,-1,528,-1,-1
-Alex,McCarthy,469,469,-1,401,334,363
-Paul,Onuachu,470,470,-1,732,-1,-1
-Will,Smallbone,471,471,-1,415,-1,-1
-Jack,Stephens,472,472,-1,404,338,367
-Ross,Stewart,473,473,-1,-1,-1,-1
-Sugawara,Yukinari,474,474,-1,-1,-1,-1
-Charlie,Taylor,475,475,178,-1,113,97
-Kyle,Walker-Peters,476,476,-1,409,342,375
-Nathan,Wood-Gordon,477,477,-1,-1,-1,-1
-Maxwel,Cornet,515,515,527,575,578,-1
-Flynn,Downes,518,518,531,509,-1,-1
-Ben,Brereton Díaz,584,584,-1,-1,-1,-1
-Tyler,Dibling,608,608,-1,-1,731,-1
-Mateus Gonçalo,Espanha Fernandes,623,623,-1,-1,-1,-1
-Dominic,Solanke-Mitchell,82,82,-1,-1,-1,-1
-Ashley,Phillips,478,478,702,-1,-1,-1
-Brandon,Austin,479,479,491,451,659,-1
-Rodrigo,Bentancur,480,480,492,440,702,-1
-Lucas,Bergvall,481,481,-1,-1,-1,-1
-Yves,Bissouma,482,482,493,444,70,76
-Bryan,Gil Salvatierra,483,483,494,554,487,-1
-Ben,Davies,484,484,495,432,364,395
-Alfie,Devine,485,485,-1,452,714,650
-Radu,Drăgușin,486,486,-1,-1,-1,-1
-Emerson,Leite de Souza Junior,487,487,497,445,-1,-1
-Fraser,Forster,488,488,498,426,333,523
-Archie,Gray,489,489,-1,565,658,-1
-Pierre-Emile,Højbjerg,490,490,499,433,365,396
-Brennan,Johnson,491,491,450,394,-1,-1
-Dejan,Kulusevski,492,492,501,446,701,-1
-Giovani,Lo Celso,493,493,503,-1,372,403
-James,Maddison,494,494,504,261,212,231
-Pedro,Porro,495,495,506,733,-1,-1
-Sergio,Reguilón,496,496,508,438,370,542
-Richarlison,de Andrade,497,497,509,454,180,166
-Cristian,Romero,498,498,511,443,494,-1
-Pape Matar,Sarr,499,499,513,450,-1,-1
-Dane,Scarlett,500,500,640,447,520,666
-Manor,Solomon,502,502,583,562,-1,-1
-Son,Heung-min,503,503,516,428,-1,-1
-Djed,Spence,504,504,517,522,-1,-1
-Destiny,Udogie,505,505,519,-1,-1,-1
-Micky,van de Ven,506,506,639,-1,-1,-1
-Alejo,Véliz,507,507,641,-1,-1,-1
-Guglielmo,Vicario,508,508,520,-1,-1,-1
-Timo,Werner,509,509,776,137,134,117
-Alfie,Whiteman,510,510,521,-1,-1,-1
-Will,Lankshear,609,609,-1,-1,-1,-1
-Mikey,Moore,610,610,860,-1,-1,-1
-Wilson,Odobert,612,612,660,-1,-1,-1
-Callum,Olusesi,683,683,-1,-1,-1,-1
-Malachi,Hardy,684,684,-1,-1,-1,-1
-Aaron,Wan-Bissaka,388,388,401,341,288,313
-Edson,Álvarez Velázquez,511,511,642,-1,-1,-1
-Michail,Antonio,512,512,523,458,413,437
-Alphonse,Areola,513,513,524,473,489,516
-Jarrod,Bowen,514,514,526,465,420,445
-Vladimír,Coufal,516,516,528,-1,-1,-1
-Aaron,Cresswell,517,517,530,457,411,435
-George,Earthy,519,519,829,-1,-1,-1
-Emerson,Palmieri dos Santos,520,520,532,545,539,111
-Łukasz,Fabiański,521,521,-1,-1,-1,-1
-Wes,Foderingham,522,522,482,-1,-1,350
-Danny,Ings,523,523,535,30,337,366
-Max,Kilman,524,524,563,484,439,470
-Mohammed,Kudus,525,525,689,-1,-1,-1
-Luis Guilherme,Lira dos Santos,526,526,-1,-1,-1,-1
-Lucas,Tolentino Coelho de Lima,527,527,539,603,-1,-1
-Konstantinos,Mavropanos,528,528,676,-1,24,-1
-Nayef,Aguerd,529,529,522,472,-1,-1
-Tomáš,Souček,530,530,542,-1,-1,-1
-Kurt,Zouma,532,532,544,461,128,110
-Andy,Irving,576,576,-1,-1,-1,-1
-Crysencio,Summerville,587,587,-1,240,551,693
-Guido,Rodríguez,588,588,-1,-1,-1,-1
-Niclas,Füllkrug,589,589,-1,-1,-1,-1
-Jean-Clair,Todibo,591,591,-1,-1,-1,-1
-Kaelan,Casey,643,643,774,746,-1,-1
-Carlos,Soler,654,654,-1,-1,-1,-1
-Ollie,Scarles,677,677,-1,-1,-1,-1
-Sam,Johnstone,204,204,230,175,-1,417
-Rayan,Aït-Nouri,533,533,545,487,-1,-1
-Boubacar,Traoré,534,534,574,629,-1,-1
-Jean-Ricner,Bellegarde,535,535,715,-1,-1,-1
-Daniel,Bentley,536,536,546,717,-1,-1
-Francisco Jorge,Tomás Oliveira,537,537,549,490,689,-1
-Tawanda,Chirewa,538,538,750,-1,-1,-1
-Leon,Chiwome,539,539,836,-1,-1,-1
-Luke,Cundle,540,540,550,485,547,614
-Matheus,Santos Carneiro Da Cunha,541,541,590,682,-1,-1
-Craig,Dawson,542,542,551,459,414,576
-Matt,Doherty,543,543,598,429,360,457
-Tommy,Doyle,544,544,351,-1,566,285
-Fábio,Silva,545,545,552,-1,-1,-1
-Nathan,Fraser,546,546,704,657,-1,-1
-Enso,González,547,547,698,-1,-1,-1
-Gonçalo Manuel,Ganchinho Guedes,548,548,554,579,-1,-1
-Hugo,Bueno López,549,549,548,558,-1,-1
-Hwang,Hee-chan,550,550,557,481,-1,-1
-Joe,Hodge,551,551,555,-1,-1,-1
-Ki-Jana,Hoever,552,552,556,-1,443,545
-João Victor,Gomes da Silva,553,553,559,721,-1,-1
-José,Malheiro de Sá,554,554,569,478,475,-1
-Saša,Kalajdžić,555,555,-1,-1,-1,-1
-Tom,King,556,556,564,-1,-1,-1
-Mario,Lemina,557,557,565,698,-1,493
-Yerson,Mosquera,558,558,788,-1,-1,-1
-Nélson,Cabral Semedo,559,559,572,482,437,546
-Pedro,Cardoso de Lima,561,561,-1,-1,-1,-1
-Daniel,Castelo Podence,562,562,568,483,438,469
-Rodrigo,Martins Gomes,563,563,-1,-1,-1,-1
-Santiago,Bueno,564,564,697,-1,-1,-1
-Pablo,Sarabia,565,565,570,704,-1,-1
-Jørgen,Strand Larsen,566,566,-1,-1,-1,-1
-Toti António,Gomes,567,567,573,489,685,-1
-Bastien,Meupiyou,637,637,-1,-1,-1,-1
-André,Trindade da Costa Neto,642,642,-1,-1,-1,-1
-Carlos Roberto,Forbs Borges,655,655,-1,-1,-1,-1
-Alfie,Pond,664,664,-1,-1,-1,-1
-Tom,Edozie,682,682,-1,-1,-1,-1
-Mesut,Özil,685,-1,-1,-1,-1,1
-Sokratis,Papastathopoulos,686,-1,-1,-1,-1,2
-David,Luiz Moreira Marinho,687,-1,-1,-1,-1,3
-Pierre-Emerick,Aubameyang,688,-1,188,617,4,4
-Cédric,Soares,689,-1,-1,-1,5,5
-Alexandre,Lacazette,690,-1,-1,-1,6,6
-Shkodran,Mustafi,691,-1,-1,-1,-1,7
-Granit,Xhaka,692,-1,30,3,7,9
-Pablo,Marí,693,-1,-1,-1,8,10
-Héctor,Bellerín,694,-1,-1,-1,9,11
-Calum,Chambers,695,-1,37,32,10,13
-Sead,Kolasinac,696,-1,-1,-1,11,14
-Nicolas,Pépé,697,-1,16,9,17,18
-Lucas,Torreira,698,-1,-1,-1,18,19
-Edward,Nketiah,699,-1,-1,-1,20,22
-Matteo,Guendouzi,700,-1,-1,-1,-1,25
-Gabriel Teodoro,Martinelli Silva,701,-1,-1,-1,26,26
-Mathew,Ryan,702,-1,-1,-1,65,70
-Willian,Borges Da Silva,703,-1,-1,-1,3,478
-Gabriel,Magalhães,704,-1,-1,-1,23,494
-Daniel,Ceballos Fernández,705,-1,-1,-1,-1,501
-Mohamed Naser,El Sayed Elneny,706,-1,-1,-1,12,526
-Matt,Macey,707,-1,323,-1,-1,527
-Rúnar Alex,Rúnarsson,708,-1,18,-1,2,547
-Miguel,Azeez,709,-1,-1,-1,721,689
-Emiliano,Martínez,710,-1,-1,-1,30,12
-Ahmed,El Mohamady,711,-1,-1,-1,-1,29
-Henri,Lansbury,712,-1,-1,-1,-1,30
-Neil,Taylor,713,-1,-1,-1,-1,31
-Jed,Steer,714,-1,-1,-1,28,32
-Conor,Hourihane,715,-1,-1,-1,29,33
-José Ignacio,Peleteiro Romallo,716,-1,-1,-1,-1,34
-Ørjan,Nyland,717,-1,-1,-1,-1,35
-Bjorn,Engels,718,-1,-1,-1,-1,36
-Mahmoud Ahmed,Ibrahim Hassan,719,-1,-1,-1,37,40
-Marvelous,Nakamba,720,-1,52,41,41,44
-Anwar,El Ghazi,721,-1,-1,51,42,45
-Frédéric,Guilbert,722,-1,-1,56,46,47
-Wesley,Moraes,723,-1,-1,-1,47,48
-Mbwana,Samatta,724,-1,-1,-1,-1,49
-Keinan,Davis,725,-1,39,52,49,50
-Indiana,Vassilev,726,-1,-1,-1,-1,51
-Douglas Luiz,Soares de Paulo,727,-1,43,46,50,52
-Matthew,Cash,728,-1,-1,-1,44,496
-Bertrand,Traoré,729,-1,59,34,32,540
-Morgan,Sanson,730,-1,56,36,34,647
-Kaine,Hayden,731,-1,-1,-1,684,671
-Jaden,Philogene-Bidace,732,-1,54,55,497,683
-Glenn,Murray,733,-1,-1,-1,-1,53
-Shane,Duffy,734,-1,-1,105,56,58
-Davy,Pröpper,735,-1,-1,-1,57,59
-Aaron,Mooy,736,-1,-1,-1,-1,60
-Martín,Montoya,737,-1,-1,-1,-1,63
-Florin,Andone,738,-1,-1,-1,500,64
-Solomon,March,739,-1,-1,-1,60,65
-Alireza,Jahanbakhsh,740,-1,-1,-1,66,71
-José,Izquierdo,741,-1,-1,-1,-1,72
-Matthew,Clarke,742,-1,-1,-1,-1,73
-Ben,White,743,-1,-1,-1,67,74
-Bernardo,Fernandes da Silva Junior,744,-1,-1,-1,-1,75
-Aaron,Connolly,745,-1,127,-1,72,78
-Steven,Alzate,746,-1,123,115,73,79
-Jayson,Molumby,747,-1,-1,-1,-1,550
-Andi,Zeqiri,748,-1,155,-1,535,574
-Percy,Tau,749,-1,-1,-1,-1,627
-Reda,Khadra,750,-1,-1,-1,-1,630
-Teddy,Jenks,751,-1,-1,-1,-1,631
-Max,Sanders,752,-1,-1,-1,-1,632
-Jensen,Weir,753,-1,-1,-1,-1,633
-Thomas,McGill,754,-1,-1,-1,688,662
-Michal,Karbownik,755,-1,-1,-1,536,663
-Moisés,Caicedo,756,-1,-1,-1,538,664
-Dale,Stephens,757,-1,-1,-1,102,55
-Phil,Bardsley,758,-1,-1,-1,99,82
-Erik,Pieters,759,-1,-1,-1,100,83
-Jack,Cork,760,-1,163,-1,101,84
-Kevin,Long,761,-1,-1,-1,103,85
-Jay,Rodriguez,762,-1,177,-1,104,86
-Ashley,Barnes,763,-1,-1,-1,105,87
-Ashley,Westwood,764,-1,-1,-1,107,89
-Johann Berg,Gudmundsson,765,-1,-1,-1,108,90
-Matthew,Lowton,766,-1,-1,-1,110,92
-Matej,Vydra,767,-1,-1,-1,111,93
-Ben,Gibson,768,-1,-1,-1,456,94
-Robbie,Brady,769,-1,-1,-1,-1,95
-Josh,Brownhill,770,-1,161,-1,115,98
-Bailey,Peacock-Farrell,771,-1,175,-1,117,99
-Jimmy,Dunne,772,-1,-1,-1,-1,519
-Bobby,Thomas,773,-1,179,-1,534,520
-Josh,Benson,774,-1,-1,-1,116,535
-Anthony,Driscoll-Glennon,775,-1,-1,-1,-1,536
-Mace,Goodridge,776,-1,-1,-1,-1,551
-Will,Norris,777,-1,-1,-1,114,583
-Max,Thompson,778,-1,-1,-1,-1,591
-Lewis,Richardson,779,-1,-1,-1,533,592
-Anthony,Mancini,780,-1,-1,-1,736,612
-Joel,Mumbongo,781,-1,-1,-1,-1,613
-Richard,Nartey,782,-1,-1,-1,-1,658
-Willy,Caballero,783,-1,-1,424,641,101
-César,Azpilicueta,784,-1,189,127,119,102
-Olivier,Giroud,785,-1,-1,-1,120,103
-Marcos,Alonso,786,-1,-1,129,122,104
-Mateo,Kovacic,787,-1,-1,132,125,107
-Antonio,Rüdiger,788,-1,-1,-1,127,109
-N'Golo,Kanté,789,-1,-1,134,130,113
-Hakim,Ziyech,790,-1,218,135,131,114
-Andreas,Christensen,791,-1,-1,-1,133,116
-Tammy,Abraham,792,-1,-1,-1,136,118
-Christian,Pulisic,793,-1,213,140,137,119
-Fikayo,Tomori,794,-1,-1,-1,-1,121
-Benjamin,Chilwell,795,-1,-1,-1,135,232
-Thiago,Thiago,796,-1,-1,-1,-1,490
-Edouard,Mendy,797,-1,-1,147,143,548
-Karlo,Ziger,798,-1,-1,-1,-1,593
-Faustino,Anjorin,799,-1,-1,-1,-1,605
-Valentino,Livramento,800,-1,-1,-1,-1,698
-Michy,Batshuayi,801,-1,-1,-1,126,108
-Gary,Cahill,802,-1,-1,-1,-1,125
-Wayne,Hennessey,803,-1,448,518,480,126
-Mamadou,Sakho,804,-1,-1,-1,-1,127
-Vicente,Guaita,805,-1,227,152,146,128
-James,Tomkins,806,-1,241,153,147,129
-James,McArthur,807,-1,-1,154,148,130
-James,McCarthy,808,-1,-1,-1,-1,131
-Christian,Benteke,809,-1,-1,155,149,132
-Cheikhou,Kouyaté,810,-1,451,583,150,133
-Martin,Kelly,811,-1,-1,-1,151,135
-Connor,Wickham,812,-1,-1,-1,-1,136
-Andros,Townsend,813,-1,727,179,482,137
-Luka,Milivojevic,814,-1,-1,158,152,138
-Patrick,van Aanholt,815,-1,-1,-1,-1,139
-Wilfried,Zaha,816,-1,-1,160,154,141
-Max,Meyer,817,-1,-1,-1,-1,143
-Jairo,Riedewald,818,-1,239,164,157,144
-Nathan,Ferguson,819,-1,-1,174,161,145
-Brandon,Pierrick,820,-1,-1,-1,-1,147
-Scott,Dann,821,-1,-1,-1,-1,486
-Sam,Woods,822,-1,-1,-1,-1,522
-Ryan,Inniss,823,-1,-1,-1,-1,534
-Stephen,Henderson,824,-1,-1,-1,-1,578
-Jack,Butland,825,-1,-1,162,156,586
-Reece,Hannam,826,-1,-1,-1,540,675
-Fabian,Delph,827,-1,-1,-1,163,149
-Gylfi,Sigurdsson,828,-1,-1,-1,164,150
-Jonas,Lössl,829,-1,-1,-1,673,151
-Seamus,Coleman,830,-1,247,178,165,152
-Cenk,Tosun,831,-1,-1,-1,622,153
-Bernard,Anício Caldeira Duarte,832,-1,-1,-1,167,154
-André Filipe,Tavares Gomes,833,-1,-1,-1,172,158
-Jonjoe,Kenny,834,-1,-1,-1,502,160
-Jean-Philippe,Gbamin,835,-1,251,187,504,161
-Yerry,Mina,836,-1,-1,188,175,162
-Tom,Davies,837,-1,666,190,176,163
-João,Virgínia,838,-1,-1,-1,181,167
-Moise,Kean,839,-1,-1,-1,564,169
-Allan,Marques Loureiro,840,-1,-1,183,171,502
-James,Rodríguez,841,-1,-1,-1,166,508
-Niels,Nkounkou,842,-1,-1,198,570,559
-Ben,Godfrey,843,-1,252,193,179,566
-Ellis,Simms,844,-1,264,686,602,596
-Tyler,Onyango,845,-1,650,-1,630,644
-Joshua,King,846,-1,810,-1,468,651
-Kyle,John,847,-1,-1,637,-1,679
-Ryan,Astley,848,-1,-1,-1,-1,681
-Harry,Tyrer,849,-1,-1,-1,616,682
-Reece,Welch,850,-1,-1,605,623,690
-Isaac,Price,851,-1,-1,678,718,691
-Ruben,Loftus-Cheek,852,-1,-1,136,132,115
-Fabricio,Agosto Ramírez,853,-1,-1,-1,-1,171
-Kevin,McDonald,854,-1,-1,-1,-1,172
-Maxime,Le Marchand,855,-1,-1,-1,-1,173
-Stefan,Johansen,856,-1,-1,-1,-1,174
-Anthony,Knockaert,857,-1,273,202,-1,177
-Michael,Hector,858,-1,-1,-1,-1,178
-Cyrus,Christie,859,-1,-1,-1,-1,179
-Neeskens,Kebano,860,-1,-1,204,-1,180
-Bobby,Decordova-Reid,861,-1,-1,-1,-1,181
-Joe,Bryan,862,-1,-1,206,-1,182
-Aleksandar,Mitrović,863,-1,278,210,-1,184
-Alfie,Mawson,864,-1,-1,-1,-1,185
-Marek,Rodák,865,-1,284,213,-1,186
-Ivan Ricardo,Neves Abreu Cavaleiro,866,-1,-1,-1,-1,187
-Josh,Onomah,867,-1,-1,216,-1,188
-Jean Michaël,Seri,868,-1,-1,-1,-1,189
-Aboubakar,Kamara,869,-1,-1,-1,-1,190
-André-Frank,Zambo Anguissa,870,-1,-1,-1,-1,191
-Zeze Steven,Sessegnon,871,-1,-1,-1,-1,192
-Denis,Odoi,872,-1,-1,-1,-1,525
-Ademola,Lookman,873,-1,-1,-1,587,557
-Terence,Kongolo,874,-1,274,208,-1,585
-Josh,Maja,875,-1,-1,-1,-1,665
-Fabio,Carvalho,876,-1,-1,-1,-1,695
-Sylvester,Jasper,877,-1,-1,-1,-1,707
-Tyrese,Francois,878,-1,272,521,-1,708
-Wes,Morgan,879,-1,-1,-1,-1,216
-Kasper,Schmeichel,880,-1,-1,248,200,217
-Christian,Fuchs,881,-1,-1,-1,-1,218
-Adrien,Silva,882,-1,-1,-1,-1,220
-Marc,Albrighton,883,-1,-1,251,202,221
-Matty,James,884,-1,-1,-1,-1,222
-Dennis,Praet,885,-1,-1,549,206,225
-Ricardo Domingos,Barbosa Pereira,886,-1,-1,-1,207,226
-Daniel,Amartey,887,-1,-1,257,208,227
-Ayoze,Pérez,888,-1,-1,260,211,229
-Demarai,Gray,889,-1,253,189,484,230
-Kelechi,Iheanacho,890,-1,-1,262,213,233
-Filip,Benkovic,891,-1,-1,-1,-1,237
-Çaglar,Söyüncü,892,-1,-1,267,217,238
-Nampalys,Mendy,893,-1,-1,252,203,518
-Cengiz,Ünder,894,-1,-1,-1,-1,541
-Islam,Slimani,895,-1,-1,-1,-1,579
-Vontae,Daley-Campbell,896,-1,-1,-1,639,660
-Thakgalo,Leshabela,897,-1,-1,-1,-1,661
-Sidnei,Tavares,898,-1,-1,-1,-1,676
-Shane,Flynn,899,-1,-1,-1,-1,684
-Thanawat,Suengchitthawon,900,-1,-1,-1,-1,687
-Tawanda,Maswanhise,901,-1,-1,-1,-1,703
-Pablo,Hernández Domínguez,902,-1,-1,-1,182,193
-Francisco,Casilla Cortés,903,-1,-1,-1,183,194
-Liam,Cooper,904,-1,-1,221,184,195
-Barry,Douglas,905,-1,-1,-1,-1,196
-Luke,Ayling,906,-1,-1,222,185,197
-Mateusz,Klich,907,-1,-1,223,186,198
-Adam,Forshaw,908,-1,-1,224,552,199
-Stuart,Dallas,909,-1,-1,226,188,200
-Ezgjan,Alioski,910,-1,-1,-1,-1,201
-Patrick,Bamford,911,-1,-1,227,189,202
-Hélder Wander,Sousa de Azevedo e Costa,912,-1,-1,-1,192,205
-Tyler,Roberts,913,-1,-1,229,193,206
-Jay-Roy,Grot,914,-1,-1,-1,-1,207
-Kamil,Miazek,915,-1,-1,-1,-1,208
-Ian Carlo,Poveda-Ocampo,916,-1,-1,-1,195,209
-Jamie,Shackleton,917,-1,-1,234,197,210
-Pascal,Struijk,918,-1,-1,235,198,211
-Jordan,Stevens,919,-1,-1,-1,-1,212
-Illan,Meslier,920,-1,-1,238,199,213
-Oliver,Casey,921,-1,-1,-1,-1,215
-Robin,Koch,922,-1,-1,230,194,491
-Rodrigo,Moreno,923,-1,-1,225,187,492
-Elia,Caprile,924,-1,-1,-1,-1,532
-Mateusz,Bogusz,925,-1,-1,-1,-1,533
-Diego,Llorente,926,-1,-1,228,190,549
-Raphael,Dias Belloli,927,-1,-1,232,196,570
-Jack,Jenkins,928,-1,-1,-1,631,599
-Niall,Huggins,929,-1,-1,-1,-1,619
-Charlie,Cresswell,930,-1,-1,-1,563,620
-Joe,Gelhardt,931,-1,-1,242,577,667
-Gaetano,Berardi,932,-1,-1,-1,-1,685
-Sam,Greenwood,933,-1,-1,237,550,692
-Cody,Drameh,934,-1,-1,547,562,694
-Georginio,Wijnaldum,935,-1,-1,-1,-1,243
-Jordan,Henderson,936,-1,299,275,222,244
-Adrián,San Miguel del Castillo,937,-1,289,497,223,245
-Joel,Matip,938,-1,305,276,224,246
-Xherdan,Shaqiri,939,-1,-1,-1,226,247
-Alex,Oxlade-Chamberlain,940,-1,-1,278,227,248
-Roberto,Firmino,941,-1,-1,279,228,249
-Sadio,Mané,942,-1,-1,-1,230,251
-Fabio Henrique,Tavares,943,-1,296,282,232,253
-Divock,Origi,944,-1,714,-1,235,256
-Joseph,Gomez,945,-1,-1,286,238,260
-Naby,Keita,946,-1,-1,287,239,261
-Diogo,Jota,947,-1,-1,-1,240,468
-Thiago,Alcántara do Nascimento,948,-1,310,277,225,531
-Leighton,Clarkson,949,-1,-1,-1,-1,601
-Jake,Cain,950,-1,-1,-1,-1,607
-Ozan,Kabak,951,-1,-1,-1,580,652
-Liam,Hughes,952,-1,-1,-1,-1,677
-Jakub,Ojrzynski,953,-1,-1,-1,-1,678
-Ben,Woodburn,954,-1,-1,-1,553,696
-Billy,Koumetio,955,-1,-1,-1,-1,697
-Fernando,Luiz Rosa,956,-1,-1,-1,453,266
-Claudio,Bravo,957,-1,-1,-1,-1,267
-Sergio,Agüero,958,-1,-1,-1,-1,268
-Nicolás,Otamendi,959,-1,-1,-1,-1,269
-Benjamin,Mendy,960,-1,-1,-1,253,274
-Riyad,Mahrez,961,-1,359,303,254,275
-João Pedro Cavaco,Cancelo,962,-1,-1,-1,256,277
-Aymeric,Laporte,963,-1,357,309,259,280
-Bernardo Mota,Veiga de Carvalho e Silva,964,-1,-1,-1,261,281
-Rodrigo,Hernandez,965,-1,365,315,266,286
-Ferran,Torres,966,-1,-1,-1,268,287
-Eric,Garcia,967,-1,-1,-1,-1,288
-Adrián,Bernabé,968,-1,-1,-1,-1,537
-Zack,Steffen,969,-1,367,310,260,538
-Rúben Santos,Gato Alves Dias,970,-1,-1,-1,262,556
-James,Trafford,971,-1,596,-1,-1,595
-Felix,Nmecha,972,-1,-1,-1,-1,609
-Luke,Mbete,973,-1,-1,-1,603,622
-Claudio,Gomes,974,-1,-1,599,-1,659
-Sergio,Romero,975,-1,-1,-1,-1,289
-Juan,Mata,976,-1,-1,-1,459,290
-David,de Gea,977,-1,-1,-1,270,291
-Chris,Smalling,978,-1,-1,-1,-1,292
-Odion,Ighalo,979,-1,-1,-1,-1,293
-Marcos,Rojo,980,-1,-1,-1,-1,294
-Nemanja,Matic,981,-1,-1,-1,271,295
-Paul,Pogba,982,-1,-1,-1,272,296
-Phil,Jones,983,-1,-1,328,632,297
-Frederico,Rodrigues de Paula Santos,984,-1,381,331,274,299
-Bruno Miguel,Borges Fernandes,985,-1,-1,-1,277,302
-Anthony,Martial,986,-1,390,345,278,303
-Andreas,Pereira,987,-1,-1,-1,511,304
-Eric,Bailly,988,-1,375,339,286,310
-Daniel,James,989,-1,-1,231,287,311
-Timothy,Fosu-Mensah,990,-1,-1,-1,-1,312
-José Diogo,Dalot Teixeira,991,-1,-1,-1,510,314
-Mason,Greenwood,992,-1,-1,-1,289,315
-Tahith,Chong,993,-1,586,-1,-1,316
-Brandon,Williams,994,-1,374,343,290,318
-Teden,Mengi,995,-1,393,-1,-1,319
-Donny,van de Beek,996,-1,400,336,282,495
-Alex Nicolao,Telles,997,-1,-1,-1,279,568
-Edinson,Cavani,998,-1,-1,-1,269,569
-Facundo,Pellistri,999,-1,-1,-1,-1,575
-Lee,Grant,1000,-1,-1,-1,-1,604
-Shola,Shoretire,1001,-1,399,660,727,673
-Nathan,Bishop,1002,-1,-1,656,-1,686
-William,Fish,1003,-1,-1,-1,-1,713
-Joseph,Willock,1004,-1,-1,-1,19,20
-Andy,Carroll,1005,-1,-1,-1,-1,320
-Jonjo,Shelvey,1006,-1,463,349,291,321
-Matt,Ritchie,1007,-1,425,350,292,322
-Federico,Fernández,1008,-1,-1,351,465,323
-Ciaran,Clark,1009,-1,-1,352,293,324
-Karl,Darlow,1010,-1,408,353,294,325
-Martin,Dubravka,1011,-1,409,355,295,326
-Florian,Lejeune,1012,-1,-1,-1,-1,327
-Dwight,Gayle,1013,-1,-1,361,300,329
-Christian,Atsu,1014,-1,-1,-1,-1,330
-Paul,Dummett,1015,-1,581,362,301,331
-Javier,Manquillo,1016,-1,-1,-1,302,332
-DeAndre,Yedlin,1017,-1,-1,-1,-1,335
-Rolando,Aarons,1018,-1,-1,-1,-1,337
-Allan,Saint-Maximin,1019,-1,426,368,307,338
-Miguel,Almirón,1020,-1,-1,-1,308,339
-Yoshinori,Muto,1021,-1,-1,-1,-1,341
-Kelland,Watts,1022,-1,-1,-1,-1,342
-Jeff,Hendrick,1023,-1,414,375,297,485
-Matthew,Longstaff,1024,-1,-1,-1,312,487
-Mark,Gillespie,1025,-1,411,776,514,488
-Daniel,Langley,1026,-1,-1,-1,-1,606
-Rhian,Brewster,1027,-1,477,-1,-1,262
-Billy,Sharp,1028,-1,-1,-1,-1,343
-David,McGoldrick,1029,-1,-1,-1,-1,344
-Chris,Basham,1030,-1,474,-1,-1,345
-John,Fleck,1031,-1,481,-1,-1,346
-Enda,Stevens,1032,-1,-1,-1,-1,347
-Simon,Moore,1033,-1,-1,-1,-1,348
-Oliver,Norwood,1034,-1,488,-1,-1,349
-George,Baldock,1035,-1,473,-1,-1,351
-Jack,Robinson,1036,-1,576,-1,-1,352
-John,Egan,1037,-1,480,-1,-1,353
-Jack,O'Connell,1038,-1,-1,-1,-1,354
-John,Lundstram,1039,-1,-1,-1,-1,355
-Ben,Osborn,1040,-1,489,-1,-1,356
-Oliver,McBurnie,1041,-1,485,-1,-1,357
-Lys,Mousset,1042,-1,-1,-1,-1,359
-Oliver,Burke,1043,-1,-1,-1,-1,424
-Luke,Freeman,1044,-1,322,-1,-1,477
-Ethan,Ampadu,1045,-1,185,151,139,509
-Jayden,Bogle,1046,-1,476,-1,-1,510
-Max,Lowe,1047,-1,484,-1,-1,511
-Phil,Jagielka,1048,-1,-1,-1,-1,529
-Michael,Verrips,1049,-1,-1,-1,-1,580
-Kean,Bryan,1050,-1,-1,-1,-1,603
-Antwoine,Hackford,1051,-1,656,-1,-1,618
-Kyron,Gordon,1052,-1,-1,-1,-1,646
-Zak,Brunt,1053,-1,-1,-1,-1,657
-Frankie,Maguire,1054,-1,-1,-1,-1,670
-Harry,Boyes,1055,-1,-1,-1,-1,704
-Femi,Seriki,1056,-1,653,-1,-1,705
-Theo,Walcott,1057,-1,-1,400,332,148
-Takumi,Minamino,1058,-1,-1,-1,236,258
-Shane,Long,1059,-1,-1,-1,519,361
-Ryan,Bertrand,1060,-1,-1,250,473,362
-Oriol,Romeu Vidal,1061,-1,-1,402,335,364
-Nathan,Redmond,1062,-1,600,403,336,365
-Stuart,Armstrong,1063,-1,-1,405,339,368
-Angus,Gunn,1064,-1,-1,-1,448,371
-Sofiane,Boufal,1065,-1,-1,-1,-1,372
-Josh,Sims,1066,-1,-1,-1,-1,374
-Che,Adams,1067,-1,-1,411,345,377
-Yan,Valery,1068,-1,-1,414,546,378
-William,Smallbone,1069,-1,-1,-1,347,379
-Jake,Vokins,1070,-1,-1,-1,-1,380
-Michael,Obafemi,1071,-1,174,-1,348,381
-Moussa,Djenepo,1072,-1,-1,418,350,382
-Mohammed,Salisu,1073,-1,-1,420,351,479
-Nathan,Tella,1074,-1,-1,412,346,524
-Ibrahima,Diallo,1075,-1,-1,416,349,565
-Daniel,N'Lundulu,1076,-1,-1,-1,344,590
-Kayne,Ramsay,1077,-1,-1,-1,-1,598
-Kgaogelo,Chauke,1078,-1,-1,-1,680,624
-Harry,Lewis,1079,-1,-1,-1,637,625
-Will,Ferry,1080,-1,-1,-1,-1,634
-Allan,Tchaptchet,1081,-1,-1,-1,-1,635
-Caleb,Watts,1082,-1,-1,-1,-1,636
-Alexandre,Jankewitz,1083,-1,-1,-1,-1,643
-Ryan,Finnigan,1084,-1,-1,648,-1,655
-Hugo,Lloris,1085,-1,502,425,353,383
-Danny,Rose,1086,-1,-1,-1,377,384
-Moussa,Sissoko,1087,-1,-1,-1,354,385
-Toby,Alderweireld,1088,-1,-1,-1,355,386
-Erik,Lamela,1089,-1,-1,-1,356,387
-Harry,Kane,1090,-1,500,427,357,388
-Serge,Aurier,1091,-1,436,628,358,389
-Heung-Min,Son,1092,-1,-1,-1,359,390
-Eric,Dier,1093,-1,496,430,361,391
-Lucas,Rodrigues Moura da Silva,1094,-1,-1,431,362,392
-Paulo,Gazzaniga,1095,-1,-1,-1,-1,393
-Bamidele,Alli,1096,-1,-1,-1,363,394
-Davinson,Sánchez,1097,-1,512,435,367,398
-Steven,Bergwijn,1098,-1,-1,437,369,400
-Gedson,Carvalho Fernandes,1099,-1,-1,-1,-1,401
-Japhet,Tanganga,1100,-1,518,439,371,402
-Tanguy,Ndombele,1101,-1,-1,-1,375,405
-Juan,Foyth,1102,-1,-1,-1,-1,406
-Joe,Hart,1103,-1,-1,-1,352,482
-Cameron,Carter-Vickers,1104,-1,-1,-1,-1,521
-Gareth,Bale,1105,-1,-1,-1,-1,543
-Carlos Vinicius,Alves Morais,1106,-1,-1,-1,-1,564
-Joe,Rodon,1107,-1,510,442,374,584
-Nile,John,1108,-1,-1,-1,-1,710
-Ainsley,Maitland-Niles,1109,-1,-1,21,13,15
-David,Button,1110,-1,-1,-1,-1,56
-Callum,Robinson,1111,-1,-1,-1,-1,358
-Kieran,Gibbs,1112,-1,-1,-1,-1,407
-Hal,Robson-Kanu,1113,-1,-1,-1,-1,408
-Jake,Livermore,1114,-1,-1,-1,-1,409
-Kamil,Grosicki,1115,-1,-1,-1,-1,410
-Matt,Phillips,1116,-1,-1,-1,-1,411
-Kyle,Bartley,1117,-1,-1,-1,-1,412
-Romaine,Sawyers,1118,-1,-1,-1,-1,413
-Ahmed El-Sayed,Hegazy,1119,-1,-1,-1,-1,414
-Charlie,Austin,1120,-1,-1,-1,-1,415
-Kenneth,Zohore,1121,-1,-1,-1,-1,416
-Oluwasemilogo Adesewo Ibidapo,Ajayi,1122,-1,-1,-1,-1,419
-Jonathan,Leko,1123,-1,-1,-1,-1,420
-Kyle,Edwards,1124,-1,-1,-1,-1,421
-Darnell,Furlong,1125,-1,-1,-1,-1,422
-Sam,Field,1126,-1,-1,-1,-1,423
-Rekeem,Harper,1127,-1,-1,-1,-1,426
-Robert,Snodgrass,1128,-1,-1,-1,-1,428
-Grady,Diangana,1129,-1,-1,-1,-1,446
-Matheus,Pereira,1130,-1,-1,-1,-1,481
-Cedric,Kipre,1131,-1,-1,-1,-1,499
-Branislav,Ivanovic,1132,-1,-1,-1,-1,530
-Filip,Krovinovic,1133,-1,-1,-1,-1,555
-Karlan,Grant,1134,-1,-1,-1,-1,582
-Lee,Peltier,1135,-1,-1,-1,-1,600
-Cheikh,Diaby,1136,-1,-1,-1,-1,621
-Andy,Lonergan,1137,-1,579,760,571,639
-Mbaye,Diagne,1138,-1,-1,-1,-1,648
-Okay,Yokuslu,1139,-1,-1,-1,-1,654
-Caleb,Taylor,1140,-1,-1,-1,-1,700
-Taylor,Gardner-Hickman,1141,-1,-1,-1,-1,701
-Toby,King,1142,-1,-1,-1,-1,706
-Jesse,Lingard,1143,-1,-1,527,276,301
-Mark,Noble,1144,-1,-1,-1,406,427
-David,Martin,1145,-1,-1,-1,-1,429
-Darren,Randolph,1146,-1,80,571,407,430
-Lukasz,Fabianski,1147,-1,533,455,408,431
-Angelo,Ogbonna,1148,-1,577,456,409,432
-Roberto,Jimenez Gago,1149,-1,-1,-1,-1,433
-Jack,Wilshere,1150,-1,-1,-1,-1,434
-Andriy,Yarmolenko,1151,-1,-1,-1,412,436
-Ryan,Fredericks,1152,-1,68,59,415,438
-Manuel,Lanzini,1153,-1,-1,460,416,439
-Felipe Anderson,Pereira Gomes,1154,-1,-1,-1,-1,440
-Sébastien,Haller,1155,-1,-1,-1,-1,441
-Arthur,Masuaku,1156,-1,-1,462,417,442
-Fabián,Balbuena,1157,-1,-1,-1,-1,443
-Jordan,Hugill,1158,-1,-1,-1,322,444
-Albian,Ajeti,1159,-1,-1,-1,-1,447
-Tomas,Soucek,1160,-1,-1,468,422,449
-Pablo,Fornals,1161,-1,-1,-1,423,450
-Vladimir,Coufal,1162,-1,-1,463,418,558
-Saïd,Benrahma,1163,-1,525,464,419,587
-Frederik,Alves,1164,-1,-1,-1,521,637
-Ademipo,Odubeko,1165,-1,-1,-1,-1,638
-Conor,Coventry,1166,-1,529,556,522,668
-Jamal,Baptiste,1167,-1,-1,-1,554,669
-Nathan,Trott,1168,-1,-1,-1,-1,674
-João Filipe Iria,Santos Moutinho,1169,-1,-1,503,426,454
-Rui Pedro,dos Santos Patrício,1170,-1,-1,-1,427,455
-Ryan,Bennett,1171,-1,-1,-1,-1,456
-Romain,Saïss,1172,-1,-1,-1,431,461
-Jonathan,Castro Otto,1173,-1,560,477,433,462
-Léo,Bonatini,1174,-1,-1,-1,-1,463
-Rúben Diogo,da Silva Neves,1175,-1,-1,-1,436,466
-Oskar,Buur,1176,-1,-1,-1,-1,467
-Rúben Gonçalo,Silva Nascimento Vinagre,1177,-1,-1,-1,-1,471
-Matija,Sarkic,1178,-1,-1,-1,-1,472
-Bruno André,Cavaco Jordao,1179,-1,-1,-1,-1,475
-Leonardo,Campana,1180,-1,-1,-1,-1,476
-Fabio,Silva,1181,-1,-1,488,445,504
-Fernando,Marçal,1182,-1,-1,-1,432,505
-Vitor,Ferreira,1183,-1,-1,-1,-1,515
-Meritan,Shabani,1184,-1,-1,-1,-1,553
-Rayan,Ait Nouri,1185,-1,-1,-1,470,563
-Owen,Otasowie,1186,-1,-1,-1,442,581
-Theo,Corbeanu,1187,-1,-1,-1,-1,610
-Taylor,Perry,1188,-1,-1,-1,-1,611
-Lewis,Richards,1189,-1,-1,-1,-1,615
-Christian,Marques,1190,-1,-1,-1,549,616
-Andreas,Söndergaard,1191,-1,-1,-1,444,617
-Patrick,Cutrone,1192,-1,-1,-1,523,626
-Nigel,Lonwijk,1193,-1,-1,-1,-1,629
-Willian José,Da Silva,1194,-1,-1,-1,-1,642
-Hugo,Bueno,1195,-1,-1,-1,635,649
-Mattéo,Guendouzi,1196,-1,-1,-1,25,-1
-Nuno,Varela Tavares,1197,-1,23,17,466,-1
-Albert,Sambi Lokonga,1198,-1,21,18,478,-1
-Folarin,Balogun,1199,-1,1,-1,530,-1
-Arthur,Okonkwo,1200,-1,-1,-1,572,-1
-Takehiro,Tomiyasu,1201,-1,25,14,590,-1
-Charlie,Patino,1202,-1,-1,-1,664,-1
-Omari,Hutchinson,1203,-1,-1,653,692,-1
-Mika,Biereth,1204,-1,-1,-1,694,-1
-Ryan,Alebiosu,1205,-1,-1,-1,695,-1
-Zach,Awe,1206,-1,-1,-1,705,-1
-Zak,Swanson,1207,-1,-1,-1,711,-1
-Mazeed,Ogungbo,1208,-1,-1,-1,719,-1
-Marcelo,Flores,1209,-1,-1,-1,720,-1
-Alex,Kirk,1210,-1,-1,-1,730,-1
-Björn,Engels,1211,-1,-1,-1,31,-1
-Mbwana Ally,Samatta,1212,-1,-1,-1,48,-1
-Aaron,Ramsey,1213,-1,675,-1,496,-1
-Josh,Feeney,1214,-1,-1,-1,670,-1
-Philippe,Coutinho Correia,1215,-1,38,29,681,-1
-Benjamin,Chrisene,1216,-1,-1,-1,703,-1
-Tommi,O'Reilly,1217,-1,767,761,713,-1
-Pontus,Jansson,1218,-1,-1,78,76,-1
-Tariqe,Fosu-Henry,1219,-1,-1,-1,79,-1
-Sergi,Canós,1220,-1,-1,-1,81,-1
-Pelenda Joshua,Dasilva,1221,-1,-1,-1,82,-1
-Saman,Ghoddos,1222,-1,701,87,85,-1
-Charlie,Goode,1223,-1,102,96,87,-1
-Marcus,Forss,1224,-1,-1,97,88,-1
-Mads,Bech Sørensen,1225,-1,93,91,90,-1
-Ellery,Balcombe,1226,-1,91,100,92,-1
-Jan,Zamburek,1227,-1,-1,-1,93,-1
-Patrik,Gunnarsson,1228,-1,-1,-1,94,-1
-Halil,Dervişoğlu,1229,-1,100,541,95,-1
-Mads,Bidstrup,1230,-1,94,99,97,-1
-Dominic,Thompson,1231,-1,-1,98,498,-1
-Shandon,Baptiste,1232,-1,92,94,499,-1
-Finley,Stevens,1233,-1,-1,-1,569,-1
-Matthew,Cox,1234,-1,97,633,619,-1
-Maxwell,Haygarth,1235,-1,-1,-1,628,-1
-Nathan,Young-Coombes,1236,-1,-1,-1,640,-1
-Julian,Jeanvier,1237,-1,-1,-1,722,-1
-Bernardo,Fernandes Da Silva Junior,1238,-1,-1,-1,68,-1
-Enock,Mwepu,1239,-1,-1,118,462,-1
-Kjell,Scherpen,1240,-1,147,542,476,-1
-Taylor,Richards,1241,-1,-1,121,537,-1
-Haydon,Roberts,1242,-1,-1,122,560,-1
-Marc,Cucurella,1243,-1,-1,-1,584,-1
-Jürgen,Locadia,1244,-1,-1,-1,595,-1
-Jeremy,Sarmiento,1245,-1,-1,-1,612,-1
-Ed,Turns,1246,-1,-1,640,653,-1
-Marc,Leonard,1247,-1,-1,-1,654,-1
-Owen,Dodgson,1248,-1,622,-1,565,-1
-Aaron,Lennon,1249,-1,-1,-1,575,-1
-Connor,Roberts,1250,-1,176,-1,585,-1
-Wout,Weghorst,1251,-1,183,701,700,-1
-Sam,Waller,1252,-1,-1,-1,708,-1
-Dara,Costelloe,1253,-1,164,-1,726,-1
-Joseph,McGlynn,1254,-1,-1,-1,735,-1
-Thiago,Emiliano da Silva,1255,-1,217,128,121,-1
-Romelu,Lukaku,1256,-1,-1,-1,529,-1
-Saúl,Ñíguez,1257,-1,-1,-1,592,-1
-Harvey,Vale,1258,-1,-1,606,672,-1
-Robert Kenedy,Nunes do Nascimento,1259,-1,-1,138,690,-1
-Jarosław,Jach,1260,-1,-1,-1,158,-1
-Michael,Olise,1261,-1,236,171,464,-1
-Robert,Street,1262,-1,-1,-1,542,-1
-Scott,Banks,1263,-1,-1,-1,543,-1
-Tayo,Adaramola,1264,-1,763,766,709,-1
-Asmir,Begović,1265,-1,-1,176,481,-1
-Salomón,Rondón,1266,-1,-1,177,591,-1
-Charlie,Whitaker,1267,-1,-1,-1,613,-1
-Eldin,Jakupovic,1268,-1,-1,627,573,-1
-Lewis,Brunt,1269,-1,-1,273,646,-1
-Héctor Junior,Firpo Adames,1270,-1,-1,-1,463,-1
-Kristoffer,Klaesson,1271,-1,-1,236,490,-1
-Liam,McCarron,1272,-1,-1,-1,576,-1
-Nohan,Kenneh,1273,-1,-1,-1,600,-1
-Stuart,McKinstry,1274,-1,-1,-1,601,-1
-Leo Fuhr,Hjelde,1275,-1,-1,243,608,-1
-Lewis,Bate,1276,-1,-1,241,624,-1
-Kris,Moore,1277,-1,-1,-1,657,-1
-Kaide,Gordon,1278,-1,783,-1,625,-1
-Owen,Beck,1279,-1,782,-1,627,-1
-Marcelo,de Araújo Pitaluga Filho,1280,-1,756,-1,656,-1
-Joshua,Wilson-Esbrand,1281,-1,-1,-1,604,-1
-Romeo,Lavia,1282,-1,-1,-1,605,-1
-Conrad,Egan-Riley,1283,-1,-1,-1,651,-1
-Kayky da Silva,Chagas,1284,-1,-1,-1,663,-1
-Raphaël,Varane,1285,-1,395,329,555,-1
-Cristiano Ronaldo,dos Santos Aveiro,1286,-1,-1,326,579,-1
-Alejandro,Garnacho Ferreyra,1287,-1,-1,-1,723,-1
-Charlie,Savage,1288,-1,-1,-1,737,-1
-Freddie,Woodman,1289,-1,-1,-1,513,-1
-Lucas,De Bolle,1290,-1,-1,-1,707,-1
-Michael,McGovern,1291,-1,-1,-1,313,-1
-Tim,Krul,1292,-1,665,-1,314,-1
-Teemu,Pukki,1293,-1,-1,-1,315,-1
-Marco,Stiepermann,1294,-1,-1,-1,316,-1
-Lukas,Rupp,1295,-1,-1,-1,317,-1
-Kenny,McLean,1296,-1,-1,-1,318,-1
-Grant,Hanley,1297,-1,-1,-1,319,-1
-Onel,Hernández,1298,-1,-1,-1,320,-1
-Sam,Byram,1299,-1,-1,-1,321,-1
-Kieran,Dowell,1300,-1,-1,-1,323,-1
-Christoph,Zimmermann,1301,-1,-1,-1,324,-1
-Todd,Cantwell,1302,-1,-1,-1,325,-1
-Jacob,Sørensen,1303,-1,-1,-1,327,-1
-Przemyslaw,Placheta,1304,-1,-1,-1,328,-1
-Adam,Idah,1305,-1,-1,-1,329,-1
-Josh,Martin,1306,-1,-1,-1,330,-1
-Milot,Rashica,1307,-1,-1,-1,449,-1
-Dimitris,Giannoulis,1308,-1,-1,-1,457,-1
-Pierre,Lees-Melou,1309,-1,-1,-1,471,-1
-Bali,Mumba,1310,-1,-1,-1,515,-1
-Joshua,Sargent,1311,-1,-1,-1,516,-1
-Christos,Tzolis,1312,-1,-1,-1,528,-1
-Mathias,Normann,1313,-1,-1,-1,581,-1
-Jonathan,Tomkinson,1314,-1,-1,-1,643,-1
-Jonathan,Rowe,1315,-1,-1,-1,648,-1
-Thomas,Dickson-Peters,1316,-1,-1,-1,649,-1
-Jon,McCracken,1317,-1,-1,-1,666,-1
-Liam,Gibbs,1318,-1,-1,-1,683,-1
-Abu,Kamara,1319,-1,-1,-1,715,-1
-Tony,Springett,1320,-1,-1,-1,716,-1
-Romain,Perraud,1321,-1,-1,417,460,-1
-Mohamed,Elyounoussi,1322,-1,-1,406,517,-1
-Lyanco Evangelista,Silveira Neves Vojnovic,1323,-1,-1,-1,567,-1
-Dynel,Simeu,1324,-1,-1,-1,665,-1
-Thierry,Small,1325,-1,-1,-1,667,-1
-Pierluigi,Gollini,1326,-1,-1,-1,486,-1
-Emerson Aparecido,Leite de Souza Junior,1327,-1,-1,-1,588,-1
-Dilan,Markanday,1328,-1,-1,-1,597,-1
-Tobi,Omole,1329,-1,-1,-1,598,-1
-Harvey,White,1330,-1,-1,449,668,-1
-Jamie,Bowden,1331,-1,-1,-1,717,-1
-Marcel,Lavinier,1332,-1,-1,-1,724,-1
-Matthew,Craig,1333,-1,-1,764,729,-1
-Ben,Foster,1334,-1,-1,-1,376,-1
-Dan,Gosling,1335,-1,-1,-1,378,-1
-Craig,Cathcart,1336,-1,-1,-1,379,-1
-Troy,Deeney,1337,-1,-1,-1,380,-1
-Tom,Cleverley,1338,-1,-1,-1,381,-1
-Francisco,Femenía Far,1339,-1,-1,-1,382,-1
-Andre,Gray,1340,-1,-1,-1,383,-1
-Christian,Kabasele,1341,-1,-1,-1,384,-1
-Nathaniel,Chalobah,1342,-1,-1,203,385,-1
-William,Troost-Ekong,1343,-1,-1,-1,387,-1
-Stipe,Perica,1344,-1,-1,-1,388,-1
-Daniel,Bachmann,1345,-1,-1,-1,389,-1
-Adam,Masina,1346,-1,-1,-1,390,-1
-Ken,Sema,1347,-1,-1,-1,391,-1
-Philip,Zinckernagel,1348,-1,-1,-1,392,-1
-Isaac,Success Ajayi,1349,-1,-1,-1,393,-1
-Ayotomiwa,Dele-Bashiru,1350,-1,-1,-1,394,-1
-Ashley,Fletcher,1351,-1,-1,-1,395,-1
-Francisco,Sierralta,1352,-1,-1,-1,396,-1
-Domingos,Quina,1353,-1,-1,-1,397,-1
-Marc,Navarro,1354,-1,-1,-1,398,-1
-Ismaila,Sarr,1355,-1,-1,-1,399,-1
-Jeremy,Ngakia,1356,-1,-1,-1,400,-1
-Ben,Wilmot,1357,-1,-1,-1,401,-1
-Joseph,Hungbo,1358,-1,-1,-1,402,-1
-Imrân,Louza,1359,-1,-1,-1,403,-1
-Kwadwo,Baah,1360,-1,-1,-1,405,-1
-Matthew,Pollock,1361,-1,-1,-1,454,-1
-Oghenekaro Peter,Etebo,1362,-1,-1,-1,467,-1
-Adedapo,Awokoya-Mebude,1363,-1,-1,-1,469,-1
-Juan Camilo,Hernández Suárez,1364,-1,-1,-1,472,-1
-Juraj,Kucka,1365,-1,-1,-1,495,-1
-Ozan,Tufan,1366,-1,-1,-1,557,-1
-Robert,Elliot,1367,-1,-1,-1,574,-1
-Nicolas,Nkoulou,1368,-1,-1,-1,618,-1
-James,Morris,1369,-1,-1,-1,633,-1
-Vincent,Angelini,1370,-1,752,-1,642,-1
-Kamil,Conteh,1371,-1,-1,-1,669,-1
-Hassane,Kamara,1372,-1,-1,-1,676,-1
-Samir,Caetano de Souza Santos,1373,-1,-1,-1,677,-1
-Edo,Kayembe,1374,-1,-1,-1,679,-1
-Samuel,Kalu,1375,-1,-1,-1,698,-1
-Shaqai,Forde,1376,-1,-1,-1,725,-1
-Tiago,Çukur,1377,-1,-1,-1,732,-1
-Adrian,Blake,1378,-1,-1,-1,733,-1
-Jack,Grieves,1379,-1,-1,-1,734,-1
-Winston,Reid,1380,-1,-1,-1,410,-1
-Nikola,Vlasic,1381,-1,-1,466,582,-1
-Alex,Kral,1382,-1,-1,-1,589,-1
-Harrison,Ashby,1383,-1,404,555,617,-1
-Sonny,Perkins,1384,-1,-1,663,634,-1
-Ajibola,Alese,1385,-1,-1,-1,644,-1
-Armstrong,Oko-Flex,1386,-1,-1,572,652,-1
-Pierre,Ekwah,1387,-1,-1,-1,682,-1
-Daniel,Chesters,1388,-1,-1,-1,710,-1
-Yerson,Mosquera Valdelamar,1389,-1,-1,494,446,-1
-Francisco,Machado Mota de Castro Trincão,1390,-1,-1,-1,461,-1
-Chem,Campbell,1391,-1,-1,568,548,-1
-Hee-Chan,Hwang,1392,-1,-1,-1,583,-1
-Louie,Moulden,1393,-1,-1,-1,611,-1
-James,Storer,1394,-1,-1,-1,621,-1
-Bruno André,Cavaco Jordão,1395,-1,-1,-1,661,-1
-Dion,Sanderson,1396,-1,-1,-1,686,-1
-Ryan,Giles,1397,-1,553,-1,687,-1
-Mohamed,Elneny,1398,-1,3,4,-1,-1
-Pablo,Marí Villar,1399,-1,-1,20,-1,-1
-Lucas,Torreira di Pascua,1400,-1,-1,22,-1,-1
-Marcus,Oliveira Alencar,1401,-1,11,27,-1,-1
-Matthew,Smith,1402,-1,-1,607,-1,-1
-Lino,Sousa,1403,-1,-1,631,-1,-1
-Reuell,Walters,1404,-1,736,751,-1,-1
-Mauro,Bandeira,1405,-1,815,767,-1,-1
-Ludwig,Augustinsson,1406,-1,-1,525,-1,-1
-Kaine,Kesler Hayden,1407,-1,-1,537,-1,-1
-Alexandre,Moreno Lopera,1408,-1,32,694,-1,-1
-James,Wright,1409,-1,778,753,-1,-1
-Sebastian,Revan,1410,-1,-1,754,-1,-1
-Travis,Patterson,1411,-1,-1,755,-1,-1
-Junior,Stanislas,1412,-1,-1,58,-1,-1
-Jamal,Lowe,1413,-1,73,61,-1,-1
-Kieffer,Moore,1414,-1,76,62,-1,-1
-Emiliano,Marcondes,1415,-1,74,63,-1,-1
-Jack,Stacey,1416,-1,-1,65,-1,-1
-Dominic,Solanke,1417,-1,85,66,-1,-1
-Ben,Pearson,1418,-1,79,68,-1,-1
-Siriki,Dembélé,1419,-1,67,74,-1,-1
-Jordan,Zemura,1420,-1,-1,76,-1,-1
-Joe,Rothwell,1421,-1,81,505,-1,-1
-Christian,Saydee,1422,-1,-1,597,-1,-1
-Owen,Bevan,1423,-1,-1,598,-1,-1
-Cameron,Plain,1424,-1,-1,649,-1,-1
-Daniel,Adu-Adjei,1425,-1,-1,695,-1,-1
-Michael,Dacosta Gonzalez,1426,-1,849,696,-1,-1
-Dominic,Sadi,1427,-1,811,697,-1,-1
-Euan,Pollock,1428,-1,-1,706,-1,-1
-Matías,Viña,1429,-1,-1,718,-1,-1
-Ben,Greenwood,1430,-1,619,737,-1,-1
-Max,Kinsey-Wellings,1431,-1,-1,738,-1,-1
-Sergi,Canós Tenés,1432,-1,95,82,-1,-1
-Thomas,Strakosha,1433,-1,116,517,-1,-1
-Fin,Stevens,1434,-1,-1,540,-1,-1
-Tristan,Crama,1435,-1,-1,646,-1,-1
-Yegor,Yarmolyuk,1436,-1,-1,650,-1,-1
-Michael,Olakigbe,1437,-1,620,752,-1,-1
-Kaoru,Mitoma,1438,-1,143,124,-1,-1
-Matt,Clarke,1439,-1,-1,543,-1,-1
-James,Furlong,1440,-1,-1,652,-1,-1
-Tom,McGill,1441,-1,141,756,-1,-1
-Kalidou,Koulibaly,1442,-1,-1,520,-1,-1
-Denis,Zakaria,1443,-1,-1,616,-1,-1
-Bashir,Humphreys,1444,-1,671,673,-1,-1
-Ethan,Wady,1445,-1,-1,771,-1,-1
-Luke,Plange,1446,-1,237,496,-1,-1
-Joseph,Whitworth,1447,-1,-1,590,-1,-1
-Killian,Phillips,1448,-1,-1,604,-1,-1
-John-Kymani,Gordon,1449,-1,658,634,-1,-1
-Kofi,Balmer,1450,-1,-1,642,-1,-1
-Owen,Goodman,1451,-1,-1,644,-1,-1
-Jack,Wells-Morrison,1452,-1,-1,654,-1,-1
-Dele,Alli,1453,-1,248,181,-1,-1
-André,Tavares Gomes,1454,-1,244,184,-1,-1
-Rúben,Nascimento Vinagre,1455,-1,-1,531,-1,-1
-Stanley,Mills,1456,-1,-1,560,-1,-1
-Lewis,Warrington,1457,-1,841,561,-1,-1
-Thomas,Cannon,1458,-1,649,662,-1,-1
-Ishé,Samuels-Smith,1459,-1,819,757,-1,-1
-Sean,McAllister,1460,-1,-1,768,-1,-1
-Cédric,Alves Soares,1461,-1,2,1,-1,-1
-Paulo,Gazzaniga Farias,1462,-1,-1,207,-1,-1
-Ivan,Neves Abreu Cavaleiro,1463,-1,269,214,-1,-1
-João,Palhinha Gonçalves,1464,-1,280,220,-1,-1
-Terry,Ablade,1465,-1,-1,591,-1,-1
-Layvin,Kurzawa,1466,-1,-1,613,-1,-1
-Willian,Borges da Silva,1467,-1,591,614,-1,-1
-Stefan,Parkes,1468,-1,-1,636,-1,-1
-Kristian,Sekularac,1469,-1,796,667,-1,-1
-Sasa,Lukic,1470,-1,-1,726,-1,-1
-George,Wickens,1471,-1,-1,747,-1,-1
-Charlie,Robinson,1472,-1,-1,750,-1,-1
-Matthew,Dibley-Dias,1473,-1,652,763,-1,-1
-Alex,Smithies,1474,-1,-1,581,-1,-1
-Sammy,Braybrooke,1475,-1,-1,639,-1,-1
-Joe,Wormleighton,1476,-1,-1,645,-1,-1
-Mateus,Cardoso Lemos Martins,1477,-1,-1,715,-1,-1
-Wanya,Marçal-Madivadua,1478,-1,-1,735,-1,-1
-Junior,Firpo Adames,1479,-1,-1,239,-1,-1
-Rasmus,Kristensen,1480,-1,-1,244,-1,-1
-Marc,Roca Junqué,1481,-1,-1,245,-1,-1
-Brenden,Aaronson,1482,-1,-1,246,-1,-1
-Darko,Gyabi,1483,-1,-1,247,-1,-1
-Luis,Sinisterra Lucumí,1484,-1,-1,508,-1,-1
-Joel,Robles,1485,-1,-1,578,-1,-1
-Wilfried,Gnonto,1486,-1,-1,619,-1,-1
-Mateo Joseph,Fernández,1487,-1,-1,659,-1,-1
-Maximilian,Wöber,1488,-1,-1,691,-1,-1
-Weston,McKennie,1489,-1,-1,720,-1,-1
-Jeremiah,Chilokoa-Mullen,1490,-1,-1,742,-1,-1
-Diogo,Pinheiro Monteiro,1491,-1,-1,743,-1,-1
-Calvin,Ramsay,1492,-1,-1,298,-1,-1
-Luke,Chambers,1493,-1,726,563,-1,-1
-Stefan,Bajcetic,1494,-1,292,564,-1,-1
-Arthur Henrique,Ramos de Oliveira Melo,1495,-1,-1,620,-1,-1
-João,Cancelo,1496,-1,346,306,-1,-1
-Luke,Mbete-Tabu,1497,-1,-1,320,-1,-1
-Sergio,Gómez,1498,-1,366,587,-1,-1
-Ben,Knight,1499,-1,-1,600,-1,-1
-Máximo,Perrone,1500,-1,363,712,-1,-1
-Alex,Robertson,1501,-1,-1,772,-1,-1
-David,De Gea Quintana,1502,-1,-1,327,-1,-1
-Alex,Telles,1503,-1,370,334,-1,-1
-Zidane,Iqbal,1504,-1,-1,551,-1,-1
-Matej,Kovár,1505,-1,-1,615,-1,-1
-Rhys,Bennett,1506,-1,768,674,-1,-1
-Marcel,Sabitzer,1507,-1,-1,728,-1,-1
-Marc,Jurado Gomez,1508,-1,-1,759,-1,-1
-Javier,Manquillo Gaitán,1509,-1,422,363,-1,-1
-Loris,Karius,1510,-1,580,626,-1,-1
-Harry,Arter,1511,-1,435,378,-1,-1
-Steve,Cook,1512,-1,441,379,-1,-1
-Lyle,Taylor,1513,-1,-1,380,-1,-1
-Jack,Colback,1514,-1,-1,381,-1,-1
-Brice,Samba,1515,-1,-1,382,-1,-1
-Carlos,Ribeiro Dias,1516,-1,-1,383,-1,-1
-Joe,Lolley,1517,-1,-1,384,-1,-1
-Scott,McKenna,1518,-1,455,385,-1,-1
-Mohamed,Dräger,1519,-1,444,386,-1,-1
-Xande,Nascimento da Costa Silva,1520,-1,-1,390,-1,-1
-Sam,Surridge,1521,-1,464,391,-1,-1
-Richie,Laryea,1522,-1,452,392,-1,-1
-Loïc,Mbe Soh,1523,-1,454,393,-1,-1
-Braian,Ojeda Rodríguez,1524,-1,459,396,-1,-1
-Giulian,Biancone,1525,-1,438,399,-1,-1
-Moussa,Niakhaté,1526,-1,457,507,-1,-1
-Oliver,Hammond,1527,-1,-1,553,-1,-1
-Remo,Freuler,1528,-1,446,582,-1,-1
-Renan Augusto,Lodi dos Santos,1529,-1,-1,602,-1,-1
-Loïc,Badé,1530,-1,-1,621,-1,-1
-Dale,Taylor,1531,-1,-1,666,-1,-1
-Jordan,Smith,1532,-1,-1,675,-1,-1
-Gustavo Henrique,Furtado Scarpa,1533,-1,462,681,-1,-1
-Keylor,Navas,1534,-1,-1,729,-1,-1
-Felipe Augusto,de Almeida Monteiro,1535,-1,445,730,-1,-1
-André,Ayew,1536,-1,-1,734,-1,-1
-George,Shelvey,1537,-1,636,749,-1,-1
-Lyanco,Silveira Neves Vojnovic,1538,-1,-1,413,-1,-1
-Joe,Ayodele-Aribo,1539,-1,-1,512,-1,-1
-Duje,Caleta-Car,1540,-1,-1,623,-1,-1
-Lewis,Payne,1541,-1,-1,647,-1,-1
-Jimmy,Morgan,1542,-1,-1,671,-1,-1
-Mislav,Orsic,1543,-1,-1,692,-1,-1
-Carlos,Alcaraz,1544,-1,-1,693,-1,-1
-Kamari,Doyle,1545,-1,-1,769,-1,-1
-Dominic,Ballard,1546,-1,-1,770,-1,-1
-Ivan,Perišić,1547,-1,507,448,-1,-1
-Troy,Parrott,1548,-1,-1,453,-1,-1
-Clément,Lenglet,1549,-1,699,513,-1,-1
-Arnaut,Danjuma,1550,-1,-1,713,-1,-1
-Romaine,Mundle,1551,-1,-1,748,-1,-1
-George,Abbott,1552,-1,-1,758,-1,-1
-Yago,de Santiago Alonso,1553,-1,754,777,-1,-1
-Pablo,Fornals Malla,1554,-1,534,469,-1,-1
-Gianluca,Scamacca,1555,-1,541,529,-1,-1
-Thilo,Kehrer,1556,-1,537,588,-1,-1
-Divin,Mubama,1557,-1,538,669,-1,-1
-Joseph,Anang,1558,-1,647,739,-1,-1
-Krisztián,Hegyi,1559,-1,-1,740,-1,-1
-Rúben,da Silva Neves,1560,-1,-1,480,-1,-1
-Adama,Traoré Diarra,1561,-1,-1,491,-1,-1
-Matija,Šarkić,1562,-1,571,492,-1,-1
-Jackson,Smith,1563,-1,-1,557,-1,-1
-Joseph,Hodge,1564,-1,-1,566,-1,-1
-Connor,Ronan,1565,-1,-1,567,-1,-1
-Sasa,Kalajdzic,1566,-1,562,608,-1,-1
-Diego,Da Silva Costa,1567,-1,-1,625,-1,-1
-Harvey,Griffiths,1568,-1,787,658,-1,-1
-Dexter,Lembikisa,1569,-1,-1,664,-1,-1
-Charles,Sagoe,1570,-1,735,-1,-1,-1
-Bradley,Ibrahim,1571,-1,737,-1,-1,-1
-James,Sweet,1572,-1,817,-1,-1,-1
-Wesley,Moraes Ferreira da Silva,1573,-1,61,-1,-1,-1
-Nicolò,Zaniolo,1574,-1,672,-1,-1,-1
-Sam,Proctor,1575,-1,765,-1,-1,-1
-Finley,Munroe,1576,-1,854,-1,-1,-1
-Lander,Emery,1577,-1,866,-1,-1,-1
-Gavin,Kilkenny,1578,-1,71,-1,-1,-1
-Ionuț,Radu,1579,-1,607,-1,-1,-1
-Callan,McKenna,1580,-1,855,-1,-1,-1
-Yegor,Yarmoliuk,1581,-1,120,-1,-1,-1
-Ji-Soo,Kim,1582,-1,725,-1,-1,-1
-Valintino,Adedokun,1583,-1,733,-1,-1,-1
-Benjamin,Fredrick,1584,-1,797,-1,-1,-1
-Benjamin,Arthur,1585,-1,834,-1,-1,-1
-Yunus,Konak,1586,-1,864,-1,-1,-1
-Michał,Karbownik,1587,-1,136,-1,-1,-1
-Anssumane,Fati Vieira,1588,-1,700,-1,-1,-1
-Ben,Jackson,1589,-1,746,-1,-1,-1
-Joshua,Duffus,1590,-1,747,-1,-1,-1
-Leigh,Kavanagh,1591,-1,753,-1,-1,-1
-Luca,Barrington,1592,-1,755,-1,-1,-1
-Samy,Chouchane,1593,-1,843,-1,-1,-1
-Noël,Atom,1594,-1,861,-1,-1,-1
-Enock,Agyei,1595,-1,156,-1,-1,-1
-Ameen,Al-Dakhil,1596,-1,157,-1,-1,-1
-Samuel,Bastien,1597,-1,158,-1,-1,-1
-Manuel Benson,Hedilazio,1598,-1,159,-1,-1,-1
-Jordan,Beyer,1599,-1,160,-1,-1,-1
-Darko,Churlinov,1600,-1,162,-1,-1,-1
-Josh,Cullen,1601,-1,165,-1,-1,-1
-CJ,Egan-Riley,1602,-1,166,-1,-1,-1
-Hjalmar,Ekdal,1603,-1,167,-1,-1,-1
-Lyle,Foster,1604,-1,168,-1,-1,-1
-Denis,Franchi,1605,-1,169,-1,-1,-1
-Jóhann Berg,Gudmundsson,1606,-1,170,-1,-1,-1
-Luke,McNally,1607,-1,171,-1,-1,-1
-Scott,Twine,1608,-1,180,-1,-1,-1
-Lawrence,Vigouroux,1609,-1,181,-1,-1,-1
-Victor,da Silva,1610,-1,182,-1,-1,-1
-Anass,Zaroury,1611,-1,184,-1,-1,-1
-Zeki,Amdouni,1612,-1,594,-1,-1,-1
-Luca,Koleosho,1613,-1,605,-1,-1,-1
-Jacob,Bruun Larsen,1614,-1,608,-1,-1,-1
-Hannes,Delcroix,1615,-1,674,-1,-1,-1
-Han-Noah,Massengo,1616,-1,694,-1,-1,-1
-Mike,Trésor,1617,-1,706,-1,-1,-1
-Lorenz,Assignon,1618,-1,805,-1,-1,-1
-Maxime,Esteve,1619,-1,806,-1,-1,-1
-Abdul Rahman,Baba,1620,-1,190,-1,-1,-1
-Gabriel,Słonina,1621,-1,215,-1,-1,-1
-Mason,Burstow,1622,-1,623,-1,-1,-1
-Eddie,Beach,1623,-1,680,-1,-1,-1
-Diego Manuel Jadon,da Silva Moreira,1624,-1,681,-1,-1,-1
-Ronnie,Stutter,1625,-1,717,-1,-1,-1
-Alex,Matos,1626,-1,718,-1,-1,-1
-Josh,Brooking,1627,-1,723,-1,-1,-1
-Leo,Castledine,1628,-1,758,-1,-1,-1
-Ollie,Harrison,1629,-1,820,-1,-1,-1
-Jimi,Tauriainen,1630,-1,830,-1,-1,-1
-Josh,Acheampong,1631,-1,838,-1,-1,-1
-Teddy,Sharman-Lowe,1632,-1,847,-1,-1,-1
-Tyrique,George,1633,-1,851,-1,-1,-1
-Kiano,Dyer,1634,-1,852,-1,-1,-1
-Ted,Curd,1635,-1,858,-1,-1,-1
-Zak,Sturge,1636,-1,859,-1,-1,-1
-Joe,Whitworth,1637,-1,243,-1,-1,-1
-Ademola,Ola-Adebomi,1638,-1,720,-1,-1,-1
-Jadan,Raymond,1639,-1,724,-1,-1,-1
-Roshaun,Mathurin,1640,-1,842,-1,-1,-1
-Arnaut,Danjuma Groeneveld,1641,-1,601,-1,-1,-1
-Mackenzie,Hunt,1642,-1,719,-1,-1,-1
-Elijah,Campbell,1643,-1,761,-1,-1,-1
-Billy,Crellin,1644,-1,863,-1,-1,-1
-Luc,De Fougerolles,1645,-1,625,-1,-1,-1
-Fodé,Ballo-Touré,1646,-1,707,-1,-1,-1
-Devan,Tanton,1647,-1,732,-1,-1,-1
-Wataru,Endo,1648,-1,668,-1,-1,-1
-Callum,Scanlon,1649,-1,728,-1,-1,-1
-Treymaurice,Nyoni,1650,-1,743,-1,-1,-1
-Lewis,Koumas,1651,-1,812,-1,-1,-1
-Fabian,Mrozek,1652,-1,813,-1,-1,-1
-Jayden,Danns,1653,-1,824,-1,-1,-1
-Amara,Nallo,1654,-1,837,-1,-1,-1
-Elijah,Adebayo,1655,-1,314,-1,-1,-1
-Mads Juel,Andersen,1656,-1,315,-1,-1,-1
-Amari'i,Bell,1657,-1,316,-1,-1,-1
-Luke,Berry,1658,-1,317,-1,-1,-1
-Reece,Burke,1659,-1,318,-1,-1,-1
-Allan,Campbell,1660,-1,319,-1,-1,-1
-Jordan,Clark,1661,-1,320,-1,-1,-1
-Alfie,Doughty,1662,-1,321,-1,-1,-1
-John,McAtee,1663,-1,324,-1,-1,-1
-Carlos,Mendes Gomes,1664,-1,325,-1,-1,-1
-Carlton,Morris,1665,-1,326,-1,-1,-1
-Admiral,Muskwe,1666,-1,327,-1,-1,-1
-Fred,Onyedinma,1667,-1,329,-1,-1,-1
-Gabriel,Osho,1668,-1,330,-1,-1,-1
-Aribim,Pepple,1669,-1,331,-1,-1,-1
-Dion,Pereira,1670,-1,332,-1,-1,-1
-Dan,Potts,1671,-1,333,-1,-1,-1
-Glen,Rea,1672,-1,334,-1,-1,-1
-James,Shea,1673,-1,335,-1,-1,-1
-Joe,Taylor,1674,-1,336,-1,-1,-1
-Elliot,Thorpe,1675,-1,337,-1,-1,-1
-Jack,Walton,1676,-1,338,-1,-1,-1
-Louie,Watson,1677,-1,339,-1,-1,-1
-Cauley,Woodrow,1678,-1,340,-1,-1,-1
-Tom,Lockyer,1679,-1,575,-1,-1,-1
-Pelly Ruddock,Mpanzu,1680,-1,582,-1,-1,-1
-Thomas,Kaminski,1681,-1,614,-1,-1,-1
-Jacob,Brown,1682,-1,631,-1,-1,-1
-Aidan,Francis-Clarke,1683,-1,648,-1,-1,-1
-Joseph,Johnson,1684,-1,682,-1,-1,-1
-Jayden,Luker,1685,-1,729,-1,-1,-1
-Zack,Nelson,1686,-1,734,-1,-1,-1
-Daiki,Hashioka,1687,-1,798,-1,-1,-1
-Axel,Piesold,1688,-1,831,-1,-1,-1
-Dominic,Dos Santos Martins,1689,-1,839,-1,-1,-1
-Christian,Chigozie,1690,-1,844,-1,-1,-1
-Taylan,Harris,1691,-1,848,-1,-1,-1
-Mahamadou,Susoho,1692,-1,762,-1,-1,-1
-Micah,Hamilton,1693,-1,771,-1,-1,-1
-Omari,Forson,1694,-1,632,-1,-1,-1
-Radek,Vítek,1695,-1,669,-1,-1,-1
-Daniel,Gore,1696,-1,685,-1,-1,-1
-Sofyan,Amrabat,1697,-1,709,-1,-1,-1
-Joe,Hugill,1698,-1,748,-1,-1,-1
-Willy,Kambwala,1699,-1,766,-1,-1,-1
-Habeeb,Ogunneye,1700,-1,833,-1,-1,-1
-Dermot,Mee,1701,-1,835,-1,-1,-1
-Louis,Jackson,1702,-1,856,-1,-1,-1
-Kell,Watts,1703,-1,431,-1,-1,-1
-Amadou,Diallo,1704,-1,738,-1,-1,-1
-Ben,Parkinson,1705,-1,739,-1,-1,-1
-Michael,Ndiweni,1706,-1,745,-1,-1,-1
-Travis,Hernes,1707,-1,795,-1,-1,-1
-Brandon,Aguilera Zamora,1708,-1,434,-1,-1,-1
-Ethan,Horvath,1709,-1,449,-1,-1,-1
-Olu,Aina,1710,-1,604,-1,-1,-1
-Josh,Powell,1711,-1,637,-1,-1,-1
-Gonzalo,Montiel,1712,-1,679,-1,-1,-1
-Jamie,McDonnell,1713,-1,779,-1,-1,-1
-Detlef Esapa,Osong,1714,-1,780,-1,-1,-1
-Joe,Gardner,1715,-1,781,-1,-1,-1
-Giovanni,Reyna,1716,-1,801,-1,-1,-1
-Rodrigo,Duarte Ribeiro,1717,-1,809,-1,-1,-1
-Auston,Trusty,1718,-1,27,-1,-1,-1
-Anel,Ahmedhodžić,1719,-1,471,-1,-1,-1
-Jordan,Amissah,1720,-1,472,-1,-1,-1
-Ismaila,Coulibaly,1721,-1,478,-1,-1,-1
-Adam,Davies,1722,-1,479,-1,-1,-1
-Rhys,Norrington-Davies,1723,-1,487,-1,-1,-1
-Anis,Slimane,1724,-1,587,-1,-1,-1
-Yasser,Larouci,1725,-1,592,-1,-1,-1
-Bénie,Traoré,1726,-1,593,-1,-1,-1
-Vini,de Souza Costa,1727,-1,638,-1,-1,-1
-Louie,Marsh,1728,-1,654,-1,-1,-1
-Andre,Brooks,1729,-1,655,-1,-1,-1
-Gustavo,Hamer,1730,-1,663,-1,-1,-1
-Ryan,Oné,1731,-1,730,-1,-1,-1
-Jili,Buyabu,1732,-1,731,-1,-1,-1
-Sydie,Peck,1733,-1,759,-1,-1,-1
-Ben,Brereton,1734,-1,775,-1,-1,-1
-Ivo,Grbic,1735,-1,790,-1,-1,-1
-Billy,Blacker,1736,-1,822,-1,-1,-1
-Oliver,Arblaster,1737,-1,823,-1,-1,-1
-Dovydas,Sasnauskas,1738,-1,827,-1,-1,-1
-Sam,Curtis,1739,-1,828,-1,-1,-1
-Owen,Hampson,1740,-1,857,-1,-1,-1
-Tanguy,Ndombélé Alvaro,1741,-1,505,-1,-1,-1
-Jamie,Donley,1742,-1,722,-1,-1,-1
-Alfie,Dorrington,1743,-1,740,-1,-1,-1
-Radu,Dragusin,1744,-1,777,-1,-1,-1
-Tyrese,Hall,1745,-1,862,-1,-1,-1
-Nikola,Vlašić,1746,-1,543,-1,-1,-1
-Lewis,Orford,1747,-1,773,-1,-1,-1
-Oliver,Scarles,1748,-1,784,-1,-1,-1
-Callum,Marshall,1749,-1,785,-1,-1,-1
-Bendegúz,Bolla,1750,-1,547,-1,-1,-1
-Bruno,Cavaco Jordão,1751,-1,561,-1,-1,-1
-Matthew,Whittingham,1752,-1,749,-1,-1,-1
-Justin,Hubner,1753,-1,751,-1,-1,-1
-Owen,Hesketh,1754,-1,769,-1,-1,-1
-Ty,Barnett,1755,-1,770,-1,-1,-1
-Noha,Lemina,1756,-1,800,-1,-1,-1
-Wesley,Okoduwa,1757,-1,832,-1,-1,-1
-Fletcher,Holman,1758,-1,840,-1,-1,-1
-Temple,Ojinnaka,1759,-1,853,-1,-1,-1
+First_Name,Last_Name,Unique_ID,24_id,23_id,22_id
+Fábio,Ferreira Vieira,1,1,4,25
+Gabriel,Fernando de Jesus,2,2,8,28
+Gabriel,dos Santos Magalhães,3,3,5,16
+Kai,Havertz,4,4,6,145
+Karl,Hein,5,5,646,655
+Jurriën,Timber,6,6,585,-1
+Jorge Luiz,Frello Filho,7,7,9,130
+Jakub,Kiwior,8,8,10,710
+Gabriel,Martinelli Silva,9,9,12,19
+Ethan,Nwaneri,12,12,772,630
+Martin,Ødegaard,13,13,14,7
+David,Raya Martin,15,15,113,81
+Declan,Rice,16,16,540,467
+Bukayo,Saka,17,17,19,13
+William,Saliba,18,18,20,26
+Thomas,Partey,20,20,15,6
+Kieran,Tierney,21,21,24,8
+Tomiyasu,Takehiro,22,22,-1,-1
+Leandro,Trossard,23,23,26,111
+Benjamin,White,24,24,29,10
+Oleksandr,Zinchenko,25,25,31,313
+Norberto,Murara Neto,73,73,77,574
+Raheem,Sterling,186,186,216,304
+Riccardo,Calafiori,578,578,-1,-1
+Myles,Lewis-Skelly,597,597,764,-1
+Mikel,Merino,633,633,-1,-1
+Salah-Eddine,Oulad M'hand,638,638,-1,-1
+Tommy,Setford,639,639,-1,-1
+Maldini,Kacurri,657,657,-1,-1
+Ayden,Heaven,658,658,-1,-1
+Ismeal,Kabia,659,659,-1,-1
+Josh,Nichols,662,662,-1,-1
+Nathan,Butler-Oyedeji,665,665,-1,685
+Leon,Bailey,28,28,34,45
+Ross,Barkley,29,29,630,131
+Enzo,Barrenechea,30,30,-1,-1
+Emiliano,Buendía Stati,31,31,35,42
+Matty,Cash,32,32,36,43
+Leander,Dendoncker,33,33,40,479
+Moussa,Diaby,34,34,599,-1
+Diego Carlos,Santos Silva,35,35,41,50
+Lucas,Digne,36,36,42,33
+Lewis,Dobbin,37,37,624,-1
+Jhon,Durán,38,38,44,711
+Joe,Gauci,39,39,818,-1
+Kortney,Hause,40,40,45,38
+Samuel,Iling-Junior,41,41,-1,-1
+Boubacar,Kamara,42,42,47,53
+Kaine,Kesler-Hayden,43,43,793,-1
+Ezri,Konsa Ngoyo,44,44,48,44
+Ian,Maatsen,45,45,609,-1
+Filip,Marschall,46,46,670,670
+Emiliano,Martínez Romero,47,47,49,31
+John,McGinn,48,48,50,37
+Tyrone,Mings,49,49,51,39
+Kosta,Nedeljković,50,50,-1,-1
+Robin,Olsen,51,51,53,35
+Pau,Torres,52,52,584,-1
+Jacob,Ramsey,53,53,55,47
+Morgan,Rogers,54,54,803,-1
+Viljami,Sinisalo,55,55,57,707
+Lino,da Cruz Sousa,56,56,-1,-1
+Youri,Tielemans,57,57,58,259
+Ollie,Watkins,58,58,60,40
+Amadou,Onana,233,233,261,577
+Jaden,Philogene,569,569,-1,-1
+Lamare,Bogarde,598,598,-1,638
+Sil,Swinkels,640,640,-1,744
+Oliwier,Zych,641,641,686,745
+Kadan,Young,656,656,865,672
+Ben,Broggio,679,679,-1,-1
+Max,Aarons,59,59,643,-1
+Tyler,Adams,60,60,673,506
+Jaidon,Anthony,61,61,62,75
+David,Brooks,62,62,64,60
+Ryan,Christie,63,63,65,69
+Lewis,Cook,64,64,66,67
+Enes,Ünal,65,65,804,-1
+Romain,Faivre,66,66,799,-1
+Hamed,Traorè,67,67,87,723
+James,Hill,68,68,69,539
+Daniel,Jebbison,69,69,483,-1
+Milos,Kerkez,70,70,595,-1
+Justin,Kluivert,71,71,72,-1
+Chris,Mepham,72,72,75,71
+Dango,Ouattara,74,74,78,705
+Alex,Paulsen,75,75,-1,-1
+Philip,Billing,76,76,63,70
+Alex,Scott,77,77,644,-1
+Antoine,Semenyo,78,78,82,714
+Marcos,Senesi,79,79,83,576
+Luis,Sinisterra,80,80,705,-1
+Adam,Smith,81,81,84,57
+Marcus,Tavernier,83,83,86,535
+Mark,Travers,84,84,88,72
+Illia,Zabarnyi,85,85,89,722
+Kepa,Arrizabalaga,152,152,187,133
+Dean,Huijsen,580,580,-1,-1
+Julián,Araujo Zúñiga,592,592,-1,-1
+Will,Dennis,599,599,-1,77
+Francisco Evanilson,de Lima Barbosa,617,617,-1,-1
+Max,Kinsey,680,680,802,-1
+Ben,Winterburn,687,687,-1,-1
+Kristoffer,Ajer,86,86,90,84
+Ethan,Brierley,87,87,684,-1
+Nathan,Collins,88,88,96,516
+Mikkel,Damsgaard,89,89,98,580
+Josh,Dasilva,90,90,99,83
+Mark,Flekken,91,91,101,-1
+Rico,Henry,92,92,103,85
+Aaron,Hickey,93,93,104,510
+Vitaly,Janelt,94,94,105,86
+Mathias,Jensen,95,95,106,88
+Kim,Ji-soo,96,96,-1,-1
+Yunus Emre,Konak,97,97,-1,-1
+Keane,Lewis-Potter,98,98,107,515
+Bryan,Mbeumo,99,99,108,95
+Ben,Mee,100,100,109,526
+Christian,Nørgaard,101,101,110,79
+Frank,Onyeka,102,102,111,93
+Myles,Peart-Harris,103,103,744,-1
+Ethan,Pinnock,104,104,112,92
+Mads,Roerslev Rasmussen,105,105,114,90
+Kevin,Schade,106,106,115,688
+Igor Thiago,Nascimento Rodrigues,107,107,-1,-1
+Ivan,Toney,108,108,117,80
+Hákon,Valdimarsson,109,109,789,-1
+Yoane,Wissa,110,110,119,89
+Yehor,Yarmoliuk,111,111,-1,-1
+Mathias,Jorgensen,112,112,121,595
+Fábio,Freitas Gouveia Carvalho,314,314,-1,296
+Sepp,van den Berg,338,338,312,500
+Ryan,Trevitt,602,602,118,632
+Gustavo,Nunes Fernandes Gomes,634,634,-1,-1
+Jayden,Meghoma,649,649,-1,-1
+Tony,Yogane,661,661,-1,-1
+Paris,Maghoma,674,674,-1,-1
+Simon,Adingra,113,113,122,-1
+Benicio,Baker-Boaitey,114,114,742,-1
+Carlos,Baleba,115,115,690,-1
+Valentín,Barco,116,116,816,-1
+Amario,Cozier-Duberry,118,118,-1,668
+Mahmoud,Dahoud,119,119,128,-1
+Lewis,Dunk,120,120,129,106
+Julio,Enciso,121,121,130,125
+Pervis,Estupiñán,122,122,131,586
+Evan,Ferguson,123,123,132,596
+Billy,Gilmour,124,124,133,149
+Pascal,Groß,125,125,134,104
+Jack,Hinshelwood,126,126,621,677
+Ibrahim,Osman,127,127,-1,-1
+Igor Julio,dos Santos de Paulo,128,128,606,-1
+João Pedro,Junqueira de Jesus,129,129,135,-1
+Kacper,Kozłowski,130,130,137,126
+Tariq,Lamptey,131,131,139,114
+Solly,March,132,132,140,107
+Adrian,Mazilu,133,133,-1,-1
+James,Milner,134,134,142,274
+Yankuba,Minteh,135,135,-1,-1
+Mitoma,Kaoru,136,136,-1,-1
+Jakub,Moder,137,137,144,117
+Mark,O’Mahony,138,138,741,-1
+Odeluga,Offiah,139,139,845,736
+Cameron,Peupion,140,140,786,762
+Jeremy,Sarmiento Morante,141,141,146,119
+Jason,Steele,142,142,148,102
+Deniz,Undav,143,143,149,123
+Jan Paul,van Hecke,144,144,150,544
+Joël,Veltman,145,145,151,109
+Bart,Verbruggen,146,146,152,-1
+Adam,Webster,147,147,153,108
+Danny,Welbeck,148,148,154,103
+Mats,Wieffer,149,149,-1,-1
+Brajan,Gruda,595,595,-1,-1
+Yasin,Ayari,600,600,124,719
+Andrew,Moran,601,601,-1,651
+Carl,Rushworth,615,615,-1,-1
+Georginio,Rutter,618,618,-1,700
+Ferdi,Kadioglu,628,628,-1,-1
+Matt,O'Riley,629,629,-1,-1
+Imari,Samuels,663,663,-1,765
+Killian,Cahill,668,668,-1,-1
+Ruairi,McConville,681,681,-1,-1
+Jacob,Slater,685,685,-1,-1
+Andrey,Nascimento dos Santos,150,150,186,702
+Ângelo Gabriel,Borges Damaceno,151,151,589,-1
+Benoît,Badiashile,153,153,191,689
+Lucas,Bergström,154,154,659,-1
+Marcus,Bettinelli,155,155,192,635
+Moisés,Caicedo Corozo,157,157,126,120
+Cesare,Casadei,158,158,791,-1
+Ben,Chilwell,160,160,195,139
+Carney,Chukwuemeka,161,161,196,48
+Levi,Colwill,162,162,197,559
+Marc,Cucurella Saseta,163,163,198,112
+David Datro,Fofana,164,164,200,684
+Deivid Washington,de Souza Eugênio,165,165,677,-1
+Kiernan,Dewsbury-Hall,166,166,-1,266
+Axel,Disasi,167,167,611,-1
+Enzo,Fernández,168,168,199,724
+Conor,Gallagher,169,169,202,148
+Alfie,Gilchrist,170,170,716,775
+Malo,Gusto,171,171,203,-1
+Reece,James,172,172,206,146
+Omari,Kellyman,173,173,618,-1
+Roméo,Lavia,174,174,667,321
+Romelu,Lukaku Bolingoli,175,175,207,-1
+Malang,Sarr,176,176,214,143
+Noni,Madueke,177,177,208,708
+Marc,Guiu Paz,178,178,-1,-1
+Mykhailo,Mudryk,179,179,210,699
+Nicolas,Jackson,180,180,211,-1
+Christopher,Nkunku,181,181,212,-1
+Cole,Palmer,182,182,362,316
+Đorđe,Petrović,183,183,687,-1
+Renato,Palma Veiga,184,184,-1,-1
+Robert,Sánchez,185,185,145,113
+Tosin,Adarabioyo,187,187,286,209
+Wesley,Fofana,189,189,201,272
+Jadon,Sancho,386,386,397,340
+Pedro,Lomba Neto,560,560,567,486
+Caleb,Wiley,575,575,-1,-1
+Filip,Jørgensen,581,581,-1,-1
+João,Félix Sequeira,621,621,-1,690
+Eddie,Nketiah,11,11,13,11
+Trevoh,Chalobah,159,159,194,141
+Naouirou,Ahamada,190,190,219,725
+Cheick,Doucouré,193,193,223,514
+Chris,Richards,194,194,238,530
+Chadi,Riad Dnanou,195,195,-1,-1
+Nathaniel,Clyne,196,196,222,157
+Malcolm,Ebiowei,197,197,224,173
+Eberechi,Eze,199,199,226,169
+Marc,Guéhi,200,200,228,167
+Dean,Henderson,201,201,385,398
+Rob,Holding,202,202,7,5
+Will,Hughes,203,203,229,163
+Daichi,Kamada,205,205,-1,-1
+Jefferson,Lerma Solís,206,206,231,64
+Jean-Philippe,Mateta,207,207,232,168
+Matheus,França de Oliveira,208,208,615,-1
+Remi,Matthews,209,209,233,495
+Tyrick,Mitchell,210,210,234,170
+Daniel,Muñoz,211,211,792,-1
+David,Ozoh,212,212,721,676
+Jesurun,Rak-Sakyi,213,213,657,172
+Jeffrey,Schlupp,214,214,240,161
+Joel,Ward,215,215,242,156
+Adam,Wharton,216,216,807,-1
+Matt,Turner,445,445,28,24
+Ismaïla,Sarr,585,585,-1,-1
+Franco,Umeh-Chibueze,644,644,821,-1
+Justin,Devenny,645,645,-1,-1
+Asher,Agbinone,646,646,-1,-1
+Kaden,Rodney,647,647,825,601
+Maxence,Lacroix,650,650,-1,-1
+Caleb,Kporha,666,666,-1,-1
+Zach,Marsh,676,676,-1,-1
+Armando,Broja,156,156,193,150
+Abdoulaye,Doucouré,217,217,249,185
+Norberto Bercique,Gomes Betuncal,218,218,691,-1
+Jarrad,Branthwaite,219,219,245,196
+Dominic,Calvert-Lewin,220,220,246,191
+Séamus,Coleman,221,221,-1,-1
+Idrissa,Gueye,222,222,254,611
+James,Garner,223,223,250,570
+Jack,Harrison,224,224,661,233
+Mason,Holgate,225,225,255,192
+Tim,Iroegbunam,226,226,46,49
+João,Neves Virgínia,227,227,266,-1
+Michael,Keane,228,228,257,180
+Neal,Maupay,229,229,258,110
+Dwight,McNeil,230,230,259,534
+Vitalii,Mykolenko,231,231,260,194
+Iliman,Ndiaye,232,232,486,-1
+Nathan,Patterson,234,234,262,197
+Jordan,Pickford,235,235,263,182
+James,Tarkowski,236,236,265,199
+Youssef,Ramalho Chermiti,237,237,645,-1
+Ashley,Young,238,238,588,538
+Jesper,Lindstrøm,577,577,-1,-1
+Jake,O'Brien,582,582,235,-1
+Harrison,Armstrong,603,603,-1,-1
+Jenson,Metcalfe,614,614,760,-1
+Asmir,Begovic,624,624,-1,-1
+Roman,Dixon,627,627,-1,-1
+Orel,Mangala,651,651,453,536
+Callum,Bates,678,678,-1,-1
+Reiss,Nelson,10,10,578,23
+Emile,Smith Rowe,19,19,22,12
+Joachim,Andersen,191,191,220,165
+Adama,Traoré,239,239,662,-1
+Andreas,Hoelgebaum Pereira,240,240,267,346
+Calvin,Bassey,241,241,610,-1
+Steven,Benda,242,242,692,-1
+Tom,Cairney,243,243,268,200
+Timothy,Castagne,244,244,688,258
+Issa,Diop,245,245,271,470
+Luke,Harris,246,246,683,546
+Alex,Iwobi,247,247,256,186
+Bernd,Leno,248,248,275,2
+Saša,Lukić,249,249,276,-1
+Kevin,Mbabu,250,250,277,532
+Rodrigo,Muniz Carvalho,251,251,279,218
+Raúl,Jiménez,252,252,558,476
+Tim,Ream,253,253,281,201
+Harrison,Reed,254,254,282,211
+Antonee,Robinson,255,255,283,217
+Jay,Stansfield,256,256,651,219
+Kenny,Tete,257,257,285,215
+Carlos Vinícius,Alves Morais,258,258,287,618
+Harry,Wilson,259,259,288,212
+Ryan,Sessegnon,579,579,514,436
+Jorge,Cuenca Barreno,586,586,-1,-1
+Josh,King,604,604,-1,-1
+Martial,Godo,605,605,-1,641
+Sander,Berge,622,622,475,-1
+Samuel,Amissah,690,690,-1,-1
+Ali,Al-Hamadi,260,260,-1,-1
+Elkan,Baggott,261,261,-1,-1
+Nathan,Broadhead,262,262,-1,-1
+Cameron,Burgess,263,263,-1,-1
+Wes,Burns,264,264,-1,-1
+Conor,Chaplin,265,265,-1,-1
+Harry,Clarke,266,266,-1,-1
+Leif,Davis,267,267,-1,-1
+Liam,Delap,268,268,-1,323
+George,Edmundson,269,269,-1,-1
+Jacob,Greaves,270,270,-1,-1
+Marcus,Myers-Harness,271,271,-1,-1
+George,Hirst,272,272,-1,-1
+Cameron,Humphreys,273,273,-1,-1
+Omari,Giraud-Hutchinson,274,274,-1,-1
+Ben,Johnson,275,275,536,471
+Freddie,Ladapo,276,276,-1,-1
+Massimo,Luongo,277,277,-1,-1
+Sam,Morsy,278,278,-1,-1
+Corrie,Ndaba,279,279,-1,-1
+Cieran,Slicker,280,280,-1,-1
+Jack,Taylor,281,281,-1,-1
+Axel,Tuanzebe,282,282,-1,-1
+Christian,Walton,283,283,-1,-1
+Luke,Woolfenden,284,284,-1,-1
+Kalvin,Phillips,359,359,364,325
+Arijanet,Muric,568,568,172,-1
+Conor,Townsend,583,583,-1,-1
+Sam,Szmodics,611,611,-1,-1
+Jens,Cajuste,619,619,-1,-1
+Dara,O'Shea,630,630,173,-1
+Jack,Clarke,631,631,-1,-1
+Chiedozie,Ogbene,632,632,328,-1
+Facundo,Buonanotte,117,117,125,679
+Jordan,Ayew,192,192,221,159
+Odsonne,Edouard,198,198,225,166
+Boubakary,Soumaré,285,285,-1,269
+Tom,Cannon,286,286,-1,-1
+Hamza,Choudhury,287,287,-1,263
+Conor,Coady,288,288,-1,475
+Patson,Daka,289,289,-1,271
+Bobby,De Cordova-Reid,290,290,270,205
+Wout,Faes,291,291,-1,612
+Michael,Golding,292,292,-1,-1
+Mads,Hermansen,293,293,-1,-1
+Daniel,Iversen,294,294,-1,548
+James,Justin,295,295,-1,268
+Victor,Kristiansen,296,296,-1,709
+Wanya,Marçal-Madivádua,297,297,-1,-1
+Stephy,Mavididi,298,298,-1,-1
+Kasey,McAteer,299,299,-1,687
+Wilfred,Ndidi,300,300,-1,265
+Caleb,Okoli,301,301,-1,-1
+Ricardo,Barbosa Pereira,302,302,-1,256
+Harry,Souttar,303,303,-1,727
+Jakub,Stolarczyk,304,304,-1,-1
+Luke,Thomas,305,305,693,270
+Jamie,Vardy,306,306,-1,255
+Jannik,Vestergaard,307,307,-1,253
+Danny,Ward,308,308,-1,254
+Harry,Winks,309,309,-1,434
+Oliver,Skipp,501,501,515,441
+Abdul,Fatawu,570,570,-1,-1
+Will,Alves,606,606,-1,-1
+Ben,Nelson,616,616,-1,-1
+Bilal,El Khannouss,635,635,-1,-1
+Alisson,Ramses Becker,310,310,291,281
+Trent,Alexander-Arnold,311,311,290,285
+Stefan,Bajčetić Maquieira,312,312,-1,-1
+Conor,Bradley,313,313,757,-1
+Bobby,Clark,315,315,627,584
+Darwin,Núñez Ribeiro,316,316,293,297
+Diogo,Teixeira da Silva,317,317,294,288
+Ben,Doak,318,318,628,665
+Harvey,Elliott,319,319,295,294
+Endo,Wataru,320,320,-1,-1
+Cody,Gakpo,321,321,297,680
+Joe,Gomez,322,322,298,-1
+Ryan,Gravenberch,323,323,708,-1
+Curtis,Jones,324,324,300,291
+Caoimhin,Kelleher,325,325,301,289
+Ibrahima,Konaté,326,326,302,290
+Luis,Díaz,327,327,303,293
+Mohamed,Salah,328,328,308,283
+Alexis,Mac Allister,329,329,304,116
+James,McConnell,330,330,629,-1
+Tyler,Morton,331,331,-1,-1
+Nathaniel,Phillips,332,332,306,501
+Jarell,Quansah,333,333,626,-1
+Rhys,Williams,334,334,-1,498
+Andrew,Robertson,335,335,307,284
+Dominik,Szoboszlai,336,336,309,-1
+Konstantinos,Tsimikas,337,337,311,292
+Virgil,van Dijk,339,339,313,280
+Federico,Chiesa,636,636,-1,-1
+Vítezslav,Jaros,660,660,-1,-1
+Harvey,Davies,669,669,-1,592
+Treymaurice,Nyoni,688,688,743,-1
+Manuel,Akanji,340,340,341,610
+Nathan,Aké,341,341,342,308
+Bernardo,Veiga de Carvalho e Silva,342,342,344,311
+Oscar,Bobb,343,343,345,-1
+Scott,Carson,344,344,347,502
+Kevin,De Bruyne,345,345,349,301
+Jérémy,Doku,346,346,678,-1
+Ederson,Santana de Moraes,347,347,352,307
+Phil,Foden,348,348,353,314
+Jack,Grealish,349,349,354,305
+Joško,Gvardiol,350,350,616,-1
+Erling,Haaland,351,351,355,318
+Julián,Álvarez,352,352,343,319
+João,Cavaco Cancelo,353,353,-1,-1
+Mateo,Kovačić,354,354,356,-1
+Rico,Lewis,355,355,358,573
+Matheus Luiz,Nunes,356,356,566,589
+James,McAtee,357,357,360,317
+Stefan,Ortega Moreno,358,358,361,324
+Rodrigo 'Rodri',Hernandez,360,360,-1,-1
+Rúben,Gato Alves Dias,361,361,350,312
+John,Stones,362,362,368,302
+Kyle,Walker,363,363,369,299
+Sávio 'Savinho',Moreira de Oliveira,571,571,-1,-1
+Nico,O'Reilly,607,607,-1,774
+Ilkay,Gündogan,625,625,-1,300
+Issa,Kaboré,626,626,602,-1
+Jacob,Wright,671,671,814,-1
+Jahmai,Simpson-Pusey,672,672,-1,-1
+Josh,Wilson-Esbrand,675,675,-1,322
+Amad,Diallo,364,364,371,550
+Antony Matheus,dos Santos,365,365,372,609
+Bruno,Borges Fernandes,366,366,373,333
+Altay,Bayindir,367,367,695,-1
+Carlos Henrique,Casimiro,368,368,376,593
+Diogo,Dalot Teixeira,369,369,377,342
+Christian,Eriksen,370,370,379,519
+Jonny,Evans,371,371,703,249
+Alejandro,Garnacho,372,372,382,569
+Hannibal,Mejbri,373,373,383,-1
+Tom,Heaton,374,374,384,348
+Rasmus,Højlund,375,375,617,-1
+Victor,Lindelöf,376,376,386,337
+Harry,Maguire,377,377,387,330
+Kobbie,Mainoo,378,378,388,643
+Tyrell,Malacia,379,379,389,504
+Lisandro,Martínez,380,380,391,533
+Scott,McTominay,381,381,392,338
+Mason,Mount,382,382,209,142
+André,Onana,383,383,597,-1
+Facundo,Pellistri Rebollo,384,384,394,347
+Marcus,Rashford,385,385,396,335
+Luke,Shaw,387,387,398,332
+Joshua,Zirkzee,389,389,-1,-1
+Leny,Yoro,572,572,-1,-1
+Matthijs,de Ligt,593,593,-1,-1
+Noussair,Mazraoui,594,594,-1,-1
+Toby,Collyer,613,613,826,-1
+Ethan,Wheatley,648,648,850,-1
+Manuel,Ugarte,652,652,-1,-1
+Jack,Fletcher,667,667,-1,-1
+Harry,Amass,670,670,846,-1
+Jayce,Fitzgerald,673,673,-1,-1
+Alex,Murphy,390,390,634,-1
+Miguel,Almirón Rejala,391,391,402,369
+Harvey,Barnes,392,392,603,264
+Sven,Botman,393,393,405,377
+Bruno,Guimarães Rodriguez Moura,394,394,406,374
+Dan,Burn,395,395,407,358
+Martin,Dúbravka,396,396,-1,-1
+Anthony,Gordon,398,398,412,195
+Lewis,Hall,399,399,204,661
+Isaac,Hayden,400,400,413,-1
+Alexander,Isak,401,401,415,594
+Jacob,Murphy,402,402,423,365
+Joelinton Cássio,Apolinário de Lira,403,403,416,371
+Lloyd,Kelly,404,404,70,73
+Emil,Krafth,405,405,417,364
+Garang,Kuol,406,406,418,683
+Jamaal,Lascelles,407,407,419,360
+Jamal,Lewis,408,408,420,372
+Tino,Livramento,409,409,633,419
+Sean,Longstaff,410,410,421,370
+Lewis,Miley,411,411,635,741
+Odysseas,Vlachodimos,412,412,710,-1
+Nick,Pope,413,413,424,376
+John,Ruddy,414,414,-1,-1
+Fabian,Schär,415,415,427,366
+Matt,Targett,416,416,428,367
+Sandro,Tonali,417,417,429,-1
+Kieran,Trippier,418,418,430,357
+Joe,White,419,419,794,-1
+Joe,Willock,420,420,432,373
+Callum,Wilson,421,421,433,356
+Miodrag,Pivaš,574,574,-1,-1
+William,Osula,590,590,490,-1
+Álex,Moreno Lopera,26,26,-1,-1
+Ola,Aina,422,422,-1,-1
+Elliot,Anderson,423,423,403,552
+Taiwo,Awoniyi,424,424,437,397
+Willy,Boly,425,425,439,474
+Josh,Bowler,426,426,440,-1
+Carlos Miguel,dos Santos Pereira,427,427,-1,-1
+Eric,da Silva Moreira,428,428,-1,-1
+Danilo,dos Santos de Oliveira,429,429,442,703
+Emmanuel,Dennis,430,430,443,585
+Nicolás,Domínguez,431,431,712,-1
+Anthony,Elanga,432,432,378,344
+Morgan,Gibbs-White,433,433,447,493
+Callum,Hudson-Odoi,434,434,205,144
+Alex,Mighten,435,435,456,395
+Murillo,Santiago Costa dos Santos,436,436,696,-1
+Neco,Williams,437,437,467,295
+Omar,Richards,438,438,461,511
+Lewis,O'Brien,439,439,458,524
+Andrew,Omobamidele,440,440,711,-1
+Jonathan,Panzo,441,441,460,389
+Ibrahim,Sangaré,442,442,713,-1
+Matz,Sels,443,443,808,-1
+Harry,Toffolo,444,444,465,523
+Hwang,Ui-jo,446,446,466,-1
+Chris,Wood,447,447,468,354
+Joe,Worrall,448,448,469,388
+Ryan,Yates,449,449,470,387
+James,Ward-Prowse,531,531,664,407
+Nikola,Milenković,573,573,-1,-1
+João Pedro,Ferreira Silva,596,596,-1,-1
+Ramón,Sosa,620,620,-1,-1
+Felipe,Rodrigues da Silva,653,653,-1,-1
+Aaron,Ramsdale,14,14,17,15
+Cameron,Archer,27,27,33,54
+Lesley,Ugochukwu,188,188,613,-1
+Ryan,Fraser,397,397,410,359
+Carlos,Alcaraz Durán,450,450,-1,-1
+Samuel,Amo-Ameyaw,451,451,-1,778
+Joe,Aribo,452,452,-1,-1
+Adam,Armstrong,453,453,-1,408
+Gavin,Bazunu,454,454,-1,422
+Jan,Bednarek,455,455,-1,410
+Armel,Bella-Kotchap,456,456,-1,423
+James,Bree,457,457,-1,716
+Shea,Charles,458,458,348,773
+Samuel,Edozie,459,459,-1,624
+Ronnie,Edwards,460,460,-1,-1
+Taylor,Harwood-Bellis,461,461,-1,-1
+Kamaldeen,Sulemana,462,462,-1,731
+Adam,Lallana,463,463,138,101
+Juan,Larios López,464,464,-1,622
+Mateusz,Lis,465,465,-1,421
+Joe,Lumley,466,466,-1,-1
+Ryan,Manning,467,467,-1,-1
+Sékou,Mara,468,468,-1,528
+Alex,McCarthy,469,469,-1,401
+Paul,Onuachu,470,470,-1,732
+Will,Smallbone,471,471,-1,415
+Jack,Stephens,472,472,-1,404
+Ross,Stewart,473,473,-1,-1
+Sugawara,Yukinari,474,474,-1,-1
+Charlie,Taylor,475,475,178,-1
+Kyle,Walker-Peters,476,476,-1,409
+Nathan,Wood-Gordon,477,477,-1,-1
+Maxwel,Cornet,515,515,527,575
+Flynn,Downes,518,518,531,509
+Ben,Brereton Díaz,584,584,-1,-1
+Tyler,Dibling,608,608,-1,-1
+Mateus Gonçalo,Espanha Fernandes,623,623,-1,-1
+Dominic,Solanke-Mitchell,82,82,-1,-1
+Ashley,Phillips,478,478,702,-1
+Brandon,Austin,479,479,491,451
+Rodrigo,Bentancur,480,480,492,440
+Lucas,Bergvall,481,481,-1,-1
+Yves,Bissouma,482,482,493,444
+Bryan,Gil Salvatierra,483,483,494,554
+Ben,Davies,484,484,495,432
+Alfie,Devine,485,485,-1,452
+Radu,Drăgușin,486,486,-1,-1
+Emerson,Leite de Souza Junior,487,487,497,445
+Fraser,Forster,488,488,498,426
+Archie,Gray,489,489,-1,565
+Pierre-Emile,Højbjerg,490,490,499,433
+Brennan,Johnson,491,491,450,394
+Dejan,Kulusevski,492,492,501,446
+Giovani,Lo Celso,493,493,503,-1
+James,Maddison,494,494,504,261
+Pedro,Porro,495,495,506,733
+Sergio,Reguilón,496,496,508,438
+Richarlison,de Andrade,497,497,509,454
+Cristian,Romero,498,498,511,443
+Pape Matar,Sarr,499,499,513,450
+Dane,Scarlett,500,500,640,447
+Manor,Solomon,502,502,583,562
+Son,Heung-min,503,503,516,428
+Djed,Spence,504,504,517,522
+Destiny,Udogie,505,505,519,-1
+Micky,van de Ven,506,506,639,-1
+Alejo,Véliz,507,507,641,-1
+Guglielmo,Vicario,508,508,520,-1
+Timo,Werner,509,509,776,137
+Alfie,Whiteman,510,510,521,-1
+Will,Lankshear,609,609,-1,-1
+Mikey,Moore,610,610,860,-1
+Wilson,Odobert,612,612,660,-1
+Callum,Olusesi,683,683,-1,-1
+Malachi,Hardy,684,684,-1,-1
+Luca,Williams-Barnett,689,689,-1,-1
+Aaron,Wan-Bissaka,388,388,401,341
+Edson,Álvarez Velázquez,511,511,642,-1
+Michail,Antonio,512,512,523,458
+Alphonse,Areola,513,513,524,473
+Jarrod,Bowen,514,514,526,465
+Vladimír,Coufal,516,516,528,-1
+Aaron,Cresswell,517,517,530,457
+George,Earthy,519,519,829,-1
+Emerson,Palmieri dos Santos,520,520,532,545
+Łukasz,Fabiański,521,521,-1,-1
+Wes,Foderingham,522,522,482,-1
+Danny,Ings,523,523,535,30
+Max,Kilman,524,524,563,484
+Mohammed,Kudus,525,525,689,-1
+Luis Guilherme,Lira dos Santos,526,526,-1,-1
+Lucas,Tolentino Coelho de Lima,527,527,539,603
+Konstantinos,Mavropanos,528,528,676,-1
+Nayef,Aguerd,529,529,522,472
+Tomáš,Souček,530,530,542,-1
+Kurt,Zouma,532,532,544,461
+Andy,Irving,576,576,-1,-1
+Crysencio,Summerville,587,587,-1,240
+Guido,Rodríguez,588,588,-1,-1
+Niclas,Füllkrug,589,589,-1,-1
+Jean-Clair,Todibo,591,591,-1,-1
+Kaelan,Casey,643,643,774,746
+Carlos,Soler,654,654,-1,-1
+Ollie,Scarles,677,677,-1,-1
+Ezra,Mayers,686,686,-1,-1
+Sam,Johnstone,204,204,230,175
+Rayan,Aït-Nouri,533,533,545,487
+Boubacar,Traoré,534,534,574,629
+Jean-Ricner,Bellegarde,535,535,715,-1
+Daniel,Bentley,536,536,546,717
+Francisco Jorge,Tomás Oliveira,537,537,549,490
+Tawanda,Chirewa,538,538,750,-1
+Leon,Chiwome,539,539,836,-1
+Luke,Cundle,540,540,550,485
+Matheus,Santos Carneiro Da Cunha,541,541,590,682
+Craig,Dawson,542,542,551,459
+Matt,Doherty,543,543,598,429
+Tommy,Doyle,544,544,351,-1
+Fábio,Silva,545,545,552,-1
+Nathan,Fraser,546,546,704,657
+Enso,González,547,547,698,-1
+Gonçalo Manuel,Ganchinho Guedes,548,548,554,579
+Hugo,Bueno López,549,549,548,558
+Hwang,Hee-chan,550,550,557,481
+Joe,Hodge,551,551,555,-1
+Ki-Jana,Hoever,552,552,556,-1
+João Victor,Gomes da Silva,553,553,559,721
+José,Malheiro de Sá,554,554,569,478
+Saša,Kalajdžić,555,555,-1,-1
+Tom,King,556,556,564,-1
+Mario,Lemina,557,557,565,698
+Yerson,Mosquera,558,558,788,-1
+Nélson,Cabral Semedo,559,559,572,482
+Pedro,Cardoso de Lima,561,561,-1,-1
+Daniel,Castelo Podence,562,562,568,483
+Rodrigo,Martins Gomes,563,563,-1,-1
+Santiago,Bueno,564,564,697,-1
+Pablo,Sarabia,565,565,570,704
+Jørgen,Strand Larsen,566,566,-1,-1
+Toti António,Gomes,567,567,573,489
+Bastien,Meupiyou,637,637,-1,-1
+André,Trindade da Costa Neto,642,642,-1,-1
+Carlos Roberto,Forbs Borges,655,655,-1,-1
+Alfie,Pond,664,664,-1,-1
+Tom,Edozie,682,682,-1,-1
+Granit,Xhaka,691,-1,30,3
+Mohamed,Elneny,692,-1,3,4
+Nicolas,Pépé,693,-1,16,9
+Takehiro,Tomiyasu,694,-1,25,14
+Nuno,Varela Tavares,695,-1,23,17
+Pablo,Marí Villar,696,-1,-1,20
+Lucas,Torreira di Pascua,697,-1,-1,22
+Marcus,Oliveira Alencar,698,-1,11,27
+Matthew,Smith,699,-1,-1,607
+Lino,Sousa,700,-1,-1,631
+Reuell,Walters,701,-1,736,751
+Mauro,Bandeira,702,-1,815,767
+Philippe,Coutinho Correia,703,-1,38,29
+Calum,Chambers,704,-1,37,32
+Bertrand,Traoré,705,-1,59,34
+Morgan,Sanson,706,-1,56,36
+Marvelous,Nakamba,707,-1,52,41
+Douglas Luiz,Soares de Paulo,708,-1,43,46
+Anwar,El Ghazi,709,-1,-1,51
+Keinan,Davis,710,-1,39,52
+Jaden,Philogene-Bidace,711,-1,54,55
+Frédéric,Guilbert,712,-1,-1,56
+Ludwig,Augustinsson,713,-1,-1,525
+Kaine,Kesler Hayden,714,-1,-1,537
+Alexandre,Moreno Lopera,715,-1,32,694
+James,Wright,716,-1,778,753
+Sebastian,Revan,717,-1,-1,754
+Travis,Patterson,718,-1,-1,755
+Tommi,O'Reilly,719,-1,767,761
+Junior,Stanislas,720,-1,-1,58
+Ryan,Fredericks,721,-1,68,59
+Jamal,Lowe,722,-1,73,61
+Kieffer,Moore,723,-1,76,62
+Emiliano,Marcondes,724,-1,74,63
+Jack,Stacey,725,-1,-1,65
+Dominic,Solanke,726,-1,85,66
+Ben,Pearson,727,-1,79,68
+Siriki,Dembélé,728,-1,67,74
+Jordan,Zemura,729,-1,-1,76
+Joe,Rothwell,730,-1,81,505
+Darren,Randolph,731,-1,80,571
+Christian,Saydee,732,-1,-1,597
+Owen,Bevan,733,-1,-1,598
+Cameron,Plain,734,-1,-1,649
+Daniel,Adu-Adjei,735,-1,-1,695
+Michael,Dacosta Gonzalez,736,-1,849,696
+Dominic,Sadi,737,-1,811,697
+Euan,Pollock,738,-1,-1,706
+Matías,Viña,739,-1,-1,718
+Ben,Greenwood,740,-1,619,737
+Max,Kinsey-Wellings,741,-1,-1,738
+Pontus,Jansson,742,-1,-1,78
+Sergi,Canós Tenés,743,-1,95,82
+Saman,Ghoddos,744,-1,701,87
+Mads,Bech Sørensen,745,-1,93,91
+Shandon,Baptiste,746,-1,92,94
+Charlie,Goode,747,-1,102,96
+Marcus,Forss,748,-1,-1,97
+Dominic,Thompson,749,-1,-1,98
+Mads,Bidstrup,750,-1,94,99
+Ellery,Balcombe,751,-1,91,100
+Thomas,Strakosha,752,-1,116,517
+Fin,Stevens,753,-1,-1,540
+Halil,Dervişoğlu,754,-1,100,541
+Matthew,Cox,755,-1,97,633
+Tristan,Crama,756,-1,-1,646
+Yegor,Yarmolyuk,757,-1,-1,650
+Michael,Olakigbe,758,-1,620,752
+Steven,Alzate,759,-1,123,115
+Enock,Mwepu,760,-1,-1,118
+Taylor,Richards,761,-1,-1,121
+Haydon,Roberts,762,-1,-1,122
+Kaoru,Mitoma,763,-1,143,124
+Kjell,Scherpen,764,-1,147,542
+Matt,Clarke,765,-1,-1,543
+Ed,Turns,766,-1,-1,640
+James,Furlong,767,-1,-1,652
+Tom,McGill,768,-1,141,756
+César,Azpilicueta,769,-1,189,127
+Thiago,Emiliano da Silva,770,-1,217,128
+Marcos,Alonso,771,-1,-1,129
+Mateo,Kovacic,772,-1,-1,132
+N'Golo,Kanté,773,-1,-1,134
+Hakim,Ziyech,774,-1,218,135
+Ruben,Loftus-Cheek,775,-1,-1,136
+Robert Kenedy,Nunes do Nascimento,776,-1,-1,138
+Christian,Pulisic,777,-1,213,140
+Edouard,Mendy,778,-1,-1,147
+Ethan,Ampadu,779,-1,185,151
+Kalidou,Koulibaly,780,-1,-1,520
+Harvey,Vale,781,-1,-1,606
+Denis,Zakaria,782,-1,-1,616
+Pierre-Emerick,Aubameyang,783,-1,188,617
+Omari,Hutchinson,784,-1,-1,653
+Bashir,Humphreys,785,-1,671,673
+Ethan,Wady,786,-1,-1,771
+Albert,Sambi Lokonga,787,-1,21,18
+Vicente,Guaita,788,-1,227,152
+James,Tomkins,789,-1,241,153
+James,McArthur,790,-1,-1,154
+Christian,Benteke,791,-1,-1,155
+Luka,Milivojevic,792,-1,-1,158
+Wilfried,Zaha,793,-1,-1,160
+Jairo,Riedewald,794,-1,239,164
+Michael,Olise,795,-1,236,171
+Nathan,Ferguson,796,-1,-1,174
+Luke,Plange,797,-1,237,496
+Joseph,Whitworth,798,-1,-1,590
+Killian,Phillips,799,-1,-1,604
+John-Kymani,Gordon,800,-1,658,634
+Kofi,Balmer,801,-1,-1,642
+Owen,Goodman,802,-1,-1,644
+Jack,Wells-Morrison,803,-1,-1,654
+Tayo,Adaramola,804,-1,763,766
+Asmir,Begović,805,-1,-1,176
+Salomón,Rondón,806,-1,-1,177
+Seamus,Coleman,807,-1,247,178
+Andros,Townsend,808,-1,727,179
+Dele,Alli,809,-1,248,181
+Allan,Marques Loureiro,810,-1,-1,183
+André,Tavares Gomes,811,-1,244,184
+Jean-Philippe,Gbamin,812,-1,251,187
+Yerry,Mina,813,-1,-1,188
+Demarai,Gray,814,-1,253,189
+Tom,Davies,815,-1,666,190
+Ben,Godfrey,816,-1,252,193
+Niels,Nkounkou,817,-1,-1,198
+Rúben,Nascimento Vinagre,818,-1,-1,531
+Stanley,Mills,819,-1,-1,560
+Lewis,Warrington,820,-1,841,561
+Reece,Welch,821,-1,-1,605
+Eldin,Jakupovic,822,-1,-1,627
+Kyle,John,823,-1,-1,637
+Thomas,Cannon,824,-1,649,662
+Isaac,Price,825,-1,-1,678
+Ellis,Simms,826,-1,264,686
+Ishé,Samuels-Smith,827,-1,819,757
+Andy,Lonergan,828,-1,579,760
+Sean,McAllister,829,-1,-1,768
+Cédric,Alves Soares,830,-1,2,1
+Shane,Duffy,831,-1,-1,105
+Anthony,Knockaert,832,-1,273,202
+Nathaniel,Chalobah,833,-1,-1,203
+Neeskens,Kebano,834,-1,-1,204
+Joe,Bryan,835,-1,-1,206
+Paulo,Gazzaniga Farias,836,-1,-1,207
+Terence,Kongolo,837,-1,274,208
+Aleksandar,Mitrović,838,-1,278,210
+Marek,Rodák,839,-1,284,213
+Ivan,Neves Abreu Cavaleiro,840,-1,269,214
+Josh,Onomah,841,-1,-1,216
+João,Palhinha Gonçalves,842,-1,280,220
+Daniel,James,843,-1,-1,231
+Tyrese,Francois,844,-1,272,521
+Terry,Ablade,845,-1,-1,591
+Layvin,Kurzawa,846,-1,-1,613
+Willian,Borges da Silva,847,-1,591,614
+Stefan,Parkes,848,-1,-1,636
+Kristian,Sekularac,849,-1,796,667
+Sasa,Lukic,850,-1,-1,726
+George,Wickens,851,-1,-1,747
+Charlie,Robinson,852,-1,-1,750
+Matthew,Dibley-Dias,853,-1,652,763
+Kasper,Schmeichel,854,-1,-1,248
+Ryan,Bertrand,855,-1,-1,250
+Marc,Albrighton,856,-1,-1,251
+Nampalys,Mendy,857,-1,-1,252
+Daniel,Amartey,858,-1,-1,257
+Ayoze,Pérez,859,-1,-1,260
+Kelechi,Iheanacho,860,-1,-1,262
+Çaglar,Söyüncü,861,-1,-1,267
+Lewis,Brunt,862,-1,-1,273
+Dennis,Praet,863,-1,-1,549
+Alex,Smithies,864,-1,-1,581
+Sammy,Braybrooke,865,-1,-1,639
+Joe,Wormleighton,866,-1,-1,645
+Mateus,Cardoso Lemos Martins,867,-1,-1,715
+Wanya,Marçal-Madivadua,868,-1,-1,735
+Liam,Cooper,869,-1,-1,221
+Luke,Ayling,870,-1,-1,222
+Mateusz,Klich,871,-1,-1,223
+Adam,Forshaw,872,-1,-1,224
+Rodrigo,Moreno,873,-1,-1,225
+Stuart,Dallas,874,-1,-1,226
+Patrick,Bamford,875,-1,-1,227
+Diego,Llorente,876,-1,-1,228
+Tyler,Roberts,877,-1,-1,229
+Robin,Koch,878,-1,-1,230
+Raphael,Dias Belloli,879,-1,-1,232
+Jamie,Shackleton,880,-1,-1,234
+Pascal,Struijk,881,-1,-1,235
+Kristoffer,Klaesson,882,-1,-1,236
+Sam,Greenwood,883,-1,-1,237
+Illan,Meslier,884,-1,-1,238
+Junior,Firpo Adames,885,-1,-1,239
+Lewis,Bate,886,-1,-1,241
+Joe,Gelhardt,887,-1,-1,242
+Leo Fuhr,Hjelde,888,-1,-1,243
+Rasmus,Kristensen,889,-1,-1,244
+Marc,Roca Junqué,890,-1,-1,245
+Brenden,Aaronson,891,-1,-1,246
+Darko,Gyabi,892,-1,-1,247
+Luis,Sinisterra Lucumí,893,-1,-1,508
+Cody,Drameh,894,-1,-1,547
+Joel,Robles,895,-1,-1,578
+Wilfried,Gnonto,896,-1,-1,619
+Mateo Joseph,Fernández,897,-1,-1,659
+Sonny,Perkins,898,-1,-1,663
+Maximilian,Wöber,899,-1,-1,691
+Weston,McKennie,900,-1,-1,720
+Jeremiah,Chilokoa-Mullen,901,-1,-1,742
+Diogo,Pinheiro Monteiro,902,-1,-1,743
+Jordan,Henderson,903,-1,299,275
+Joel,Matip,904,-1,305,276
+Thiago,Alcántara do Nascimento,905,-1,310,277
+Alex,Oxlade-Chamberlain,906,-1,-1,278
+Roberto,Firmino,907,-1,-1,279
+Fabio Henrique,Tavares,908,-1,296,282
+Joseph,Gomez,909,-1,-1,286
+Naby,Keita,910,-1,-1,287
+Calvin,Ramsay,911,-1,-1,298
+Adrián,San Miguel del Castillo,912,-1,289,497
+Luke,Chambers,913,-1,726,563
+Stefan,Bajcetic,914,-1,292,564
+Arthur Henrique,Ramos de Oliveira Melo,915,-1,-1,620
+Riyad,Mahrez,916,-1,359,303
+João,Cancelo,917,-1,346,306
+Aymeric,Laporte,918,-1,357,309
+Zack,Steffen,919,-1,367,310
+Rodrigo,Hernandez,920,-1,365,315
+Luke,Mbete-Tabu,921,-1,-1,320
+Sergio,Gómez,922,-1,366,587
+Claudio,Gomes,923,-1,-1,599
+Ben,Knight,924,-1,-1,600
+Máximo,Perrone,925,-1,363,712
+Alex,Robertson,926,-1,-1,772
+Jack,Butland,927,-1,-1,162
+Cristiano Ronaldo,dos Santos Aveiro,928,-1,-1,326
+David,De Gea Quintana,929,-1,-1,327
+Phil,Jones,930,-1,-1,328
+Raphaël,Varane,931,-1,395,329
+Frederico,Rodrigues de Paula Santos,932,-1,381,331
+Alex,Telles,933,-1,370,334
+Donny,van de Beek,934,-1,400,336
+Eric,Bailly,935,-1,375,339
+Brandon,Williams,936,-1,374,343
+Anthony,Martial,937,-1,390,345
+Zidane,Iqbal,938,-1,-1,551
+Matej,Kovár,939,-1,-1,615
+Nathan,Bishop,940,-1,-1,656
+Shola,Shoretire,941,-1,399,660
+Rhys,Bennett,942,-1,768,674
+Wout,Weghorst,943,-1,183,701
+Marcel,Sabitzer,944,-1,-1,728
+Marc,Jurado Gomez,945,-1,-1,759
+Matt,Ritchie,946,-1,425,350
+Federico,Fernández,947,-1,-1,351
+Ciaran,Clark,948,-1,-1,352
+Karl,Darlow,949,-1,408,353
+Martin,Dubravka,950,-1,409,355
+Dwight,Gayle,951,-1,-1,361
+Paul,Dummett,952,-1,581,362
+Javier,Manquillo Gaitán,953,-1,422,363
+Allan,Saint-Maximin,954,-1,426,368
+Jeff,Hendrick,955,-1,414,375
+Harrison,Ashby,956,-1,404,555
+Loris,Karius,957,-1,580,626
+Mark,Gillespie,958,-1,411,776
+Jonjo,Shelvey,959,-1,463,349
+Harry,Arter,960,-1,435,378
+Steve,Cook,961,-1,441,379
+Lyle,Taylor,962,-1,-1,380
+Jack,Colback,963,-1,-1,381
+Brice,Samba,964,-1,-1,382
+Carlos,Ribeiro Dias,965,-1,-1,383
+Joe,Lolley,966,-1,-1,384
+Scott,McKenna,967,-1,455,385
+Mohamed,Dräger,968,-1,444,386
+Xande,Nascimento da Costa Silva,969,-1,-1,390
+Sam,Surridge,970,-1,464,391
+Richie,Laryea,971,-1,452,392
+Loïc,Mbe Soh,972,-1,454,393
+Braian,Ojeda Rodríguez,973,-1,459,396
+Giulian,Biancone,974,-1,438,399
+Moussa,Niakhaté,975,-1,457,507
+Wayne,Hennessey,976,-1,448,518
+Jesse,Lingard,977,-1,-1,527
+Oliver,Hammond,978,-1,-1,553
+Remo,Freuler,979,-1,446,582
+Cheikhou,Kouyaté,980,-1,451,583
+Renan Augusto,Lodi dos Santos,981,-1,-1,602
+Loïc,Badé,982,-1,-1,621
+Serge,Aurier,983,-1,436,628
+Dale,Taylor,984,-1,-1,666
+Jordan,Smith,985,-1,-1,675
+Gustavo Henrique,Furtado Scarpa,986,-1,462,681
+Keylor,Navas,987,-1,-1,729
+Felipe Augusto,de Almeida Monteiro,988,-1,445,730
+André,Ayew,989,-1,-1,734
+George,Shelvey,990,-1,636,749
+Ainsley,Maitland-Niles,991,-1,-1,21
+Theo,Walcott,992,-1,-1,400
+Oriol,Romeu Vidal,993,-1,-1,402
+Nathan,Redmond,994,-1,600,403
+Stuart,Armstrong,995,-1,-1,405
+Mohamed,Elyounoussi,996,-1,-1,406
+Che,Adams,997,-1,-1,411
+Nathan,Tella,998,-1,-1,412
+Lyanco,Silveira Neves Vojnovic,999,-1,-1,413
+Yan,Valery,1000,-1,-1,414
+Ibrahima,Diallo,1001,-1,-1,416
+Romain,Perraud,1002,-1,-1,417
+Moussa,Djenepo,1003,-1,-1,418
+Mohammed,Salisu,1004,-1,-1,420
+Willy,Caballero,1005,-1,-1,424
+Joe,Ayodele-Aribo,1006,-1,-1,512
+Duje,Caleta-Car,1007,-1,-1,623
+Lewis,Payne,1008,-1,-1,647
+Ryan,Finnigan,1009,-1,-1,648
+Jimmy,Morgan,1010,-1,-1,671
+Mislav,Orsic,1011,-1,-1,692
+Carlos,Alcaraz,1012,-1,-1,693
+Kamari,Doyle,1013,-1,-1,769
+Dominic,Ballard,1014,-1,-1,770
+Hugo,Lloris,1015,-1,502,425
+Harry,Kane,1016,-1,500,427
+Eric,Dier,1017,-1,496,430
+Lucas,Rodrigues Moura da Silva,1018,-1,-1,431
+Davinson,Sánchez,1019,-1,512,435
+Steven,Bergwijn,1020,-1,-1,437
+Japhet,Tanganga,1021,-1,518,439
+Joe,Rodon,1022,-1,510,442
+Ivan,Perišić,1023,-1,507,448
+Harvey,White,1024,-1,-1,449
+Troy,Parrott,1025,-1,-1,453
+Clément,Lenglet,1026,-1,699,513
+Arnaut,Danjuma,1027,-1,-1,713
+Romaine,Mundle,1028,-1,-1,748
+George,Abbott,1029,-1,-1,758
+Matthew,Craig,1030,-1,-1,764
+Yago,de Santiago Alonso,1031,-1,754,777
+Lukasz,Fabianski,1032,-1,533,455
+Angelo,Ogbonna,1033,-1,577,456
+Manuel,Lanzini,1034,-1,-1,460
+Arthur,Masuaku,1035,-1,-1,462
+Vladimir,Coufal,1036,-1,-1,463
+Saïd,Benrahma,1037,-1,525,464
+Nikola,Vlasic,1038,-1,-1,466
+Tomas,Soucek,1039,-1,-1,468
+Pablo,Fornals Malla,1040,-1,534,469
+Gianluca,Scamacca,1041,-1,541,529
+Conor,Coventry,1042,-1,529,556
+Armstrong,Oko-Flex,1043,-1,-1,572
+Thilo,Kehrer,1044,-1,537,588
+Divin,Mubama,1045,-1,538,669
+Joseph,Anang,1046,-1,647,739
+Krisztián,Hegyi,1047,-1,-1,740
+Jonathan,Castro Otto,1048,-1,560,477
+Rúben,da Silva Neves,1049,-1,-1,480
+Fabio,Silva,1050,-1,-1,488
+Adama,Traoré Diarra,1051,-1,-1,491
+Matija,Šarkić,1052,-1,571,492
+Yerson,Mosquera Valdelamar,1053,-1,-1,494
+João Filipe Iria,Santos Moutinho,1054,-1,-1,503
+Jackson,Smith,1055,-1,-1,557
+Joseph,Hodge,1056,-1,-1,566
+Connor,Ronan,1057,-1,-1,567
+Chem,Campbell,1058,-1,-1,568
+Sasa,Kalajdzic,1059,-1,562,608
+Diego,Da Silva Costa,1060,-1,-1,625
+Harvey,Griffiths,1061,-1,787,658
+Dexter,Lembikisa,1062,-1,-1,664
+Folarin,Balogun,1063,-1,1,-1
+Rúnar Alex,Rúnarsson,1064,-1,18,-1
+Charles,Sagoe,1065,-1,735,-1
+Bradley,Ibrahim,1066,-1,737,-1
+James,Sweet,1067,-1,817,-1
+Wesley,Moraes Ferreira da Silva,1068,-1,61,-1
+Nicolò,Zaniolo,1069,-1,672,-1
+Sam,Proctor,1070,-1,765,-1
+Finley,Munroe,1071,-1,854,-1
+Lander,Emery,1072,-1,866,-1
+Gavin,Kilkenny,1073,-1,71,-1
+Ionuț,Radu,1074,-1,607,-1
+Callan,McKenna,1075,-1,855,-1
+Yegor,Yarmoliuk,1076,-1,120,-1
+Ji-Soo,Kim,1077,-1,725,-1
+Valintino,Adedokun,1078,-1,733,-1
+Vincent,Angelini,1079,-1,752,-1
+Benjamin,Fredrick,1080,-1,797,-1
+Benjamin,Arthur,1081,-1,834,-1
+Yunus,Konak,1082,-1,864,-1
+Aaron,Connolly,1083,-1,127,-1
+Michał,Karbownik,1084,-1,136,-1
+Andi,Zeqiri,1085,-1,155,-1
+Anssumane,Fati Vieira,1086,-1,700,-1
+Ben,Jackson,1087,-1,746,-1
+Joshua,Duffus,1088,-1,747,-1
+Leigh,Kavanagh,1089,-1,753,-1
+Luca,Barrington,1090,-1,755,-1
+Samy,Chouchane,1091,-1,843,-1
+Noël,Atom,1092,-1,861,-1
+Enock,Agyei,1093,-1,156,-1
+Ameen,Al-Dakhil,1094,-1,157,-1
+Samuel,Bastien,1095,-1,158,-1
+Manuel Benson,Hedilazio,1096,-1,159,-1
+Jordan,Beyer,1097,-1,160,-1
+Josh,Brownhill,1098,-1,161,-1
+Darko,Churlinov,1099,-1,162,-1
+Jack,Cork,1100,-1,163,-1
+Dara,Costelloe,1101,-1,164,-1
+Josh,Cullen,1102,-1,165,-1
+CJ,Egan-Riley,1103,-1,166,-1
+Hjalmar,Ekdal,1104,-1,167,-1
+Lyle,Foster,1105,-1,168,-1
+Denis,Franchi,1106,-1,169,-1
+Jóhann Berg,Gudmundsson,1107,-1,170,-1
+Luke,McNally,1108,-1,171,-1
+Michael,Obafemi,1109,-1,174,-1
+Bailey,Peacock-Farrell,1110,-1,175,-1
+Connor,Roberts,1111,-1,176,-1
+Jay,Rodriguez,1112,-1,177,-1
+Bobby,Thomas,1113,-1,179,-1
+Scott,Twine,1114,-1,180,-1
+Lawrence,Vigouroux,1115,-1,181,-1
+Victor,da Silva,1116,-1,182,-1
+Anass,Zaroury,1117,-1,184,-1
+Zeki,Amdouni,1118,-1,594,-1
+James,Trafford,1119,-1,596,-1
+Luca,Koleosho,1120,-1,605,-1
+Jacob,Bruun Larsen,1121,-1,608,-1
+Owen,Dodgson,1122,-1,622,-1
+Hannes,Delcroix,1123,-1,674,-1
+Aaron,Ramsey,1124,-1,675,-1
+Han-Noah,Massengo,1125,-1,694,-1
+Mike,Trésor,1126,-1,706,-1
+Lorenz,Assignon,1127,-1,805,-1
+Maxime,Esteve,1128,-1,806,-1
+Abdul Rahman,Baba,1129,-1,190,-1
+Gabriel,Słonina,1130,-1,215,-1
+Mason,Burstow,1131,-1,623,-1
+Eddie,Beach,1132,-1,680,-1
+Diego Manuel Jadon,da Silva Moreira,1133,-1,681,-1
+Ronnie,Stutter,1134,-1,717,-1
+Alex,Matos,1135,-1,718,-1
+Josh,Brooking,1136,-1,723,-1
+Leo,Castledine,1137,-1,758,-1
+Ollie,Harrison,1138,-1,820,-1
+Jimi,Tauriainen,1139,-1,830,-1
+Josh,Acheampong,1140,-1,838,-1
+Teddy,Sharman-Lowe,1141,-1,847,-1
+Tyrique,George,1142,-1,851,-1
+Kiano,Dyer,1143,-1,852,-1
+Ted,Curd,1144,-1,858,-1
+Zak,Sturge,1145,-1,859,-1
+Joe,Whitworth,1146,-1,243,-1
+Ademola,Ola-Adebomi,1147,-1,720,-1
+Jadan,Raymond,1148,-1,724,-1
+Roshaun,Mathurin,1149,-1,842,-1
+Arnaut,Danjuma Groeneveld,1150,-1,601,-1
+Tyler,Onyango,1151,-1,650,-1
+Mackenzie,Hunt,1152,-1,719,-1
+Elijah,Campbell,1153,-1,761,-1
+Billy,Crellin,1154,-1,863,-1
+Luc,De Fougerolles,1155,-1,625,-1
+Fodé,Ballo-Touré,1156,-1,707,-1
+Devan,Tanton,1157,-1,732,-1
+Joshua,King,1158,-1,810,-1
+Wataru,Endo,1159,-1,668,-1
+Callum,Scanlon,1160,-1,728,-1
+Marcelo,de Araújo Pitaluga Filho,1161,-1,756,-1
+Owen,Beck,1162,-1,782,-1
+Kaide,Gordon,1163,-1,783,-1
+Lewis,Koumas,1164,-1,812,-1
+Fabian,Mrozek,1165,-1,813,-1
+Jayden,Danns,1166,-1,824,-1
+Amara,Nallo,1167,-1,837,-1
+Elijah,Adebayo,1168,-1,314,-1
+Mads Juel,Andersen,1169,-1,315,-1
+Amari'i,Bell,1170,-1,316,-1
+Luke,Berry,1171,-1,317,-1
+Reece,Burke,1172,-1,318,-1
+Allan,Campbell,1173,-1,319,-1
+Jordan,Clark,1174,-1,320,-1
+Alfie,Doughty,1175,-1,321,-1
+Luke,Freeman,1176,-1,322,-1
+Matt,Macey,1177,-1,323,-1
+John,McAtee,1178,-1,324,-1
+Carlos,Mendes Gomes,1179,-1,325,-1
+Carlton,Morris,1180,-1,326,-1
+Admiral,Muskwe,1181,-1,327,-1
+Fred,Onyedinma,1182,-1,329,-1
+Gabriel,Osho,1183,-1,330,-1
+Aribim,Pepple,1184,-1,331,-1
+Dion,Pereira,1185,-1,332,-1
+Dan,Potts,1186,-1,333,-1
+Glen,Rea,1187,-1,334,-1
+James,Shea,1188,-1,335,-1
+Joe,Taylor,1189,-1,336,-1
+Elliot,Thorpe,1190,-1,337,-1
+Jack,Walton,1191,-1,338,-1
+Louie,Watson,1192,-1,339,-1
+Cauley,Woodrow,1193,-1,340,-1
+Teden,Mengi,1194,-1,393,-1
+Ryan,Giles,1195,-1,553,-1
+Tom,Lockyer,1196,-1,575,-1
+Pelly Ruddock,Mpanzu,1197,-1,582,-1
+Tahith,Chong,1198,-1,586,-1
+Thomas,Kaminski,1199,-1,614,-1
+Jacob,Brown,1200,-1,631,-1
+Aidan,Francis-Clarke,1201,-1,648,-1
+Tim,Krul,1202,-1,665,-1
+Joseph,Johnson,1203,-1,682,-1
+Jayden,Luker,1204,-1,729,-1
+Zack,Nelson,1205,-1,734,-1
+Daiki,Hashioka,1206,-1,798,-1
+Axel,Piesold,1207,-1,831,-1
+Dominic,Dos Santos Martins,1208,-1,839,-1
+Christian,Chigozie,1209,-1,844,-1
+Taylan,Harris,1210,-1,848,-1
+Mahamadou,Susoho,1211,-1,762,-1
+Micah,Hamilton,1212,-1,771,-1
+Álvaro,Fernández Carreras,1213,-1,380,-1
+Omari,Forson,1214,-1,632,-1
+Radek,Vítek,1215,-1,669,-1
+Daniel,Gore,1216,-1,685,-1
+Sofyan,Amrabat,1217,-1,709,-1
+Joe,Hugill,1218,-1,748,-1
+Willy,Kambwala,1219,-1,766,-1
+Habeeb,Ogunneye,1220,-1,833,-1
+Dermot,Mee,1221,-1,835,-1
+Louis,Jackson,1222,-1,856,-1
+Kell,Watts,1223,-1,431,-1
+Amadou,Diallo,1224,-1,738,-1
+Ben,Parkinson,1225,-1,739,-1
+Michael,Ndiweni,1226,-1,745,-1
+Travis,Hernes,1227,-1,795,-1
+Brandon,Aguilera Zamora,1228,-1,434,-1
+Ethan,Horvath,1229,-1,449,-1
+Olu,Aina,1230,-1,604,-1
+Josh,Powell,1231,-1,637,-1
+Gonzalo,Montiel,1232,-1,679,-1
+Divock,Origi,1233,-1,714,-1
+Jamie,McDonnell,1234,-1,779,-1
+Detlef Esapa,Osong,1235,-1,780,-1
+Joe,Gardner,1236,-1,781,-1
+Giovanni,Reyna,1237,-1,801,-1
+Rodrigo,Duarte Ribeiro,1238,-1,809,-1
+Auston,Trusty,1239,-1,27,-1
+Anel,Ahmedhodžić,1240,-1,471,-1
+Jordan,Amissah,1241,-1,472,-1
+George,Baldock,1242,-1,473,-1
+Chris,Basham,1243,-1,474,-1
+Jayden,Bogle,1244,-1,476,-1
+Rhian,Brewster,1245,-1,477,-1
+Ismaila,Coulibaly,1246,-1,478,-1
+Adam,Davies,1247,-1,479,-1
+John,Egan,1248,-1,480,-1
+John,Fleck,1249,-1,481,-1
+Max,Lowe,1250,-1,484,-1
+Oliver,McBurnie,1251,-1,485,-1
+Rhys,Norrington-Davies,1252,-1,487,-1
+Oliver,Norwood,1253,-1,488,-1
+Ben,Osborn,1254,-1,489,-1
+Jack,Robinson,1255,-1,576,-1
+Anis,Slimane,1256,-1,587,-1
+Yasser,Larouci,1257,-1,592,-1
+Bénie,Traoré,1258,-1,593,-1
+Vini,de Souza Costa,1259,-1,638,-1
+Femi,Seriki,1260,-1,653,-1
+Louie,Marsh,1261,-1,654,-1
+Andre,Brooks,1262,-1,655,-1
+Antwoine,Hackford,1263,-1,656,-1
+Gustavo,Hamer,1264,-1,663,-1
+Ryan,Oné,1265,-1,730,-1
+Jili,Buyabu,1266,-1,731,-1
+Sydie,Peck,1267,-1,759,-1
+Ben,Brereton,1268,-1,775,-1
+Ivo,Grbic,1269,-1,790,-1
+Billy,Blacker,1270,-1,822,-1
+Oliver,Arblaster,1271,-1,823,-1
+Dovydas,Sasnauskas,1272,-1,827,-1
+Sam,Curtis,1273,-1,828,-1
+Owen,Hampson,1274,-1,857,-1
+Tanguy,Ndombélé Alvaro,1275,-1,505,-1
+Jamie,Donley,1276,-1,722,-1
+Alfie,Dorrington,1277,-1,740,-1
+Radu,Dragusin,1278,-1,777,-1
+Tyrese,Hall,1279,-1,862,-1
+Nikola,Vlašić,1280,-1,543,-1
+Lewis,Orford,1281,-1,773,-1
+Oliver,Scarles,1282,-1,784,-1
+Callum,Marshall,1283,-1,785,-1
+Bendegúz,Bolla,1284,-1,547,-1
+Bruno,Cavaco Jordão,1285,-1,561,-1
+Matthew,Whittingham,1286,-1,749,-1
+Justin,Hubner,1287,-1,751,-1
+Owen,Hesketh,1288,-1,769,-1
+Ty,Barnett,1289,-1,770,-1
+Noha,Lemina,1290,-1,800,-1
+Wesley,Okoduwa,1291,-1,832,-1
+Fletcher,Holman,1292,-1,840,-1
+Temple,Ojinnaka,1293,-1,853,-1

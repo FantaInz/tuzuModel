@@ -3,9 +3,9 @@ id,first_name,second_name,position,value,team_id
 7,Jorge Luiz,Frello Filho,MID,47,1
 9,Gabriel,Martinelli Silva,MID,69,1
 12,Ethan,Nwaneri,MID,45,1
-13,Martin,Ødegaard,MID,82,1
+13,Martin,Ødegaard,MID,83,1
 16,Declan,Rice,MID,62,1
-17,Bukayo,Saka,MID,102,1
+17,Bukayo,Saka,MID,103,1
 20,Thomas,Partey,MID,50,1
 23,Leandro,Trossard,MID,68,1
 186,Raheem,Sterling,MID,67,1
@@ -24,7 +24,7 @@ id,first_name,second_name,position,value,team_id
 42,Boubacar,Kamara,MID,50,2
 48,John,McGinn,MID,52,2
 53,Jacob,Ramsey,MID,54,2
-54,Morgan,Rogers,MID,54,2
+54,Morgan,Rogers,MID,53,2
 57,Youri,Tielemans,MID,55,2
 233,Amadou,Onana,MID,49,2
 569,Jaden,Philogene,MID,53,2
@@ -40,10 +40,11 @@ id,first_name,second_name,position,value,team_id
 71,Justin,Kluivert,MID,53,3
 74,Dango,Ouattara,MID,50,3
 76,Philip,Billing,MID,48,3
-77,Alex,Scott,MID,48,3
+77,Alex,Scott,MID,47,3
 78,Antoine,Semenyo,MID,57,3
 80,Luis,Sinisterra,MID,49,3
 83,Marcus,Tavernier,MID,55,3
+687,Ben,Winterburn,MID,45,3
 87,Ethan,Brierley,MID,45,4
 89,Mikkel,Damsgaard,MID,50,4
 90,Josh,Dasilva,MID,48,4
@@ -51,7 +52,7 @@ id,first_name,second_name,position,value,team_id
 95,Mathias,Jensen,MID,53,4
 97,Yunus Emre,Konak,MID,45,4
 98,Keane,Lewis-Potter,MID,50,4
-99,Bryan,Mbeumo,MID,79,4
+99,Bryan,Mbeumo,MID,78,4
 101,Christian,Nørgaard,MID,48,4
 102,Frank,Onyeka,MID,49,4
 103,Myles,Peart-Harris,MID,45,4
@@ -77,7 +78,7 @@ id,first_name,second_name,position,value,team_id
 133,Adrian,Mazilu,MID,45,5
 134,James,Milner,MID,50,5
 135,Yankuba,Minteh,MID,52,5
-136,Mitoma,Kaoru,MID,64,5
+136,Mitoma,Kaoru,MID,65,5
 137,Jakub,Moder,MID,44,5
 140,Cameron,Peupion,MID,45,5
 141,Jeremy,Sarmiento Morante,MID,49,5
@@ -126,7 +127,7 @@ id,first_name,second_name,position,value,team_id
 222,Idrissa,Gueye,MID,49,8
 223,James,Garner,MID,49,8
 224,Jack,Harrison,MID,53,8
-226,Tim,Iroegbunam,MID,45,8
+226,Tim,Iroegbunam,MID,44,8
 230,Dwight,McNeil,MID,56,8
 577,Jesper,Lindstrøm,MID,51,8
 603,Harrison,Armstrong,MID,45,8
@@ -134,9 +135,9 @@ id,first_name,second_name,position,value,team_id
 651,Orel,Mangala,MID,50,8
 678,Callum,Bates,MID,45,8
 10,Reiss,Nelson,MID,50,9
-19,Emile,Smith Rowe,MID,58,9
-239,Adama,Traoré,MID,50,9
-240,Andreas,Hoelgebaum Pereira,MID,52,9
+19,Emile,Smith Rowe,MID,57,9
+239,Adama,Traoré,MID,49,9
+240,Andreas,Hoelgebaum Pereira,MID,51,9
 243,Tom,Cairney,MID,48,9
 246,Luke,Harris,MID,45,9
 247,Alex,Iwobi,MID,56,9
@@ -190,7 +191,8 @@ id,first_name,second_name,position,value,team_id
 331,Tyler,Morton,MID,44,12
 336,Dominik,Szoboszlai,MID,63,12
 636,Federico,Chiesa,MID,68,12
-342,Bernardo,Veiga de Carvalho e Silva,MID,64,13
+688,Treymaurice,Nyoni,MID,45,12
+342,Bernardo,Veiga de Carvalho e Silva,MID,63,13
 343,Oscar,Bobb,MID,47,13
 345,Kevin,De Bruyne,MID,94,13
 346,Jérémy,Doku,MID,63,13
@@ -222,7 +224,7 @@ id,first_name,second_name,position,value,team_id
 673,Jayce,Fitzgerald,MID,45,14
 391,Miguel,Almirón Rejala,MID,55,15
 392,Harvey,Barnes,MID,63,15
-394,Bruno,Guimarães Rodriguez Moura,MID,62,15
+394,Bruno,Guimarães Rodriguez Moura,MID,61,15
 398,Anthony,Gordon,MID,72,15
 400,Isaac,Hayden,MID,45,15
 402,Jacob,Murphy,MID,50,15
@@ -235,10 +237,10 @@ id,first_name,second_name,position,value,team_id
 420,Joe,Willock,MID,48,15
 423,Elliot,Anderson,MID,50,16
 426,Josh,Bowler,MID,45,16
-428,Eric,da Silva Moreira,MID,45,16
+428,Eric,da Silva Moreira,MID,44,16
 429,Danilo,dos Santos de Oliveira,MID,47,16
 431,Nicolás,Domínguez,MID,48,16
-432,Anthony,Elanga,MID,52,16
+432,Anthony,Elanga,MID,51,16
 433,Morgan,Gibbs-White,MID,63,16
 434,Callum,Hudson-Odoi,MID,54,16
 435,Alex,Mighten,MID,45,16
@@ -281,6 +283,7 @@ id,first_name,second_name,position,value,team_id
 610,Mikey,Moore,MID,45,18
 612,Wilson,Odobert,MID,53,18
 683,Callum,Olusesi,MID,45,18
+689,Luca,Williams-Barnett,MID,45,18
 511,Edson,Álvarez Velázquez,MID,50,19
 514,Jarrod,Bowen,MID,74,19
 519,George,Earthy,MID,45,19
@@ -290,7 +293,7 @@ id,first_name,second_name,position,value,team_id
 530,Tomáš,Souček,MID,49,19
 576,Andy,Irving,MID,48,19
 587,Crysencio,Summerville,MID,57,19
-588,Guido,Rodríguez,MID,49,19
+588,Guido,Rodríguez,MID,48,19
 654,Carlos,Soler,MID,50,19
 534,Boubacar,Traoré,MID,48,20
 535,Jean-Ricner,Bellegarde,MID,50,20

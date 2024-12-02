@@ -1,6 +1,0 @@
-assists,bonus,bps,clean_sheets,creativity,unique_id,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,gameweek,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,POS,Full Name,own_team,opponent_short_name,opponent_attack,opponent_defense,own_short_name,own_attack,own_defense,crowds,season
-0,0,0,0,0.0,432,340,0,0,0.0,0.0,2021-05-09 13:05:00+00:00,0,2,0,0,0,0,35,0,0,3,1,0.0,0,0,0,0,45,False,0,3,Anthony Elanga,14,AVL,1120,1080,MUN,1280,1310,0,2020
-0,0,3,0,1.5,432,352,1,0,0.5,3.8,2021-05-11 17:00:00+00:00,65,11,0,0,0,0,35,0,0,2,1,0.0,2,0,0,0,45,True,0,3,Anthony Elanga,14,LEI,1150,1230,MUN,1250,1240,0,2020
-0,0,0,0,0.0,432,334,0,0,0.0,0.0,2021-05-13 19:15:00+00:00,0,12,0,0,0,0,35,0,0,4,2,0.0,0,0,0,0,45,True,0,3,Anthony Elanga,14,LIV,1210,1230,MUN,1250,1240,0,2020
-0,0,0,0,0.0,432,364,0,0,0.0,0.0,2021-05-18 17:00:00+00:00,0,9,0,0,0,0,37,0,40,1,1,0.0,0,20,24,4,45,True,0,3,Anthony Elanga,14,FUL,1110,1060,MUN,1250,1240,0,2020
-0,2,29,0,18.2,432,378,1,1,9.5,47.8,2021-05-23 15:00:00+00:00,90,20,0,0,0,0,38,0,285,2,1,29.0,9,225,249,24,45,False,0,3,Anthony Elanga,14,WOL,1120,1040,MUN,1280,1310,0,2020

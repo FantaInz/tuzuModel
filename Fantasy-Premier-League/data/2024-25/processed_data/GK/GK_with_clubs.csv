@@ -1,7 +1,7 @@
 id,first_name,second_name,position,value,team_id
 5,Karl,Hein,GK,40,1
 15,David,Raya Martin,GK,55,1
-73,Norberto,Murara Neto,GK,43,1
+73,Norberto,Murara Neto,GK,42,1
 639,Tommy,Setford,GK,45,1
 39,Joe,Gauci,GK,40,2
 46,Filip,Marschall,GK,40,2
@@ -33,7 +33,7 @@ id,first_name,second_name,position,value,team_id
 242,Steven,Benda,GK,40,9
 248,Bernd,Leno,GK,50,9
 280,Cieran,Slicker,GK,40,10
-283,Christian,Walton,GK,44,10
+283,Christian,Walton,GK,43,10
 568,Arijanet,Muric,GK,44,10
 293,Mads,Hermansen,GK,45,11
 294,Daniel,Iversen,GK,40,11
@@ -48,7 +48,7 @@ id,first_name,second_name,position,value,team_id
 358,Stefan,Ortega Moreno,GK,52,13
 367,Altay,Bayindir,GK,43,14
 374,Tom,Heaton,GK,40,14
-383,André,Onana,GK,51,14
+383,André,Onana,GK,52,14
 396,Martin,Dúbravka,GK,42,15
 412,Odysseas,Vlachodimos,GK,43,15
 413,Nick,Pope,GK,50,15

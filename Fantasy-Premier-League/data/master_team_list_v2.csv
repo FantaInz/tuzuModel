@@ -1,28 +1,25 @@
-Name,Unique_Id,24_Id,23_Id,22_Id,21_Id,20_Id
-Arsenal,1,1,1,1,1,1
-Aston Villa,2,2,2,2,2,2
-Bournemouth,3,3,3,3,-1,-1
-Brentford,4,4,4,4,3,-1
-Brighton,5,5,5,5,4,3
-Chelsea,6,6,7,6,6,5
-Crystal Palace,7,7,8,7,7,6
-Everton,8,8,9,8,8,7
-Fulham,9,9,10,9,-1,8
-Ipswich,10,10,-1,-1,-1,-1
-Leicester,11,11,-1,10,9,9
-Liverpool,12,12,11,12,11,11
-Man City,13,13,13,13,12,12
-Man Utd,14,14,14,14,13,13
-Newcastle,15,15,15,15,14,14
-Nott'm Forest,16,16,16,16,-1,-1
-Southampton,17,17,-1,17,16,16
-Spurs,18,18,18,18,17,17
-West Ham,19,19,19,19,19,19
-Wolves,20,20,20,20,20,20
-Burnley,21,-1,6,-1,5,4
-Luton,22,-1,12,-1,-1,-1
-Sheffield Utd,23,-1,17,-1,-1,15
-Leeds,24,-1,-1,11,10,10
-Norwich,25,-1,-1,-1,15,-1
-Watford,26,-1,-1,-1,18,-1
-West Brom,27,-1,-1,-1,-1,18
+Name,Unique_Id,24_Id,23_Id,22_Id
+Arsenal,1,1,1,1
+Aston Villa,2,2,2,2
+Bournemouth,3,3,3,3
+Brentford,4,4,4,4
+Brighton,5,5,5,5
+Chelsea,6,6,7,6
+Crystal Palace,7,7,8,7
+Everton,8,8,9,8
+Fulham,9,9,10,9
+Ipswich,10,10,-1,-1
+Leicester,11,11,-1,10
+Liverpool,12,12,11,12
+Man City,13,13,13,13
+Man Utd,14,14,14,14
+Newcastle,15,15,15,15
+Nott'm Forest,16,16,16,16
+Southampton,17,17,-1,17
+Spurs,18,18,18,18
+West Ham,19,19,19,19
+Wolves,20,20,20,20
+Burnley,21,-1,6,-1
+Luton,22,-1,12,-1
+Sheffield Utd,23,-1,17,-1
+Leeds,24,-1,-1,11
