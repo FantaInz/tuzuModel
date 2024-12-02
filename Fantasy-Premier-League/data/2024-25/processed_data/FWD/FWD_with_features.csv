@@ -1,76 +1,76 @@
-id,first_name,second_name,position,value,team_id,rolling_xg_5,average_xg_per_game
-2,Gabriel,Fernando de Jesus,FWD,68,1,0.15,0.0
-4,Kai,Havertz,FWD,79,1,0.196,0.45
-665,Nathan,Butler-Oyedeji,FWD,45,1,0.0,0.0
-38,Jhon,Durán,FWD,59,2,0.0,0.0
-58,Ollie,Watkins,FWD,90,2,0.576,0.46727272727272723
-65,Enes,Ünal,FWD,54,3,0.1,0.0
-69,Daniel,Jebbison,FWD,45,3,0.0,0.0
-617,Francisco Evanilson,de Lima Barbosa,FWD,60,3,0.422,0.43777777777777777
-107,Igor Thiago,Nascimento Rodrigues,FWD,59,4,0.0,0.0
-108,Ivan,Toney,FWD,73,4,0.0,0.0
-110,Yoane,Wissa,FWD,61,4,0.79,0.6883333333333334
-123,Evan,Ferguson,FWD,55,5,0.0,0.0
-129,João Pedro,Junqueira de Jesus,FWD,57,5,0.2925,0.2933333333333334
-138,Mark,O’Mahony,FWD,45,5,0.0,0.0
-143,Deniz,Undav,FWD,55,5,0.0,0.0
-148,Danny,Welbeck,FWD,60,5,0.322,0.4645454545454546
-164,David Datro,Fofana,FWD,54,6,0.0,0.0
-165,Deivid Washington,de Souza Eugênio,FWD,50,6,0.0,0.0
-175,Romelu,Lukaku Bolingoli,FWD,63,6,0.0,0.0
-178,Marc,Guiu Paz,FWD,48,6,0.0,0.0
-180,Nicolas,Jackson,FWD,80,6,0.2940000000000001,0.5409090909090909
-11,Eddie,Nketiah,FWD,59,7,0.136,0.18
-207,Jean-Philippe,Mateta,FWD,72,7,0.304,0.4428571428571429
-676,Zach,Marsh,FWD,45,7,0.0,0.0
-156,Armando,Broja,FWD,54,8,0.0,0.0
-218,Norberto Bercique,Gomes Betuncal,FWD,50,8,0.0,0.0
-220,Dominic,Calvert-Lewin,FWD,56,8,0.374,0.3290909090909091
-229,Neal,Maupay,FWD,49,8,0.0,0.0
-232,Iliman,Ndiaye,FWD,54,8,0.10600000000000001,0.09555555555555556
-237,Youssef,Ramalho Chermiti,FWD,49,8,0.0,0.0
-251,Rodrigo,Muniz Carvalho,FWD,55,9,0.3433333333333333,0.345
-252,Raúl,Jiménez,FWD,57,9,0.42799999999999994,0.44125000000000003
-256,Jay,Stansfield,FWD,50,9,0.0,0.0
-258,Carlos Vinícius,Alves Morais,FWD,50,9,0.0,0.0
-260,Ali,Al-Hamadi,FWD,48,10,0.0,0.0
-268,Liam,Delap,FWD,56,10,0.45999999999999996,0.23777777777777775
-272,George,Hirst,FWD,54,10,0.27,0.0
-276,Freddie,Ladapo,FWD,45,10,0.0,0.0
-198,Odsonne,Edouard,FWD,52,11,0.34,0.0
-286,Tom,Cannon,FWD,45,11,0.0,0.0
-289,Patson,Daka,FWD,48,11,0.0,0.0
-306,Jamie,Vardy,FWD,56,11,0.414,0.35100000000000003
-316,Darwin,Núñez Ribeiro,FWD,71,12,0.244,0.27599999999999997
-321,Cody,Gakpo,FWD,71,12,0.07250000000000001,0.06
-351,Erling,Haaland,FWD,151,13,1.0819999999999999,0.9981818181818182
-352,Julián,Álvarez,FWD,70,13,0.0,0.0
-375,Rasmus,Højlund,FWD,69,14,0.186,0.215
-389,Joshua,Zirkzee,FWD,66,14,0.7066666666666666,1.01
-648,Ethan,Wheatley,FWD,45,14,0.0,0.0
-401,Alexander,Isak,FWD,85,15,0.7140000000000001,0.52625
-421,Callum,Wilson,FWD,69,15,0.0,0.0
-590,William,Osula,FWD,50,15,0.0,0.0
-424,Taiwo,Awoniyi,FWD,56,16,0.0,0.0
-430,Emmanuel,Dennis,FWD,49,16,0.0,0.0
-446,Hwang,Ui-jo,FWD,45,16,0.0,0.0
-447,Chris,Wood,FWD,66,16,0.42200000000000004,0.445
-27,Cameron,Archer,FWD,50,17,0.24799999999999994,0.414
-453,Adam,Armstrong,FWD,51,17,0.4,0.2675
-468,Sékou,Mara,FWD,50,17,0.0,0.0
-470,Paul,Onuachu,FWD,49,17,0.0,0.0
-473,Ross,Stewart,FWD,45,17,0.0,0.0
-82,Dominic,Solanke-Mitchell,FWD,76,18,0.42400000000000004,0.6055555555555556
-497,Richarlison,de Andrade,FWD,68,18,0.0,0.0
-500,Dane,Scarlett,FWD,45,18,0.0,0.0
-507,Alejo,Véliz,FWD,50,18,0.0,0.0
-609,Will,Lankshear,FWD,45,18,0.0,0.0
-512,Michail,Antonio,FWD,54,19,0.12999999999999998,0.21875
-523,Danny,Ings,FWD,50,19,0.0,0.0
-589,Niclas,Füllkrug,FWD,67,19,0.0,0.0
-539,Leon,Chiwome,FWD,45,20,0.0,0.0
-541,Matheus,Santos Carneiro Da Cunha,FWD,70,20,0.24,0.23000000000000004
-545,Fábio,Silva,FWD,50,20,0.0,0.0
-546,Nathan,Fraser,FWD,45,20,0.0,0.0
-555,Saša,Kalajdžić,FWD,48,20,0.0,0.0
-566,Jørgen,Strand Larsen,FWD,56,20,0.314,0.2290909090909091
+id,first_name,second_name,position,value,team_id,rolling_xg_5,average_xg_per_game,cumulative_xg,cumulative_goals
+2,Gabriel,Fernando de Jesus,FWD,68,1,0.15,0.0,0.15,0
+4,Kai,Havertz,FWD,79,1,0.196,0.45,4.5,4
+665,Nathan,Butler-Oyedeji,FWD,45,1,0.0,0.0,0.0,0
+38,Jhon,Durán,FWD,59,2,0.0,0.0,0.0,0
+58,Ollie,Watkins,FWD,90,2,0.576,0.46727272727272723,6.4399999999999995,6
+65,Enes,Ünal,FWD,54,3,0.1,0.0,0.1,0
+69,Daniel,Jebbison,FWD,45,3,0.0,0.0,0.0,0
+617,Francisco Evanilson,de Lima Barbosa,FWD,60,3,0.422,0.43777777777777777,4.449999999999999,3
+107,Igor Thiago,Nascimento Rodrigues,FWD,59,4,0.0,0.0,0.0,0
+108,Ivan,Toney,FWD,73,4,0.0,0.0,0.0,0
+110,Yoane,Wissa,FWD,61,4,0.79,0.6883333333333334,4.95,5
+123,Evan,Ferguson,FWD,55,5,0.0,0.0,0.0,0
+129,João Pedro,Junqueira de Jesus,FWD,57,5,0.2925,0.2933333333333334,1.1700000000000002,3
+138,Mark,O’Mahony,FWD,45,5,0.0,0.0,0.0,0
+143,Deniz,Undav,FWD,55,5,0.0,0.0,0.0,0
+148,Danny,Welbeck,FWD,60,5,0.322,0.4645454545454546,5.109999999999999,6
+164,David Datro,Fofana,FWD,54,6,0.0,0.0,0.0,0
+165,Deivid Washington,de Souza Eugênio,FWD,50,6,0.0,0.0,0.0,0
+175,Romelu,Lukaku Bolingoli,FWD,63,6,0.0,0.0,0.0,0
+178,Marc,Guiu Paz,FWD,48,6,0.0,0.0,0.0,0
+180,Nicolas,Jackson,FWD,80,6,0.2940000000000001,0.5409090909090909,6.390000000000001,7
+11,Eddie,Nketiah,FWD,59,7,0.136,0.18,1.02,0
+207,Jean-Philippe,Mateta,FWD,72,7,0.304,0.4428571428571429,3.2,3
+676,Zach,Marsh,FWD,45,7,0.0,0.0,0.0,0
+156,Armando,Broja,FWD,54,8,0.0,0.0,0.0,0
+218,Norberto Bercique,Gomes Betuncal,FWD,50,8,0.0,0.0,0.0,0
+220,Dominic,Calvert-Lewin,FWD,56,8,0.374,0.3290909090909091,3.8000000000000003,2
+229,Neal,Maupay,FWD,49,8,0.0,0.0,0.0,0
+232,Iliman,Ndiaye,FWD,54,8,0.10600000000000001,0.09555555555555556,0.9999999999999999,2
+237,Youssef,Ramalho Chermiti,FWD,49,8,0.0,0.0,0.0,0
+251,Rodrigo,Muniz Carvalho,FWD,55,9,0.3433333333333333,0.345,1.03,0
+252,Raúl,Jiménez,FWD,57,9,0.42799999999999994,0.44125000000000003,4.25,4
+256,Jay,Stansfield,FWD,50,9,0.0,0.0,0.0,0
+258,Carlos Vinícius,Alves Morais,FWD,50,9,0.0,0.0,0.0,0
+260,Ali,Al-Hamadi,FWD,48,10,0.0,0.0,0.0,0
+268,Liam,Delap,FWD,56,10,0.45999999999999996,0.23777777777777775,3.13,5
+272,George,Hirst,FWD,54,10,0.27,0.0,0.27,1
+276,Freddie,Ladapo,FWD,45,10,0.0,0.0,0.0,0
+198,Odsonne,Edouard,FWD,52,11,0.34,0.0,0.34,0
+286,Tom,Cannon,FWD,45,11,0.0,0.0,0.0,0
+289,Patson,Daka,FWD,48,11,0.0,0.0,0.0,0
+306,Jamie,Vardy,FWD,56,11,0.414,0.35100000000000003,3.51,4
+316,Darwin,Núñez Ribeiro,FWD,71,12,0.244,0.27599999999999997,1.5299999999999998,2
+321,Cody,Gakpo,FWD,71,12,0.07250000000000001,0.06,0.29,1
+351,Erling,Haaland,FWD,151,13,1.0819999999999999,0.9981818181818182,11.8,12
+352,Julián,Álvarez,FWD,70,13,0.0,0.0,0.0,0
+375,Rasmus,Højlund,FWD,69,14,0.186,0.215,0.9299999999999999,1
+389,Joshua,Zirkzee,FWD,66,14,0.7066666666666666,1.01,2.12,0
+648,Ethan,Wheatley,FWD,45,14,0.0,0.0,0.0,0
+401,Alexander,Isak,FWD,85,15,0.7140000000000001,0.52625,4.920000000000001,4
+421,Callum,Wilson,FWD,69,15,0.0,0.0,0.0,0
+590,William,Osula,FWD,50,15,0.0,0.0,0.0,0
+424,Taiwo,Awoniyi,FWD,56,16,0.0,0.0,0.0,0
+430,Emmanuel,Dennis,FWD,49,16,0.0,0.0,0.0,0
+446,Hwang,Ui-jo,FWD,45,16,0.0,0.0,0.0,0
+447,Chris,Wood,FWD,66,16,0.42200000000000004,0.445,4.45,8
+27,Cameron,Archer,FWD,50,17,0.24799999999999994,0.414,2.07,2
+453,Adam,Armstrong,FWD,51,17,0.4,0.2675,2.0,2
+468,Sékou,Mara,FWD,50,17,0.0,0.0,0.0,0
+470,Paul,Onuachu,FWD,49,17,0.0,0.0,0.0,0
+473,Ross,Stewart,FWD,45,17,0.0,0.0,0.0,0
+82,Dominic,Solanke-Mitchell,FWD,76,18,0.42400000000000004,0.6055555555555556,5.57,4
+497,Richarlison,de Andrade,FWD,68,18,0.0,0.0,0.0,0
+500,Dane,Scarlett,FWD,45,18,0.0,0.0,0.0,0
+507,Alejo,Véliz,FWD,50,18,0.0,0.0,0.0,0
+609,Will,Lankshear,FWD,45,18,0.0,0.0,0.0,0
+512,Michail,Antonio,FWD,54,19,0.12999999999999998,0.21875,1.75,1
+523,Danny,Ings,FWD,50,19,0.0,0.0,0.0,0
+589,Niclas,Füllkrug,FWD,67,19,0.0,0.0,0.0,0
+539,Leon,Chiwome,FWD,45,20,0.0,0.0,0.0,0
+541,Matheus,Santos Carneiro Da Cunha,FWD,70,20,0.24,0.23000000000000004,3.07,7
+545,Fábio,Silva,FWD,50,20,0.0,0.0,0.0,0
+546,Nathan,Fraser,FWD,45,20,0.0,0.0,0.0,0
+555,Saša,Kalajdžić,FWD,48,20,0.0,0.0,0.0,0
+566,Jørgen,Strand Larsen,FWD,56,20,0.314,0.2290909090909091,2.61,4
