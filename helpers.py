@@ -2,6 +2,8 @@ import os
 import shutil
 
 import pandas as pd
+import xgboost as xgb
+import numpy as np
 from git import Repo
 
 # ========================
@@ -176,6 +178,88 @@ def calculate_season_average_until_gw(data, value_column, group_columns, current
 
     # Fill NaN values for the first gameweek with 0
     return averages.fillna(0)
+
+# ========================
+# Prediction Helpers
+# ========================
+
+def load_and_merge_prediction_data(data_directory, positions):
+    """Load and merge data for specified positions."""
+    merged_data = pd.DataFrame()
+    for position in positions:
+        position_file = os.path.join(data_directory, "processed_data", position, f"{position}_final.csv")
+        if os.path.exists(position_file):
+            position_data = pd.read_csv(position_file)
+            if position_data is not None:
+                merged_data = pd.concat([merged_data, position_data], ignore_index=True)
+                print(f"Merged {position_file}")
+        else:
+            print(f"File {position_file} not found. Skipping.")
+    return merged_data
+
+def preprocess_prediction_data(data):
+    """Perform data preprocessing and feature engineering."""
+    # Rename "id" to "unique_id" for consistency
+    data.rename(columns={"id": "unique_id"}, inplace=True)
+
+    # Feature engineering
+    data['was_home'] = data['was_home'].astype(int)
+    data['home_crowd_effect'] = data['was_home'] * data['crowds']
+    data["_unique_id_copy"] = data["unique_id"]
+    data["_pos_copy"] = data["POS"]
+
+    # Sort for rolling and cumulative calculations
+    data = data.sort_values(by=["unique_id", "season", "gameweek"])
+
+    # One-hot encoding for categorical columns
+    dummy_columns = ["POS", "home_crowd_effect", "unique_id", "own_team", "opponent_team"]
+    data = pd.get_dummies(data, columns=dummy_columns)
+
+    data["unique_id"] = data["_unique_id_copy"]
+    data["POS"] = data["_pos_copy"]
+    data.drop(columns=["_unique_id_copy"], inplace=True)
+
+    return data
+
+def make_predictions(data, model_path, prediction_column):
+    """Load model, generate predictions, and add to data."""
+    model = xgb.XGBRegressor()
+    model.load_model(model_path)
+    print(f"Loaded model from {model_path}")
+
+    # Ensure only trained features are used
+    trained_feature_names = model.get_booster().feature_names
+    prediction_data = data.reindex(columns=trained_feature_names, fill_value=0)
+
+    # Generate predictions
+    predictions = model.predict(prediction_data)
+    predictions = np.clip(predictions, a_min=0, a_max=None)  # Clamp negative predictions to 0
+    data[prediction_column] = predictions
+    return data
+
+def save_predictions(data, output_columns, prediction_column, output_file):
+    """Format and save predictions to a CSV file."""
+    output_data = data[output_columns + [prediction_column]]
+    output_data.loc[:, "gameweek"] = output_data["gameweek"].astype(int)  # Ensure gameweek is an integer
+    output_data = output_data.pivot(index=["unique_id", "first_name", "second_name"], columns="gameweek", values=prediction_column)
+    output_data.reset_index(inplace=True)
+
+    # Rename columns for clarity
+    output_data.columns = [
+        f"gw_{col}_{prediction_column}" if isinstance(col, int) else col for col in output_data.columns
+    ]
+
+    # Sort by gameweek columns
+    gameweek_columns = sorted(
+        [col for col in output_data.columns if col.startswith("gw_")],
+        key=lambda x: int(x.split('_')[1])  # Extract the gameweek number for proper sorting
+    )
+    output_data = output_data.sort_values(by=gameweek_columns, ascending=False)
+
+    # Save to file
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    output_data.to_csv(output_file, index=False)
+    print(f"Predictions saved to {output_file}")
 
 # ========================
 # Git Helpers
