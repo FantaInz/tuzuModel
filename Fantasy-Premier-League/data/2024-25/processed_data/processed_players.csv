@@ -415,6 +415,7 @@ id,first_name,second_name,position
 660,Vítezslav,Jaros,GK
 669,Harvey,Davies,GK
 688,Treymaurice,Nyoni,MID
+692,Amara,Nallo,DEF
 340,Manuel,Akanji,DEF
 341,Nathan,Aké,DEF
 342,Bernardo,Veiga de Carvalho e Silva,MID
@@ -478,6 +479,7 @@ id,first_name,second_name,position
 667,Jack,Fletcher,MID
 670,Harry,Amass,DEF
 673,Jayce,Fitzgerald,MID
+691,Godwill,Kukonki,DEF
 390,Alex,Murphy,DEF
 391,Miguel,Almirón Rejala,MID
 392,Harvey,Barnes,MID
@@ -581,6 +583,7 @@ id,first_name,second_name,position
 584,Ben,Brereton Díaz,MID
 608,Tyler,Dibling,MID
 623,Mateus Gonçalo,Espanha Fernandes,MID
+693,Joseph,O'Brien-Whitmarsh,MID
 82,Dominic,Solanke-Mitchell,FWD
 478,Ashley,Phillips,DEF
 479,Brandon,Austin,GK

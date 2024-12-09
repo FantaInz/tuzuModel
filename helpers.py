@@ -10,7 +10,7 @@ from git import Repo
 # Logging Helpers
 # ========================
 
-def log(message, level="INFO", verbosity="INFO"):
+def log(message, level="INFO", verbosity="WARNING"):
     """
     Log messages with a specified log level, given the verbosity level.
     
@@ -260,7 +260,7 @@ def save_predictions(data, output_columns, prediction_column, output_file):
     output_data.to_csv(output_file, index=False)
     print(f"Predictions saved to {output_file}")
 
-# ========================
+# ========================log
 # Git Helpers
 # ========================
 
