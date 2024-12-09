@@ -1,0 +1,25 @@
+Name,Unique_Id,24_Id,23_Id,22_Id,Understat_Team_Name
+Arsenal,1,1,1,1,Arsenal
+Aston Villa,2,2,2,2,Aston Villa
+Bournemouth,3,3,3,3,Bournemouth
+Brentford,4,4,4,4,Brentford
+Brighton,5,5,5,5,Brighton
+Chelsea,6,6,7,6,Chelsea
+Crystal Palace,7,7,8,7,Crystal Palace
+Everton,8,8,9,8,Everton
+Fulham,9,9,10,9,Fulham
+Ipswich,10,10,-1,-1,Ipswich
+Leicester,11,11,-1,10,Leicester
+Liverpool,12,12,11,12,Liverpool
+Man City,13,13,13,13,Manchester City
+Man Utd,14,14,14,14,Manchester United
+Newcastle,15,15,15,15,Newcastle United
+Nott'm Forest,16,16,16,16,Nottingham Forest
+Southampton,17,17,-1,17,Southampton
+Spurs,18,18,18,18,Tottenham
+West Ham,19,19,19,19,West Ham
+Wolves,20,20,20,20,Wolverhampton Wanderers
+Burnley,21,-1,6,-1,Burnley
+Luton,22,-1,12,-1,Luton
+Sheffield Utd,23,-1,17,-1,Sheffield United
+Leeds,24,-1,-1,11,Leeds
