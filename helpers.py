@@ -10,7 +10,7 @@ from git import Repo
 # Logging Helpers
 # ========================
 
-def log(message, level="INFO", verbosity="WARNING"):
+def log(message, level="INFO", verbosity="INFO"):
     """
     Log messages with a specified log level, given the verbosity level.
     
@@ -205,17 +205,18 @@ def preprocess_prediction_data(data):
     # Feature engineering
     data['was_home'] = data['was_home'].astype(int)
     data["_unique_id_copy"] = data["unique_id"]
-    data["_pos_copy"] = data["POS"]
+    # data["_pos_copy"] = data["POS"]
+    data["def_atk_diff"] = data["own_defense"]-data["opponent_attack"]
 
     # Sort for rolling and cumulative calculations
     data = data.sort_values(by=["unique_id", "season", "gameweek"])
 
     # One-hot encoding for categorical columns
-    dummy_columns = ["POS", "was_home", "unique_id", "own_team", "opponent_team"]
+    dummy_columns = ["was_home", "unique_id"]
     data = pd.get_dummies(data, columns=dummy_columns)
 
     data["unique_id"] = data["_unique_id_copy"]
-    data["POS"] = data["_pos_copy"]
+ #   data["POS"] = data["_pos_copy"]
     data.drop(columns=["_unique_id_copy"], inplace=True)
 
     return data
@@ -232,7 +233,7 @@ def make_predictions(data, model_path, prediction_column):
 
     # Generate predictions
     predictions = model.predict(prediction_data)
-    predictions = np.clip(predictions, a_min=0, a_max=None)  # Clamp negative predictions to 0
+    # predictions = np.clip(predictions, a_min=0, a_max=None)  # Clamp negative predictions to 0
     data[prediction_column] = predictions
     return data
 
@@ -240,18 +241,22 @@ def save_predictions(data, output_columns, prediction_column, output_file):
     """Format and save predictions to a CSV file."""
     output_data = data[output_columns + [prediction_column]]
     output_data.loc[:, "gameweek"] = output_data["gameweek"].astype(int)  # Ensure gameweek is an integer
+    duplicates = output_data.duplicated(subset=["unique_id", "first_name", "second_name", "gameweek"], keep=False)
+    if duplicates.any():
+        print("Duplicate rows detected:")
+        print(output_data[duplicates])
     output_data = output_data.pivot(index=["unique_id", "first_name", "second_name"], columns="gameweek", values=prediction_column)
     output_data.reset_index(inplace=True)
 
     # Rename columns for clarity
     output_data.columns = [
-        f"gw_{col}_{prediction_column}" if isinstance(col, int) else col for col in output_data.columns
+        f"{col}_{prediction_column}" if isinstance(col, int) else col for col in output_data.columns
     ]
-
+    output_data.rename(columns={"unique_id": "ID"}, inplace=True)
     # Sort by gameweek columns
     gameweek_columns = sorted(
-        [col for col in output_data.columns if col.startswith("gw_")],
-        key=lambda x: int(x.split('_')[1])  # Extract the gameweek number for proper sorting
+        [col for col in output_data.columns if col.endswith("_Pts")],
+        key=lambda x: int(x.split('_')[0])  # Extract the gameweek number for proper sorting
     )
     output_data = output_data.sort_values(by=gameweek_columns, ascending=False)
 
@@ -259,6 +264,8 @@ def save_predictions(data, output_columns, prediction_column, output_file):
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     output_data.to_csv(output_file, index=False)
     print(f"Predictions saved to {output_file}")
+
+
 
 # ========================log
 # Git Helpers
