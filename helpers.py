@@ -213,7 +213,7 @@ def preprocess_prediction_data(data):
     data = data.sort_values(by=["unique_id", "season", "gameweek"])
 
     # One-hot encoding for categorical columns
-    dummy_columns = ["was_home", "unique_id"]
+    dummy_columns = ["was_home", "unique_id", "penalties_order"]
     data = pd.get_dummies(data, columns=dummy_columns)
 
     data["unique_id"] = data["_unique_id_copy"]
