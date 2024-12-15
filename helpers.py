@@ -207,6 +207,7 @@ def preprocess_prediction_data(data):
     data["_unique_id_copy"] = data["unique_id"]
     # data["_pos_copy"] = data["POS"]
     data["def_atk_diff"] = data["own_defense"]-data["opponent_attack"]
+    data["atk_def_diff"] = data["own_attack"]-data["opponent_defense"]
 
     # Sort for rolling and cumulative calculations
     data = data.sort_values(by=["unique_id", "season", "gameweek"])
