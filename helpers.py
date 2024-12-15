@@ -87,14 +87,14 @@ def load_csv(file_path):
     try:
         return pd.read_csv(file_path)
     except Exception as e:
-        log(f"Error loading CSV {file_path}: {e}", level="ERROR")
+        log(f"Error loading CSV {file_path}: {e}", level="DEBUG")
         return None
 
 def save_csv(df, file_path):
     """Save a DataFrame to a CSV file."""
     try:
         df.to_csv(file_path, index=False)
-        log(f"Saved CSV: {file_path}")
+        log(f"Saved CSV: {file_path}", level="DEBUG")
     except Exception as e:
         log(f"Error saving CSV {file_path}: {e}", level="ERROR")
 
