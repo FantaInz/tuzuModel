@@ -3,7 +3,7 @@ numpy
 rapidfuzz
 ipykernel
 xgboost
-scikit-learn
+scikit-learn==1.5.2
 matplotlib
 jupyter
 GitPython
