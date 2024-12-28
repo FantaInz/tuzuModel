@@ -102,6 +102,7 @@ id,first_name,second_name,position
 617,Francisco Evanilson,de Lima Barbosa,FWD
 680,Max,Kinsey,DEF
 687,Ben,Winterburn,MID
+702,Archie,Harris,DEF
 86,Kristoffer,Ajer,DEF
 87,Ethan,Brierley,MID
 88,Nathan,Collins,DEF
@@ -136,6 +137,7 @@ id,first_name,second_name,position
 649,Jayden,Meghoma,DEF
 661,Tony,Yogane,MID
 674,Paris,Maghoma,MID
+705,Benjamin,Arthur,DEF
 113,Simon,Adingra,MID
 114,Benicio,Baker-Boaitey,MID
 115,Carlos,Baleba,MID
@@ -451,6 +453,8 @@ id,first_name,second_name,position
 672,Jahmai,Simpson-Pusey,DEF
 675,Josh,Wilson-Esbrand,DEF
 698,Divin,Mubama,FWD
+703,Max,Alleyne,DEF
+704,Spike,Brits,GK
 364,Amad,Diallo,MID
 365,Antony Matheus,dos Santos,MID
 366,Bruno,Borges Fernandes,MID

@@ -2,19 +2,19 @@ id,first_name,second_name,position,value,team_id,penalties_order
 2,Gabriel,Fernando de Jesus,FWD,68,1,
 4,Kai,Havertz,FWD,79,1,3.0
 665,Nathan,Butler-Oyedeji,FWD,45,1,
-38,Jhon,Durán,FWD,58,2,
-58,Ollie,Watkins,FWD,89,2,1.0
+38,Jhon,Durán,FWD,59,2,
+58,Ollie,Watkins,FWD,88,2,1.0
 65,Enes,Ünal,FWD,54,3,
 69,Daniel,Jebbison,FWD,45,3,
-617,Francisco Evanilson,de Lima Barbosa,FWD,61,3,2.0
+617,Francisco Evanilson,de Lima Barbosa,FWD,60,3,2.0
 107,Igor Thiago,Nascimento Rodrigues,FWD,59,4,
 108,Ivan,Toney,FWD,73,4,
-110,Yoane,Wissa,FWD,63,4,4.0
+110,Yoane,Wissa,FWD,62,4,4.0
 123,Evan,Ferguson,FWD,55,5,
-129,João Pedro,Junqueira de Jesus,FWD,59,5,1.0
+129,João Pedro,Junqueira de Jesus,FWD,58,5,1.0
 138,Mark,O’Mahony,FWD,45,5,
 143,Deniz,Undav,FWD,55,5,
-148,Danny,Welbeck,FWD,57,5,3.0
+148,Danny,Welbeck,FWD,56,5,3.0
 164,David Datro,Fofana,FWD,54,6,
 165,Deivid Washington,de Souza Eugênio,FWD,49,6,
 175,Romelu,Lukaku Bolingoli,FWD,63,6,
@@ -24,13 +24,13 @@ id,first_name,second_name,position,value,team_id,penalties_order
 207,Jean-Philippe,Mateta,FWD,72,7,1.0
 676,Zach,Marsh,FWD,45,7,
 156,Armando,Broja,FWD,54,8,
-218,Norberto Bercique,Gomes Betuncal,FWD,50,8,
-220,Dominic,Calvert-Lewin,FWD,55,8,1.0
+218,Norberto Bercique,Gomes Betuncal,FWD,49,8,
+220,Dominic,Calvert-Lewin,FWD,54,8,1.0
 229,Neal,Maupay,FWD,49,8,
 232,Iliman,Ndiaye,FWD,54,8,
 237,Youssef,Ramalho Chermiti,FWD,49,8,
 251,Rodrigo,Muniz Carvalho,FWD,55,9,
-252,Raúl,Jiménez,FWD,56,9,2.0
+252,Raúl,Jiménez,FWD,55,9,2.0
 256,Jay,Stansfield,FWD,50,9,
 258,Carlos Vinícius,Alves Morais,FWD,50,9,
 260,Ali,Al-Hamadi,FWD,48,10,2.0
@@ -42,14 +42,14 @@ id,first_name,second_name,position,value,team_id,penalties_order
 289,Patson,Daka,FWD,48,11,3.0
 306,Jamie,Vardy,FWD,56,11,1.0
 316,Darwin,Núñez Ribeiro,FWD,71,12,3.0
-321,Cody,Gakpo,FWD,71,12,
+321,Cody,Gakpo,FWD,72,12,
 351,Erling,Haaland,FWD,148,13,1.0
 352,Julián,Álvarez,FWD,70,13,
 698,Divin,Mubama,FWD,45,13,
 375,Rasmus,Højlund,FWD,69,14,
 389,Joshua,Zirkzee,FWD,66,14,
 648,Ethan,Wheatley,FWD,45,14,
-401,Alexander,Isak,FWD,89,15,2.0
+401,Alexander,Isak,FWD,91,15,2.0
 421,Callum,Wilson,FWD,69,15,1.0
 590,William,Osula,FWD,49,15,
 424,Taiwo,Awoniyi,FWD,55,16,
@@ -66,7 +66,7 @@ id,first_name,second_name,position,value,team_id,penalties_order
 500,Dane,Scarlett,FWD,45,18,
 507,Alejo,Véliz,FWD,50,18,
 609,Will,Lankshear,FWD,45,18,
-512,Michail,Antonio,FWD,54,19,
+512,Michail,Antonio,FWD,53,19,
 523,Danny,Ings,FWD,50,19,
 589,Niclas,Füllkrug,FWD,67,19,
 539,Leon,Chiwome,FWD,45,20,
