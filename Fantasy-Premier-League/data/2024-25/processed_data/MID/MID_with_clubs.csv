@@ -24,7 +24,7 @@ id,first_name,second_name,position,value,team_id,penalties_order
 42,Boubacar,Kamara,MID,50,2,
 48,John,McGinn,MID,52,2,
 53,Jacob,Ramsey,MID,54,2,
-54,Morgan,Rogers,MID,54,2,
+54,Morgan,Rogers,MID,55,2,
 57,Youri,Tielemans,MID,55,2,2.0
 233,Amadou,Onana,MID,49,2,
 569,Jaden,Philogene,MID,53,2,
@@ -52,7 +52,7 @@ id,first_name,second_name,position,value,team_id,penalties_order
 95,Mathias,Jensen,MID,53,4,
 97,Yunus Emre,Konak,MID,45,4,
 98,Keane,Lewis-Potter,MID,50,4,
-99,Bryan,Mbeumo,MID,76,4,2.0
+99,Bryan,Mbeumo,MID,77,4,2.0
 101,Christian,Nørgaard,MID,48,4,
 102,Frank,Onyeka,MID,49,4,
 103,Myles,Peart-Harris,MID,45,4,
@@ -78,7 +78,7 @@ id,first_name,second_name,position,value,team_id,penalties_order
 133,Adrian,Mazilu,MID,45,5,
 134,James,Milner,MID,50,5,
 135,Yankuba,Minteh,MID,51,5,
-136,Mitoma,Kaoru,MID,65,5,
+136,Mitoma,Kaoru,MID,64,5,
 137,Jakub,Moder,MID,44,5,
 140,Cameron,Peupion,MID,44,5,
 141,Jeremy,Sarmiento Morante,MID,49,5,
@@ -86,7 +86,7 @@ id,first_name,second_name,position,value,team_id,penalties_order
 595,Brajan,Gruda,MID,54,5,
 600,Yasin,Ayari,MID,50,5,
 601,Andrew,Moran,MID,50,5,
-618,Georginio,Rutter,MID,54,5,
+618,Georginio,Rutter,MID,53,5,
 629,Matt,O'Riley,MID,55,5,
 150,Andrey,Nascimento dos Santos,MID,45,6,
 151,Ângelo Gabriel,Borges Damaceno,MID,45,6,
@@ -101,7 +101,7 @@ id,first_name,second_name,position,value,team_id,penalties_order
 177,Noni,Madueke,MID,63,6,3.0
 179,Mykhailo,Mudryk,MID,62,6,
 181,Christopher,Nkunku,MID,58,6,2.0
-182,Cole,Palmer,MID,113,6,1.0
+182,Cole,Palmer,MID,114,6,1.0
 184,Renato,Palma Veiga,MID,45,6,
 386,Jadon,Sancho,MID,62,6,
 560,Pedro,Lomba Neto,MID,62,6,
@@ -118,9 +118,9 @@ id,first_name,second_name,position,value,team_id,penalties_order
 208,Matheus,França de Oliveira,MID,44,7,
 212,David,Ozoh,MID,45,7,
 213,Jesurun,Rak-Sakyi,MID,45,7,
-214,Jeffrey,Schlupp,MID,47,7,
+214,Jeffrey,Schlupp,MID,46,7,
 216,Adam,Wharton,MID,47,7,
-585,Ismaïla,Sarr,MID,58,7,
+585,Ismaïla,Sarr,MID,59,7,
 644,Franco,Umeh-Chibueze,MID,44,7,
 645,Justin,Devenny,MID,45,7,
 646,Asher,Agbinone,MID,45,7,
@@ -137,12 +137,12 @@ id,first_name,second_name,position,value,team_id,penalties_order
 651,Orel,Mangala,MID,50,8,
 678,Callum,Bates,MID,45,8,
 10,Reiss,Nelson,MID,50,9,
-19,Emile,Smith Rowe,MID,54,9,
+19,Emile,Smith Rowe,MID,53,9,
 239,Adama,Traoré,MID,47,9,
 240,Andreas,Hoelgebaum Pereira,MID,50,9,1.0
 243,Tom,Cairney,MID,48,9,
 246,Luke,Harris,MID,45,9,
-247,Alex,Iwobi,MID,58,9,
+247,Alex,Iwobi,MID,59,9,
 249,Saša,Lukić,MID,48,9,3.0
 254,Harrison,Reed,MID,47,9,
 259,Harry,Wilson,MID,52,9,
@@ -161,9 +161,9 @@ id,first_name,second_name,position,value,team_id,penalties_order
 359,Kalvin,Phillips,MID,48,10,
 611,Sam,Szmodics,MID,58,10,
 619,Jens,Cajuste,MID,45,10,
-631,Jack,Clarke,MID,55,10,
+631,Jack,Clarke,MID,54,10,
 632,Chiedozie,Ogbene,MID,49,10,
-117,Facundo,Buonanotte,MID,49,11,
+117,Facundo,Buonanotte,MID,48,11,
 192,Jordan,Ayew,MID,52,11,2.0
 285,Boubakary,Soumaré,MID,44,11,
 287,Hamza,Choudhury,MID,43,11,
@@ -174,7 +174,7 @@ id,first_name,second_name,position,value,team_id,penalties_order
 299,Kasey,McAteer,MID,47,11,
 300,Wilfred,Ndidi,MID,49,11,
 309,Harry,Winks,MID,45,11,
-501,Oliver,Skipp,MID,48,11,
+501,Oliver,Skipp,MID,47,11,
 570,Abdul,Fatawu,MID,52,11,
 606,Will,Alves,MID,45,11,
 635,Bilal,El Khannouss,MID,48,11,
@@ -187,8 +187,8 @@ id,first_name,second_name,position,value,team_id,penalties_order
 320,Endo,Wataru,MID,46,12,
 323,Ryan,Gravenberch,MID,50,12,
 324,Curtis,Jones,MID,53,12,
-327,Luis,Díaz,MID,75,12,
-328,Mohamed,Salah,MID,135,12,2.0
+327,Luis,Díaz,MID,76,12,
+328,Mohamed,Salah,MID,136,12,2.0
 329,Alexis,Mac Allister,MID,62,12,
 330,James,McConnell,MID,44,12,
 331,Tyler,Morton,MID,44,12,
@@ -197,7 +197,7 @@ id,first_name,second_name,position,value,team_id,penalties_order
 688,Treymaurice,Nyoni,MID,45,12,
 342,Bernardo,Veiga de Carvalho e Silva,MID,63,13,
 343,Oscar,Bobb,MID,47,13,
-345,Kevin,De Bruyne,MID,95,13,4.0
+345,Kevin,De Bruyne,MID,94,13,4.0
 346,Jérémy,Doku,MID,62,13,
 348,Phil,Foden,MID,92,13,
 349,Jack,Grealish,MID,64,13,
@@ -207,33 +207,33 @@ id,first_name,second_name,position,value,team_id,penalties_order
 360,Rodrigo 'Rodri',Hernandez,MID,63,13,
 571,Sávio 'Savinho',Moreira de Oliveira,MID,64,13,
 607,Nico,O'Reilly,MID,49,13,
-625,Ilkay,Gündogan,MID,65,13,
+625,Ilkay,Gündogan,MID,64,13,
 671,Jacob,Wright,MID,45,13,
 364,Amad,Diallo,MID,54,14,
 365,Antony Matheus,dos Santos,MID,57,14,
-366,Bruno,Borges Fernandes,MID,84,14,1.0
+366,Bruno,Borges Fernandes,MID,83,14,1.0
 368,Carlos Henrique,Casimiro,MID,48,14,
 370,Christian,Eriksen,MID,53,14,
-372,Alejandro,Garnacho,MID,61,14,
+372,Alejandro,Garnacho,MID,60,14,
 373,Hannibal,Mejbri,MID,45,14,
 378,Kobbie,Mainoo,MID,52,14,
 381,Scott,McTominay,MID,49,14,
 382,Mason,Mount,MID,63,14,
 384,Facundo,Pellistri Rebollo,MID,50,14,
-385,Marcus,Rashford,MID,67,14,3.0
+385,Marcus,Rashford,MID,66,14,3.0
 613,Toby,Collyer,MID,45,14,
 652,Manuel,Ugarte,MID,49,14,
 667,Jack,Fletcher,MID,45,14,
 673,Jayce,Fitzgerald,MID,45,14,
 391,Miguel,Almirón Rejala,MID,55,15,
-392,Harvey,Barnes,MID,61,15,
+392,Harvey,Barnes,MID,60,15,
 394,Bruno,Guimarães Rodriguez Moura,MID,61,15,
-398,Anthony,Gordon,MID,73,15,3.0
+398,Anthony,Gordon,MID,74,15,3.0
 400,Isaac,Hayden,MID,44,15,
-402,Jacob,Murphy,MID,50,15,
+402,Jacob,Murphy,MID,51,15,
 403,Joelinton Cássio,Apolinário de Lira,MID,60,15,
 406,Garang,Kuol,MID,44,15,
-410,Sean,Longstaff,MID,47,15,
+410,Sean,Longstaff,MID,46,15,
 411,Lewis,Miley,MID,50,15,
 417,Sandro,Tonali,MID,55,15,
 419,Joe,White,MID,45,15,
@@ -243,12 +243,12 @@ id,first_name,second_name,position,value,team_id,penalties_order
 428,Eric,da Silva Moreira,MID,44,16,
 429,Danilo,dos Santos de Oliveira,MID,47,16,
 431,Nicolás,Domínguez,MID,48,16,
-432,Anthony,Elanga,MID,51,16,
-433,Morgan,Gibbs-White,MID,63,16,2.0
+432,Anthony,Elanga,MID,52,16,
+433,Morgan,Gibbs-White,MID,64,16,2.0
 434,Callum,Hudson-Odoi,MID,53,16,
 435,Alex,Mighten,MID,45,16,
 439,Lewis,O'Brien,MID,50,16,
-442,Ibrahim,Sangaré,MID,44,16,
+442,Ibrahim,Sangaré,MID,43,16,
 449,Ryan,Yates,MID,49,16,
 531,James,Ward-Prowse,MID,62,16,
 596,João Pedro,Ferreira Silva,MID,59,16,
@@ -282,7 +282,7 @@ id,first_name,second_name,position,value,team_id,penalties_order
 494,James,Maddison,MID,77,18,2.0
 499,Pape Matar,Sarr,MID,48,18,
 502,Manor,Solomon,MID,54,18,
-503,Son,Heung-min,MID,98,18,1.0
+503,Son,Heung-min,MID,99,18,1.0
 509,Timo,Werner,MID,62,18,
 610,Mikey,Moore,MID,45,18,
 612,Wilson,Odobert,MID,53,18,

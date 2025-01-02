@@ -103,6 +103,7 @@ id,first_name,second_name,position
 680,Max,Kinsey,DEF
 687,Ben,Winterburn,MID
 702,Archie,Harris,DEF
+707,Remy,Rees-Dottin,FWD
 86,Kristoffer,Ajer,DEF
 87,Ethan,Brierley,MID
 88,Nathan,Collins,DEF
@@ -389,6 +390,7 @@ id,first_name,second_name,position
 616,Ben,Nelson,DEF
 635,Bilal,El Khannouss,MID
 694,Henry,Cartwright,MID
+708,Thomas,Wilson-Brown,DEF
 310,Alisson,Ramses Becker,GK
 311,Trent,Alexander-Arnold,DEF
 312,Stefan,Bajčetić Maquieira,MID
@@ -422,6 +424,7 @@ id,first_name,second_name,position
 669,Harvey,Davies,GK
 688,Treymaurice,Nyoni,MID
 692,Amara,Nallo,DEF
+709,Jayden,Danns,FWD
 340,Manuel,Akanji,DEF
 341,Nathan,Aké,DEF
 342,Bernardo,Veiga de Carvalho e Silva,MID
@@ -555,6 +558,7 @@ id,first_name,second_name,position
 596,João Pedro,Ferreira Silva,MID
 620,Ramón,Sosa,MID
 653,Felipe,Rodrigues da Silva,DEF
+706,Zach,Abbott,DEF
 14,Aaron,Ramsdale,GK
 27,Cameron,Archer,FWD
 188,Lesley,Ugochukwu,MID
