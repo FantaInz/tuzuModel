@@ -45,9 +45,9 @@ clone_dir = "Fantasy-Premier-League"
 
 log("Cloning the repository...", level="INFO")
 git_clone(repo_url, clone_dir)
-
 log("Cleaning the directory...", level="INFO")
 clean_directory(clone_dir)
+
 
 
 # In[ ]:

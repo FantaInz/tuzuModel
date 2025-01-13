@@ -29,6 +29,7 @@ def main():
 
         arr = ("{" + ", ".join(row[1][1::].apply(lambda x: x*mult).apply(str)) + "}")
         query=f"UPDATE players SET \"expectedPoints\"=\"expectedPoints\"[0:{lastUpdate}]||'{arr}' WHERE id={id}"
+        print(query)
         cur.execute(query)
         print("updated expectedPoints for player",id)
     conn.commit()
