@@ -98,7 +98,7 @@ def save_csv(df, file_path):
     except Exception as e:
         log(f"Error saving CSV {file_path}: {e}", level="ERROR")
 
-def combine_position_data(data_directory, seasons, positions, output_file_name):
+def combine_position_data(data_directory, seasons, positions, output_file_name, filter_zeros=False):
     """
     Combines data from specified positions for given seasons into a single dataset for predictions.
 
@@ -107,6 +107,7 @@ def combine_position_data(data_directory, seasons, positions, output_file_name):
         seasons (list): List of season names (e.g., ["2022-23", "2023-24"]).
         positions (list): List of positions to combine (e.g., ["DEF", "MID", "FWD"]).
         output_file_name (str): Name of the combined output file (e.g., "training_data.csv").
+        filter_zeros (bool): Whether to keep players who didn't play in gameweek in the dataset.
 
     Returns:
         None
@@ -130,6 +131,11 @@ def combine_position_data(data_directory, seasons, positions, output_file_name):
             if check_file_exists(position_file_path):
                 position_data = load_csv(position_file_path)
                 if position_data is not None:
+                    if filter_zeros:
+                        if "minutes" in position_data.columns:
+                            position_data = position_data[position_data["minutes"] > 0]
+                        else:
+                            log(f"Column 'minutes' not found in {position_file}. Skipping filtering.", level="WARNING")
                     combined_data.append(position_data)
                     log(f"Loaded data from {position_file} for season {season}.")
             else:

@@ -1,639 +1,238 @@
 Unique_ID,Full_Name,23_id,Understat_ID
-1,Fábio Ferreira Vieira,4,11007
-2,Gabriel Fernando de Jesus,8,5613
-3,Gabriel dos Santos Magalhães,5,5613
-4,Kai Havertz,6,5220
-6,Jurriën Timber,585,11707
-7,Jorge Luiz Frello Filho,9,1389
-8,Jakub Kiwior,10,10012
-9,Gabriel Martinelli Silva,12,7752
-12,Ethan Nwaneri,772,11132
-13,Martin Ødegaard,14,2517
-15,David Raya Martin,113,9676
-16,Declan Rice,540,5553
-17,Bukayo Saka,19,7322
-18,William Saliba,20,6888
-20,Thomas Partey,15,2328
-21,Kieran Tierney,24,8089
-23,Leandro Trossard,26,7698
-24,Benjamin White,29,7298
-25,Oleksandr Zinchenko,31,2958
-73,Norberto Murara Neto,77,1297
-186,Raheem Sterling,216,618
-28,Leon Bailey,34,5221
-29,Ross Barkley,630,592
-31,Emiliano Buendía Stati,35,2203
-32,Matty Cash,36,8864
-33,Leander Dendoncker,40,7236
-34,Moussa Diaby,599,6556
-35,Diego Carlos Santos Silva,41,5712
-36,Lucas Digne,42,1823
-37,Lewis Dobbin,624,10027
-38,Jhon Durán,44,11366
-42,Boubacar Kamara,47,5789
-43,Kaine Kesler-Hayden,793,9409
-44,Ezri Konsa Ngoyo,48,7726
-45,Ian Maatsen,609,11807
-47,Emiliano Martínez Romero,49,4401
-48,John McGinn,50,7723
-49,Tyrone Mings,51,1024
-51,Robin Olsen,53,6962
-52,Pau Torres,584,6221
-53,Jacob Ramsey,55,8941
-54,Morgan Rogers,803,12412
-57,Youri Tielemans,58,5956
-58,Ollie Watkins,60,8865
-233,Amadou Onana,261,9667
-569,Jaden Philogene,54,9415
-59,Max Aarons,643,7688
-60,Tyler Adams,673,7352
-61,Jaidon Anthony,62,10746
-62,David Brooks,64,6820
-63,Ryan Christie,65,10744
-64,Lewis Cook,66,1789
-65,Enes Ünal,804,6219
-66,Romain Faivre,799,6420
-67,Hamed Traorè,87,6986
-68,James Hill,69,10747
-69,Daniel Jebbison,483,9509
-70,Milos Kerkez,595,11709
-71,Justin Kluivert,72,6963
-72,Chris Mepham,75,7384
-74,Dango Ouattara,78,9662
-76,Philip Billing,63,6034
-77,Alex Scott,644,12149
-78,Antoine Semenyo,82,11363
-79,Marcos Senesi,83,10864
-80,Luis Sinisterra,705,10866
-81,Adam Smith,84,825
-83,Marcus Tavernier,86,10741
-84,Mark Travers,88,7582
-85,Illia Zabarnyi,89,11486
-152,Kepa Arrizabalaga,187,5061
-86,Kristoffer Ajer,90,9677
-88,Nathan Collins,96,9733
-89,Mikkel Damsgaard,98,8859
-90,Josh Dasilva,99,10405
-91,Mark Flekken,101,7047
-92,Rico Henry,103,9679
-93,Aaron Hickey,104,8942
-94,Vitaly Janelt,105,9680
-95,Mathias Jensen,106,7166
-98,Keane Lewis-Potter,107,10809
-99,Bryan Mbeumo,108,6552
-100,Ben Mee,109,1654
-101,Christian Nørgaard,110,7083
-102,Frank Onyeka,111,9681
-103,Myles Peart-Harris,744,10205
-104,Ethan Pinnock,112,9678
-105,Mads Roerslev Rasmussen,114,9685
-106,Kevin Schade,115,9156
-108,Ivan Toney,117,998
-110,Yoane Wissa,119,5786
-111,Yehor Yarmoliuk,120,11772
-112,Mathias Jorgensen,121,6030
-113,Simon Adingra,122,11710
-114,Benicio Baker-Boaitey,742,12204
-115,Carlos Baleba,690,10527
-116,Valentín Barco,816,12498
-119,Mahmoud Dahoud,128,205
-120,Lewis Dunk,129,6048
-121,Julio Enciso,130,11058
-122,Pervis Estupiñán,131,5136
-123,Evan Ferguson,132,10177
-124,Billy Gilmour,133,7988
-125,Pascal Groß,134,239
-126,Jack Hinshelwood,621,11269
-128,Igor Julio dos Santos de Paulo,606,7943
-129,João Pedro Junqueira de Jesus,135,8272
-131,Tariq Lamptey,139,8226
-132,Solly March,140,6049
-134,James Milner,142,489
-137,Jakub Moder,144,9284
-138,Mark O’Mahony,741,12205
-139,Odeluga Offiah,845,10453
-140,Cameron Peupion,786,11544
-141,Jeremy Sarmiento Morante,146,10036
-142,Jason Steele,148,7235
-143,Deniz Undav,149,10804
-144,Jan Paul van Hecke,150,10807
-145,Joël Veltman,151,8780
-146,Bart Verbruggen,152,11711
-147,Adam Webster,153,7699
-148,Danny Welbeck,154,501
-600,Yasin Ayari,124,11385
-150,Andrey Nascimento dos Santos,186,11808
-151,Ângelo Gabriel Borges Damaceno,589,5613
-153,Benoît Badiashile,191,7240
-157,Moisés Caicedo Corozo,126,9453
-158,Cesare Casadei,791,10433
-160,Ben Chilwell,195,782
-161,Carney Chukwuemeka,196,9356
-162,Levi Colwill,197,10805
-163,Marc Cucurella Saseta,198,7134
-164,David Datro Fofana,200,11295
-165,Deivid Washington de Souza Eugênio,677,12033
-167,Axel Disasi,611,6885
-168,Enzo Fernández,199,11356
-169,Conor Gallagher,202,9040
-170,Alfie Gilchrist,716,11595
-171,Malo Gusto,203,9017
-172,Reece James,206,8067
-173,Omari Kellyman,618,11739
-174,Roméo Lavia,667,10004
-177,Noni Madueke,208,11357
-179,Mykhailo Mudryk,210,11305
-180,Nicolas Jackson,211,10048
-181,Christopher Nkunku,212,3300
-182,Cole Palmer,362,8497
-183,Đorđe Petrović,687,12032
-185,Robert Sánchez,145,9098
-187,Tosin Adarabioyo,286,5590
-189,Wesley Fofana,201,7589
-386,Jadon Sancho,397,6345
-560,Pedro Lomba Neto,567,1297
-11,Eddie Nketiah,13,6482
-159,Trevoh Chalobah,194,6615
-190,Naouirou Ahamada,219,9274
-193,Cheick Doucouré,223,8666
-194,Chris Richards,238,8430
-196,Nathaniel Clyne,222,603
-197,Malcolm Ebiowei,224,10698
-199,Eberechi Eze,226,8706
-200,Marc Guéhi,228,7603
-201,Dean Henderson,385,7702
-202,Rob Holding,7,1749
-203,Will Hughes,229,6104
-206,Jefferson Lerma Solís,231,2182
-207,Jean-Philippe Mateta,232,5735
-208,Matheus França de Oliveira,615,12152
-209,Remi Matthews,233,9834
-210,Tyrick Mitchell,234,8214
-211,Daniel Muñoz,792,12408
-212,David Ozoh,721,11268
-213,Jesurun Rak-Sakyi,657,9461
-214,Jeffrey Schlupp,240,757
-215,Joel Ward,242,510
-216,Adam Wharton,807,12409
-445,Matt Turner,28,10700
-156,Armando Broja,193,8384
-217,Abdoulaye Doucouré,249,1726
-218,Norberto Bercique Gomes Betuncal,691,9983
-219,Jarrad Branthwaite,245,8476
-220,Dominic Calvert-Lewin,246,5555
-221,Séamus Coleman,247,585
-222,Idrissa Gueye,254,668
-223,James Garner,250,7438
-224,Jack Harrison,661,8720
-225,Mason Holgate,255,985
-226,Tim Iroegbunam,46,9554
-228,Michael Keane,257,1653
-229,Neal Maupay,258,3621
-230,Dwight McNeil,259,6756
-231,Vitalii Mykolenko,260,10291
-234,Nathan Patterson,262,10292
-235,Jordan Pickford,263,741
-236,James Tarkowski,265,1665
-237,Youssef Ramalho Chermiti,645,11984
-238,Ashley Young,588,631
-651,Orel Mangala,453,6088
-10,Reiss Nelson,578,6492
-19,Emile Smith Rowe,22,7230
-191,Joachim Andersen,220,6314
-239,Adama Traoré,662,900
-240,Andreas Hoelgebaum Pereira,267,922
-241,Calvin Bassey,610,11728
-243,Tom Cairney,268,6835
-244,Timothy Castagne,688,6157
-245,Issa Diop,271,3203
-246,Luke Harris,683,10719
-247,Alex Iwobi,256,500
-248,Bernd Leno,275,181
-249,Saša Lukić,276,1537
-250,Kevin Mbabu,277,983
-251,Rodrigo Muniz Carvalho,279,10717
-252,Raúl Jiménez,558,4105
-253,Tim Ream,281,7184
-254,Harrison Reed,282,910
-255,Antonee Robinson,283,8940
-256,Jay Stansfield,651,10718
-257,Kenny Tete,285,5973
-258,Carlos Vinícius Alves Morais,287,7395
-259,Harry Wilson,288,5596
-579,Ryan Sessegnon,514,6837
-622,Sander Berge,475,8285
-275,Ben Johnson,536,6424
-359,Kalvin Phillips,364,8719
-568,Arijanet Muric,172,7027
-630,Dara O'Shea,173,8756
-632,Chiedozie Ogbene,328,11719
-117,Facundo Buonanotte,125,11362
-192,Jordan Ayew,221,672
-198,Odsonne Edouard,225,3697
-286,Tom Cannon,649,11232
-290,Bobby De Cordova-Reid,270,6827
-305,Luke Thomas,693,8562
-501,Oliver Skipp,515,7198
-310,Alisson Ramses Becker,291,1257
-311,Trent Alexander-Arnold,290,1791
-312,Stefan Bajčetić Maquieira,292,10723
-313,Conor Bradley,757,10120
-315,Bobby Clark,627,10997
-316,Darwin Núñez Ribeiro,293,10720
-317,Diogo Teixeira da Silva,294,6854
-318,Ben Doak,628,11231
-319,Harvey Elliott,295,7546
-321,Cody Gakpo,297,11296
-322,Joe Gomez,298,987
-323,Ryan Gravenberch,708,10697
-324,Curtis Jones,300,6665
-325,Caoimhin Kelleher,301,7904
-326,Ibrahima Konaté,302,6326
-327,Luis Díaz,303,10408
-328,Mohamed Salah,308,1250
-329,Alexis Mac Allister,304,8379
-330,James McConnell,629,11811
-332,Nathaniel Phillips,306,8228
-333,Jarell Quansah,626,10187
-335,Andrew Robertson,307,1688
-336,Dominik Szoboszlai,309,9788
-337,Konstantinos Tsimikas,311,8852
-339,Virgil van Dijk,313,833
-340,Manuel Akanji,341,6490
-341,Nathan Aké,342,579
-342,Bernardo Veiga de Carvalho e Silva,344,3635
-343,Oscar Bobb,345,11903
-345,Kevin De Bruyne,349,447
-346,Jérémy Doku,678,8981
-347,Ederson Santana de Moraes,352,6054
-348,Phil Foden,353,6055
-349,Jack Grealish,354,675
-350,Joško Gvardiol,616,9790
-351,Erling Haaland,355,8260
-352,Julián Álvarez,343,10846
-353,João Cavaco Cancelo,346,2379
-354,Mateo Kovačić,356,2254
-355,Rico Lewis,358,10847
-356,Matheus Luiz Nunes,566,11000
-357,James McAtee,360,10126
-358,Stefan Ortega Moreno,361,8786
-360,Rodrigo 'Rodri' Hernandez,365,2496
-361,Rúben Gato Alves Dias,350,8961
-362,John Stones,368,586
-363,Kyle Walker,369,638
-626,Issa Kaboré,602,9619
-364,Amad Diallo,371,8127
-365,Antony Matheus dos Santos,372,11094
-366,Bruno Borges Fernandes,373,1228
-368,Carlos Henrique Casimiro,376,2248
-369,Diogo Dalot Teixeira,377,7281
-370,Christian Eriksen,379,646
-371,Jonny Evans,703,807
-372,Alejandro Garnacho,382,10552
-373,Hannibal Mejbri,383,9558
-375,Rasmus Højlund,617,11055
-376,Victor Lindelöf,386,6080
-377,Harry Maguire,387,1687
-378,Kobbie Mainoo,388,11174
-379,Tyrell Malacia,389,10803
-380,Lisandro Martínez,391,10802
-381,Scott McTominay,392,5560
-382,Mason Mount,209,7768
-383,André Onana,597,10913
-384,Facundo Pellistri Rebollo,394,9324
-385,Marcus Rashford,396,556
-387,Luke Shaw,398,1006
-648,Ethan Wheatley,850,12568
-390,Alex Murphy,634,12199
-391,Miguel Almirón Rejala,402,7420
-392,Harvey Barnes,603,6681
-393,Sven Botman,405,8635
-394,Bruno Guimarães Rodriguez Moura,406,8327
-395,Dan Burn,407,7382
-396,Martin Dúbravka,409,6532
-398,Anthony Gordon,412,8150
-399,Lewis Hall,204,10216
-401,Alexander Isak,415,5232
-402,Jacob Murphy,423,6063
-403,Joelinton Cássio Apolinário de Lira,416,87
-404,Lloyd Kelly,70,8090
-405,Emil Krafth,417,1545
-407,Jamaal Lascelles,419,766
-408,Jamal Lewis,420,7691
-409,Tino Livramento,633,9512
-410,Sean Longstaff,421,7078
-411,Lewis Miley,635,11386
-412,Odysseas Vlachodimos,710,375
-413,Nick Pope,424,5552
-415,Fabian Schär,427,76
-416,Matt Targett,428,884
-417,Sandro Tonali,429,7958
-418,Kieran Trippier,430,652
-419,Joe White,794,9959
-420,Joe Willock,432,6630
-421,Callum Wilson,433,468
-590,William Osula,490,9556
-26,Álex Moreno Lopera,32,4120
-422,Ola Aina,604,725
-423,Elliot Anderson,403,9154
-424,Taiwo Awoniyi,437,7814
-425,Willy Boly,439,6850
-429,Danilo dos Santos de Oliveira,442,11317
-430,Emmanuel Dennis,443,9301
-431,Nicolás Domínguez,712,8252
-432,Anthony Elanga,378,9524
-433,Morgan Gibbs-White,447,6857
-434,Callum Hudson-Odoi,205,6456
-435,Alex Mighten,456,10761
-436,Murillo Santiago Costa dos Santos,696,12123
-437,Neco Williams,467,8204
-439,Lewis O'Brien,458,10759
-440,Andrew Omobamidele,711,9833
-442,Ibrahim Sangaré,713,5722
-443,Matz Sels,808,6903
-444,Harry Toffolo,465,10758
-447,Chris Wood,468,4456
-448,Joe Worrall,469,10756
-449,Ryan Yates,470,11003
-531,James Ward-Prowse,664,843
-14,Aaron Ramsdale,17,5603
-27,Cameron Archer,33,9912
-188,Lesley Ugochukwu,613,9451
-397,Ryan Fraser,410,1683
-458,Shea Charles,348,11594
-463,Adam Lallana,138,486
-475,Charlie Taylor,178,6044
-515,Maxwel Cornet,527,3278
-518,Flynn Downes,531,10845
-584,Ben Brereton Díaz,775,11815
-82,Dominic Solanke-Mitchell,85,1679
-480,Rodrigo Bentancur,492,6108
-482,Yves Bissouma,493,5609
-483,Bryan Gil Salvatierra,494,7338
-484,Ben Davies,495,660
-487,Emerson Leite de Souza Junior,497,7430
-488,Fraser Forster,498,831
-490,Pierre-Emile Højbjerg,499,343
-491,Brennan Johnson,450,10760
-492,Dejan Kulusevski,501,6691
-493,Giovani Lo Celso,503,5681
-494,James Maddison,504,6818
-495,Pedro Porro,506,6912
-496,Sergio Reguilón,508,7187
-497,Richarlison de Andrade,509,6026
-498,Cristian Romero,511,7218
-499,Pape Matar Sarr,513,9021
-500,Dane Scarlett,640,9332
-502,Manor Solomon,583,10716
-503,Son Heung-min,516,453
-504,Djed Spence,517,10764
-505,Destiny Udogie,519,8831
-506,Micky van de Ven,639,10050
-507,Alejo Véliz,641,12105
-508,Guglielmo Vicario,520,8858
-509,Timo Werner,776,65
-610,Mikey Moore,860,12603
-612,Wilson Odobert,660,10822
-388,Aaron Wan-Bissaka,401,5584
-511,Edson Álvarez Velázquez,642,11926
-512,Michail Antonio,523,531
-513,Alphonse Areola,524,2310
-514,Jarrod Bowen,526,1776
-516,Vladimír Coufal,528,8965
-517,Aaron Cresswell,530,534
-519,George Earthy,829,12474
-520,Emerson Palmieri dos Santos,532,1245
-521,Łukasz Fabiański,533,706
-522,Wes Foderingham,482,8776
-523,Danny Ings,535,986
-524,Max Kilman,563,7332
-525,Mohammed Kudus,689,12027
-527,Lucas Tolentino Coelho de Lima,539,7365
-528,Konstantinos Mavropanos,676,6722
-529,Nayef Aguerd,522,6935
-530,Tomáš Souček,542,8288
-532,Kurt Zouma,544,935
-643,Kaelan Casey,774,11409
-204,Sam Johnstone,230,978
-533,Rayan Aït-Nouri,545,6674
-534,Boubacar Traoré,574,8119
-535,Jean-Ricner Bellegarde,715,7762
-536,Daniel Bentley,546,11361
-538,Tawanda Chirewa,750,12234
-539,Leon Chiwome,836,12532
-541,Matheus Santos Carneiro Da Cunha,590,7080
-542,Craig Dawson,551,804
-543,Matt Doherty,598,6852
-544,Tommy Doyle,351,8496
-545,Fábio Silva,552,8778
-546,Nathan Fraser,704,11210
-547,Enso González,698,12047
-548,Gonçalo Manuel Ganchinho Guedes,554,5682
-549,Hugo Bueno López,548,10140
-550,Hwang Hee-chan,557,8845
-551,Joe Hodge,555,10755
-553,João Victor Gomes da Silva,559,11384
-554,José Malheiro de Sá,569,9740
-555,Saša Kalajdžić,562,8812
-557,Mario Lemina,565,1299
-559,Nélson Cabral Semedo,572,6163
-562,Daniel Castelo Podence,568,8291
-564,Santiago Bueno,697,10945
-565,Pablo Sarabia,570,2199
-567,Toti António Gomes,573,10293
-694,Granit Xhaka,30,204
-695,Mohamed Elneny,3,496
-697,Takehiro Tomiyasu,25,7931
-698,Nuno Varela Tavares,23,9691
-706,Philippe Coutinho Correia,38,488
-707,Calum Chambers,37,508
-708,Bertrand Traoré,59,695
-709,Morgan Sanson,56,3696
-710,Marvelous Nakamba,52,8040
-711,Douglas Luiz Soares de Paulo,43,6122
-724,Ryan Fredericks,68,6891
-725,Jamal Lowe,73,10865
-726,Kieffer Moore,76,10743
-727,Emiliano Marcondes,74,10745
-730,Ben Pearson,79,10742
-731,Siriki Dembélé,67,10749
-733,Joe Rothwell,81,561
-740,Dominic Sadi,811,11300
-746,Sergi Canós Tenés,95,1078
-747,Saman Ghoddos,701,7069
-748,Mads Bech Sørensen,93,9683
-749,Shandon Baptiste,92,9914
-755,Thomas Strakosha,116,1214
-757,Halil Dervişoğlu,100,9686
-761,Michael Olakigbe,620,11487
-766,Kaoru Mitoma,143,10806
-772,César Azpilicueta,189,681
-773,Thiago Emiliano da Silva,217,3288
-777,Hakim Ziyech,218,8992
-780,Christian Pulisic,213,2662
-786,Pierre-Emerick Aubameyang,188,318
-790,Albert Sambi Lokonga,21,9689
-791,Vicente Guaita,227,2190
-792,James Tomkins,241,530
-797,Jairo Riedewald,239,6027
-798,Michael Olise,236,9948
-801,Joseph Whitworth,243,11005
-811,Andros Townsend,727,775
-812,Dele Alli,248,645
-814,André Tavares Gomes,244,2383
-817,Demarai Gray,253,762
-818,Tom Davies,666,1042
-819,Ben Godfrey,252,7689
-823,Lewis Warrington,841,10775
-829,Ellis Simms,264,8582
-833,Cédric Alves Soares,2,847
-841,Aleksandar Mitrović,278,773
-842,Marek Rodák,284,8704
-845,João Palhinha Gonçalves,280,10715
-847,Tyrese Francois,272,9552
-850,Willian Borges da Silva,591,700
-906,Jordan Henderson,299,605
-907,Joel Matip,305,332
-908,Thiago Alcántara do Nascimento,310,229
-911,Fabio Henrique Tavares,296,3420
-919,Riyad Mahrez,359,750
-921,Aymeric Laporte,357,2498
-925,Sergio Gómez,366,6656
-928,Máximo Perrone,363,11378
-934,Raphaël Varane,395,2245
-935,Frederico Rodrigues de Paula Santos,381,6817
-937,Donny van de Beek,400,8821
-940,Anthony Martial,390,553
-946,Wout Weghorst,183,7052
-949,Matt Ritchie,425,461
-955,Paul Dummett,581,853
-956,Javier Manquillo Gaitán,422,1719
-957,Allan Saint-Maximin,426,101
-960,Loris Karius,580,37
-962,Jonjo Shelvey,463,769
-964,Steve Cook,441,458
-970,Scott McKenna,455,10757
-973,Sam Surridge,464,5602
-977,Giulian Biancone,438,7282
-978,Moussa Niakhaté,457,5989
-979,Wayne Hennessey,448,509
-982,Remo Freuler,446,1488
-983,Cheikhou Kouyaté,451,532
-986,Serge Aurier,436,3600
-989,Gustavo Henrique Furtado Scarpa,462,11284
-991,Felipe Augusto de Almeida Monteiro,445,7921
-997,Nathan Redmond,600,790
-1018,Hugo Lloris,502,637
-1019,Harry Kane,500,647
-1020,Eric Dier,496,643
-1022,Davinson Sánchez,512,6249
-1024,Japhet Tanganga,518,8222
-1026,Ivan Perišić,507,448
-1029,Clément Lenglet,699,5050
-1030,Arnaut Danjuma,601,8066
-1036,Angelo Ogbonna,577,528
-1040,Saïd Benrahma,525,3585
-1043,Pablo Fornals Malla,534,2335
-1044,Gianluca Scamacca,541,6253
-1045,Conor Coventry,529,7239
-1047,Thilo Kehrer,537,2674
-1048,Divin Mubama,538,11242
-1051,Jonathan Castro Otto,560,2280
-1072,Nicolò Zaniolo,672,6686
-1074,Finley Munroe,854,12581
-1077,Ionuț Radu,607,1830
-1083,Benjamin Fredrick,797,6817
-1089,Anssumane Fati Vieira,700,7967
-1097,Ameen Al-Dakhil,157,11669
-1099,Manuel Benson Hedilazio,159,11702
-1101,Josh Brownhill,161,8323
-1103,Jack Cork,163,712
-1105,Josh Cullen,165,1018
-1107,Hjalmar Ekdal,167,11704
-1108,Lyle Foster,168,7498
-1110,Jóhann Berg Gudmundsson,170,1663
-1112,Michael Obafemi,174,6504
-1114,Connor Roberts,176,5568
-1115,Jay Rodriguez,177,844
-1120,Anass Zaroury,184,11703
-1121,Zeki Amdouni,594,11701
-1122,James Trafford,596,9077
-1123,Luca Koleosho,605,10620
-1124,Jacob Bruun Larsen,608,5355
-1126,Hannes Delcroix,674,11998
-1127,Aaron Ramsey,675,9913
-1128,Han-Noah Massengo,694,7264
-1129,Mike Trésor,706,12094
-1130,Lorenz Assignon,805,8973
-1131,Maxime Esteve,806,9487
-1133,Gabriel Słonina,215,5613
-1134,Mason Burstow,623,11810
-1138,Alex Matos,718,12086
-1142,Jimi Tauriainen,830,12497
-1143,Josh Acheampong,838,12535
-1154,Tyler Onyango,650,9287
-1162,Wataru Endo,668,8808
-1165,Owen Beck,782,10119
-1166,Kaide Gordon,783,10118
-1169,Jayden Danns,824,12455
-1170,Elijah Adebayo,314,11718
-1171,Mads Juel Andersen,315,11715
-1172,Amari'i Bell,316,11713
-1173,Luke Berry,317,11722
-1174,Reece Burke,318,1771
-1176,Jordan Clark,320,12187
-1177,Alfie Doughty,321,11723
-1182,Carlton Morris,326,11717
-1184,Fred Onyedinma,329,12549
-1185,Gabriel Osho,330,12151
-1190,James Shea,335,11724
-1195,Cauley Woodrow,340,11721
-1196,Teden Mengi,393,12073
-1197,Ryan Giles,553,7277
-1198,Tom Lockyer,575,11714
-1199,Pelly Ruddock Mpanzu,582,11716
-1200,Tahith Chong,586,7439
-1201,Thomas Kaminski,614,11712
-1202,Jacob Brown,631,11720
-1205,Joseph Johnson,682,11980
-1207,Zack Nelson,734,12188
-1208,Daiki Hashioka,798,12509
-1216,Omari Forson,632,12340
-1218,Daniel Gore,685,11987
-1219,Sofyan Amrabat,709,7927
-1221,Willy Kambwala,766,12275
-1226,Amadou Diallo,738,12200
-1227,Ben Parkinson,739,12198
-1228,Michael Ndiweni,745,12215
-1230,Brandon Aguilera Zamora,434,12034
-1234,Gonzalo Montiel,679,9897
-1235,Divock Origi,714,484
-1239,Giovanni Reyna,801,8191
-1241,Auston Trusty,27,11732
-1242,Anel Ahmedhodžić,471,10386
-1244,George Baldock,473,7706
-1245,Chris Basham,474,7704
-1246,Jayden Bogle,476,9205
-1247,Rhian Brewster,477,5569
-1250,John Egan,480,7703
-1251,John Fleck,481,7709
-1252,Max Lowe,484,8918
-1253,Oliver McBurnie,485,1736
-1254,Rhys Norrington-Davies,487,12291
-1255,Oliver Norwood,488,7710
-1256,Ben Osborn,489,7714
-1257,Jack Robinson,576,8286
-1258,Anis Slimane,587,11730
-1259,Yasser Larouci,592,10041
-1260,Bénie Traoré,593,11729
-1261,Vini de Souza Costa,638,10872
-1264,Andre Brooks,655,11731
-1265,Antwoine Hackford,656,9222
-1266,Gustavo Hamer,663,11839
-1267,Ryan Oné,730,12158
-1269,Sydie Peck,759,12251
-1271,Ivo Grbic,790,8923
-1273,Oliver Arblaster,823,12449
-1275,Sam Curtis,828,12465
-1278,Jamie Donley,722,12118
-1280,Radu Dragusin,777,9105
+5,Karl Hein,646,
+39,Joe Gauci,818,
+43,Kaine Kesler-Hayden,793,9409.0
+46,Filip Marschall,670,
+55,Viljami Sinisalo,57,
+641,Oliwier Zych,686,
+656,Kadan Young,865,
+680,Max Kinsey,802,
+87,Ethan Brierley,684,
+97,Yunus Emre Konak,864,
+111,Yehor Yarmoliuk,120,11772.0
+705,Benjamin Arthur,834,
+128,Igor Julio dos Santos de Paulo,606,7943.0
+129,João Pedro Junqueira de Jesus,135,8272.0
+130,Kacper Kozłowski,137,
+150,Andrey Nascimento dos Santos,186,11808.0
+151,Ângelo Gabriel Borges Damaceno,589,5613.0
+154,Lucas Bergström,659,
+155,Marcus Bettinelli,192,
+165,Deivid Washington de Souza Eugênio,677,12033.0
+175,Romelu Lukaku Bolingoli,207,
+183,Đorđe Petrović,687,12032.0
+696,Tyrique George,851,
+208,Matheus França de Oliveira,615,12152.0
+644,Franco Umeh-Chibueze,821,
+647,Kaden Rodney,825,
+218,Norberto Bercique Gomes Betuncal,691,9983.0
+227,João Neves Virgínia,266,
+237,Youssef Ramalho Chermiti,645,11984.0
+614,Jenson Metcalfe,760,
+242,Steven Benda,692,
+251,Rodrigo Muniz Carvalho,279,10717.0
+320,Endo Wataru,668,8808.0
+688,Treymaurice Nyoni,743,
+692,Amara Nallo,837,
+344,Scott Carson,347,
+346,Jérémy Doku,678,8981.0
+350,Joško Gvardiol,616,9790.0
+626,Issa Kaboré,602,9619.0
+671,Jacob Wright,814,
+364,Amad Diallo,371,8127.0
+367,Altay Bayindir,695,
+374,Tom Heaton,384,
+670,Harry Amass,846,
+400,Isaac Hayden,413,
+406,Garang Kuol,418,
+412,Odysseas Vlachodimos,710,375.0
+426,Josh Bowler,440,
+436,Murillo Santiago Costa dos Santos,696,12123.0
+438,Omar Richards,461,
+441,Jonathan Panzo,460,
+442,Ibrahim Sangaré,713,5722.0
+446,Hwang Ui-jo,466,
+188,Lesley Ugochukwu,613,9451.0
+478,Ashley Phillips,702,
+486,Radu Drăgușin,777,9105.0
+505,Destiny Udogie,519,8831.0
+510,Alfie Whiteman,521,
+511,Edson Álvarez Velázquez,642,11926.0
+677,Ollie Scarles,784,
+701,Lewis Orford,773,
+552,Ki-Jana Hoever,556,
+556,Tom King,564,
+737,Reuell Walters,736,
+738,Mauro Bandeira,815,
+752,James Wright,778,
+755,Tommi O'Reilly,767,
+767,Darren Randolph,80,
+771,Michael Dacosta Gonzalez,849,
+774,Ben Greenwood,619,
+785,Ellery Balcombe,91,
+789,Matthew Cox,97,
+798,Kjell Scherpen,147,
+802,Tom McGill,141,
+813,Ethan Ampadu,185,
+819,Bashir Humphreys,671,
+831,Luke Plange,237,
+834,John-Kymani Gordon,658,
+838,Tayo Adaramola,763,
+860,Ishé Samuels-Smith,819,
+861,Andy Lonergan,579,
+865,Anthony Knockaert,273,
+870,Terence Kongolo,274,
+873,Ivan Neves Abreu Cavaleiro,269,
+882,Kristian Sekularac,796,
+886,Matthew Dibley-Dias,652,
+945,Adrián San Miguel del Castillo,289,
+946,Luke Chambers,726,
+974,Shola Shoretire,399,
+975,Rhys Bennett,768,
+989,Harrison Ashby,404,
+991,Mark Gillespie,411,
+993,Harry Arter,435,
+1001,Mohamed Dräger,444,
+1004,Richie Laryea,452,
+1005,Loïc Mbe Soh,454,
+1006,Braian Ojeda Rodríguez,459,
+1022,George Shelvey,636,
+1063,Yago de Santiago Alonso,754,
+1077,Joseph Anang,647,
+1083,Matija Šarkić,571,
+1092,Harvey Griffiths,787,
+1094,Folarin Balogun,1,
+1095,Rúnar Alex Rúnarsson,18,
+1096,Charles Sagoe,735,
+1097,Bradley Ibrahim,737,
+1098,James Sweet,817,
+1099,Wesley Moraes Ferreira da Silva,61,
+1100,Nicolò Zaniolo,672,6686.0
+1101,Sam Proctor,765,
+1103,Lander Emery,866,
+1104,Gavin Kilkenny,71,
+1105,Ionuț Radu,607,1830.0
+1106,Callan McKenna,855,
+1108,Ji-Soo Kim,725,
+1109,Valintino Adedokun,733,
+1110,Vincent Angelini,752,
+1111,Benjamin Fredrick,797,6817.0
+1113,Aaron Connolly,127,
+1114,Michał Karbownik,136,
+1115,Andi Zeqiri,155,
+1116,Anssumane Fati Vieira,700,7967.0
+1117,Ben Jackson,746,
+1118,Joshua Duffus,747,
+1119,Leigh Kavanagh,753,
+1120,Luca Barrington,755,
+1121,Samy Chouchane,843,
+1122,Noël Atom,861,
+1123,Enock Agyei,156,
+1124,Ameen Al-Dakhil,157,11669.0
+1125,Samuel Bastien,158,
+1126,Manuel Benson Hedilazio,159,11702.0
+1127,Jordan Beyer,160,6557.0
+1129,Darko Churlinov,162,
+1131,Dara Costelloe,164,
+1133,CJ Egan-Riley,166,
+1136,Denis Franchi,169,
+1137,Jóhann Berg Gudmundsson,170,1663.0
+1138,Luke McNally,171,
+1140,Bailey Peacock-Farrell,175,
+1143,Bobby Thomas,179,
+1144,Scott Twine,180,
+1145,Lawrence Vigouroux,181,
+1146,Victor da Silva,182,
+1152,Owen Dodgson,622,
+1158,Maxime Esteve,806,9487.0
+1159,Abdul Rahman Baba,190,
+1160,Gabriel Słonina,215,5613.0
+1162,Eddie Beach,680,
+1163,Diego Manuel Jadon da Silva Moreira,681,
+1164,Ronnie Stutter,717,
+1166,Josh Brooking,723,
+1167,Leo Castledine,758,
+1168,Ollie Harrison,820,
+1170,Teddy Sharman-Lowe,847,
+1171,Kiano Dyer,852,
+1172,Ted Curd,858,
+1173,Zak Sturge,859,
+1175,Ademola Ola-Adebomi,720,
+1176,Jadan Raymond,724,
+1177,Roshaun Mathurin,842,
+1180,Mackenzie Hunt,719,
+1181,Elijah Campbell,761,
+1182,Billy Crellin,863,
+1183,Luc De Fougerolles,625,
+1184,Fodé Ballo-Touré,707,
+1185,Devan Tanton,732,
+1188,Callum Scanlon,728,
+1189,Marcelo de Araújo Pitaluga Filho,756,
+1192,Lewis Koumas,812,
+1193,Fabian Mrozek,813,
+1195,Mads Juel Andersen,315,11715.0
+1199,Allan Campbell,319,
+1202,Luke Freeman,322,
+1203,Matt Macey,323,
+1204,John McAtee,324,
+1205,Carlos Mendes Gomes,325,
+1207,Admiral Muskwe,327,
+1210,Aribim Pepple,331,
+1211,Dion Pereira,332,
+1212,Dan Potts,333,
+1213,Glen Rea,334,
+1215,Joe Taylor,336,
+1216,Elliot Thorpe,337,
+1217,Jack Walton,338,
+1218,Louie Watson,339,
+1221,Ryan Giles,553,7277.0
+1227,Aidan Francis-Clarke,648,
+1228,Tim Krul,665,
+1230,Jayden Luker,729,
+1233,Axel Piesold,831,
+1234,Dominic Dos Santos Martins,839,
+1235,Christian Chigozie,844,
+1236,Taylan Harris,848,
+1237,Mahamadou Susoho,762,
+1238,Micah Hamilton,771,
+1239,Álvaro Fernández Carreras,380,
+1241,Radek Vítek,669,
+1244,Joe Hugill,748,
+1246,Habeeb Ogunneye,833,
+1247,Dermot Mee,835,
+1248,Louis Jackson,856,
+1249,Kell Watts,431,
+1253,Travis Hernes,795,
+1254,Brandon Aguilera Zamora,434,12034.0
+1255,Ethan Horvath,449,
+1257,Josh Powell,637,
+1260,Jamie McDonnell,779,
+1261,Detlef Esapa Osong,780,
+1262,Joe Gardner,781,
+1264,Rodrigo Duarte Ribeiro,809,
+1266,Anel Ahmedhodžić,471,10386.0
+1267,Jordan Amissah,472,
+1272,Ismaila Coulibaly,478,
+1273,Adam Davies,479,
+1282,Anis Slimane,587,11730.0
+1285,Vini de Souza Costa,638,10872.0
+1286,Femi Seriki,653,
+1287,Louie Marsh,654,
+1292,Jili Buyabu,731,
+1296,Billy Blacker,822,
+1298,Dovydas Sasnauskas,827,
+1300,Owen Hampson,857,
+1301,Tanguy Ndombélé Alvaro,505,
+1304,Tyrese Hall,862,
+1305,Nikola Vlašić,543,
+1307,Callum Marshall,785,
+1308,Bendegúz Bolla,547,
+1309,Bruno Cavaco Jordão,561,
+1310,Matthew Whittingham,749,
+1311,Justin Hubner,751,
+1312,Owen Hesketh,769,
+1313,Ty Barnett,770,
+1314,Noha Lemina,800,
+1315,Wesley Okoduwa,832,
+1316,Fletcher Holman,840,
+1317,Temple Ojinnaka,853,

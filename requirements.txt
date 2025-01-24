@@ -7,3 +7,7 @@ scikit-learn==1.5.2
 matplotlib
 jupyter
 GitPython
+optuna
+seaborn
+catboost
+lightgbm
