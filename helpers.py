@@ -2,8 +2,6 @@ import os
 import shutil
 
 import pandas as pd
-import xgboost as xgb
-import numpy as np
 from git import Repo
 
 # ========================
@@ -82,10 +80,10 @@ def filter_directory(directory, keep_files=None, keep_dirs=None):
 # Data Helpers
 # ========================
 
-def load_csv(file_path):
+def load_csv(file_path, low_memory=False):
     """Load a CSV file and handle exceptions."""
     try:
-        return pd.read_csv(file_path)
+        return pd.read_csv(file_path, low_memory=low_memory)
     except Exception as e:
         log(f"Error loading CSV {file_path}: {e}", level="DEBUG")
         return None
@@ -98,183 +96,8 @@ def save_csv(df, file_path):
     except Exception as e:
         log(f"Error saving CSV {file_path}: {e}", level="ERROR")
 
-def combine_position_data(data_directory, seasons, positions, output_file_name, filter_zeros=False):
-    """
-    Combines data from specified positions for given seasons into a single dataset for predictions.
-
-    Args:
-        data_directory (str): Base directory containing the season data.
-        seasons (list): List of season names (e.g., ["2022-23", "2023-24"]).
-        positions (list): List of positions to combine (e.g., ["DEF", "MID", "FWD"]).
-        output_file_name (str): Name of the combined output file (e.g., "training_data.csv").
-        filter_zeros (bool): Whether to keep players who didn't play in gameweek in the dataset.
-
-    Returns:
-        None
-    """
-    training_data_folder = os.path.join(data_directory, "training_data")
-    os.makedirs(training_data_folder, exist_ok=True)
-
-    combined_data = []
-
-    for season in seasons:
-        season_folder = os.path.join(data_directory, season)
-        if not check_file_exists(season_folder):
-            log(f"Skipping season {season} as folder does not exist.", level="WARNING")
-            continue
-
-        # Iterate through position files
-        for position in positions:
-            position_file = f"{position}_players.csv"
-            position_file_path = os.path.join(season_folder, "processed_data", position_file)
-
-            if check_file_exists(position_file_path):
-                position_data = load_csv(position_file_path)
-                if position_data is not None:
-                    if filter_zeros:
-                        if "minutes" in position_data.columns:
-                            position_data = position_data[position_data["minutes"] > 0]
-                        else:
-                            log(f"Column 'minutes' not found in {position_file}. Skipping filtering.", level="WARNING")
-                    combined_data.append(position_data)
-                    log(f"Loaded data from {position_file} for season {season}.")
-            else:
-                log(f"{position_file} not found for season {season}. Skipping.", level="WARNING")
-
-    # Combine all data into a single DataFrame
-    if combined_data:
-        try:
-            combined_df = pd.concat(combined_data, ignore_index=True)
-            if {"unique_id", "season", "gameweek"}.issubset(combined_df.columns):
-                combined_df.sort_values(by=["unique_id", "season", "gameweek"], inplace=True)
-            else:
-                log("One or more required columns ('unique_id', 'season', 'gameweek') missing. Sorting skipped.", level="WARNING")
-            output_file_path = os.path.join(training_data_folder, output_file_name)
-            save_csv(combined_df, output_file_path)
-            log(f"Combined data saved to {output_file_path}.")
-        except Exception as e:
-            log(f"Error combining data: {e}", level="ERROR")
-    else:
-        log("No data found for the specified positions in the given seasons.", level="WARNING")
-
-def calculate_season_average_until_gw(data, value_column, group_columns, current_column="gameweek"):
-    """
-    Calculate the season average of a specific value (e.g., xG) until the current gameweek.
-    
-    Args:
-        data (pd.DataFrame): The DataFrame containing the data.
-        value_column (str): The column to calculate the average for (e.g., 'expected_goals').
-        group_columns (list): The columns to group by (e.g., ['unique_id', 'season']).
-        current_column (str): The column to compare for gameweeks (default is 'gameweek').
-
-    Returns:
-        pd.Series: A Series containing the average values until the current gameweek.
-    """
-    # Sort the data by the specified grouping columns and the current column
-    data = data.sort_values(by=group_columns + [current_column])
-
-    # Calculate expanding mean for each group and shift to exclude the current gameweek
-    averages = (
-        data.groupby(group_columns)[value_column]
-        .expanding()
-        .mean()
-        .shift()
-        .reset_index(level=group_columns, drop=True)
-    )
-
-    # Fill NaN values for the first gameweek with 0
-    return averages.fillna(0)
 
 # ========================
-# Prediction Helpers
-# ========================
-
-def load_and_merge_prediction_data(data_directory, positions):
-    """Load and merge data for specified positions."""
-    merged_data = pd.DataFrame()
-    for position in positions:
-        position_file = os.path.join(data_directory, "processed_data", position, f"{position}_final.csv")
-        if os.path.exists(position_file):
-            position_data = pd.read_csv(position_file)
-            if position_data is not None:
-                merged_data = pd.concat([merged_data, position_data], ignore_index=True)
-                print(f"Merged {position_file}")
-        else:
-            print(f"File {position_file} not found. Skipping.")
-    return merged_data
-
-def preprocess_prediction_data(data):
-    """Perform data preprocessing and feature engineering."""
-    # Rename "id" to "unique_id" for consistency
-    data.rename(columns={"id": "unique_id"}, inplace=True)
-
-    # Feature engineering
-    data['was_home'] = data['was_home'].astype(int)
-    data["_unique_id_copy"] = data["unique_id"]
-    # data["_pos_copy"] = data["POS"]
-    data["def_atk_diff"] = data["own_defense"]-data["opponent_attack"]
-    data["atk_def_diff"] = data["own_attack"]-data["opponent_defense"]
-
-    # Sort for rolling and cumulative calculations
-    data = data.sort_values(by=["unique_id", "season", "gameweek"])
-
-    # One-hot encoding for categorical columns
-    dummy_columns = ["was_home", "unique_id", "penalties_order"]
-    data = pd.get_dummies(data, columns=dummy_columns)
-
-    data["unique_id"] = data["_unique_id_copy"]
- #   data["POS"] = data["_pos_copy"]
-    data.drop(columns=["_unique_id_copy"], inplace=True)
-
-    return data
-
-def make_predictions(data, model_path, prediction_column):
-    """Load model, generate predictions, and add to data."""
-    model = xgb.XGBRegressor()
-    model.load_model(model_path)
-    print(f"Loaded model from {model_path}")
-
-    # Ensure only trained features are used
-    trained_feature_names = model.get_booster().feature_names
-    prediction_data = data.reindex(columns=trained_feature_names, fill_value=0)
-
-    # Generate predictions
-    predictions = model.predict(prediction_data)
-    # predictions = np.clip(predictions, a_min=0, a_max=None)  # Clamp negative predictions to 0
-    data[prediction_column] = predictions
-    return data
-
-def save_predictions(data, output_columns, prediction_column, output_file):
-    """Format and save predictions to a CSV file."""
-    output_data = data[output_columns + [prediction_column]]
-    output_data.loc[:, "gameweek"] = output_data["gameweek"].astype(int)  # Ensure gameweek is an integer
-    duplicates = output_data.duplicated(subset=["unique_id", "first_name", "second_name", "gameweek"], keep=False)
-    if duplicates.any():
-        print("Duplicate rows detected:")
-        print(output_data[duplicates])
-    output_data = output_data.pivot(index=["unique_id", "first_name", "second_name"], columns="gameweek", values=prediction_column)
-    output_data.reset_index(inplace=True)
-
-    # Rename columns for clarity
-    output_data.columns = [
-        f"{col}_{prediction_column}" if isinstance(col, int) else col for col in output_data.columns
-    ]
-    output_data.rename(columns={"unique_id": "ID"}, inplace=True)
-    # Sort by gameweek columns
-    gameweek_columns = sorted(
-        [col for col in output_data.columns if col.endswith("_Pts")],
-        key=lambda x: int(x.split('_')[0])  # Extract the gameweek number for proper sorting
-    )
-    output_data = output_data.sort_values(by=gameweek_columns, ascending=False)
-
-    # Save to file
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)
-    output_data.to_csv(output_file, index=False)
-    print(f"Predictions saved to {output_file}")
-
-
-
-# ========================log
 # Git Helpers
 # ========================
 

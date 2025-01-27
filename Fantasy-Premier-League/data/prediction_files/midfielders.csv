@@ -1,0 +1,325 @@
+Full_Name,Unique_ID,value,own_team,position
+Fábio Ferreira Vieira,1.0,54.0,1.0,3.0
+Jorge Luiz Frello Filho,7.0,47.0,1.0,3.0
+Gabriel Martinelli Silva,9.0,67.0,1.0,3.0
+Ethan Nwaneri,12.0,45.0,1.0,3.0
+Martin Ødegaard,13.0,83.0,1.0,3.0
+Declan Rice,16.0,62.0,1.0,3.0
+Bukayo Saka,17.0,102.0,1.0,3.0
+Thomas Partey,20.0,50.0,1.0,3.0
+Leandro Trossard,23.0,68.0,1.0,3.0
+Raheem Sterling,186.0,67.0,1.0,3.0
+Myles Lewis-Skelly,597.0,45.0,1.0,3.0
+Mikel Merino,633.0,60.0,1.0,3.0
+Salah-Eddine Oulad M'hand,638.0,45.0,1.0,3.0
+Ismeal Kabia,659.0,45.0,1.0,3.0
+Leon Bailey,28.0,62.0,2.0,3.0
+Ross Barkley,29.0,52.0,2.0,3.0
+Enzo Barrenechea,30.0,49.0,2.0,3.0
+Emiliano Buendía Stati,31.0,51.0,2.0,3.0
+Leander Dendoncker,33.0,45.0,2.0,3.0
+Moussa Diaby,34.0,65.0,2.0,3.0
+Lewis Dobbin,37.0,50.0,2.0,3.0
+Samuel Iling-Junior,41.0,54.0,2.0,3.0
+Boubacar Kamara,42.0,50.0,2.0,3.0
+John McGinn,48.0,52.0,2.0,3.0
+Jacob Ramsey,53.0,54.0,2.0,3.0
+Morgan Rogers,54.0,55.0,2.0,3.0
+Youri Tielemans,57.0,55.0,2.0,3.0
+Amadou Onana,233.0,48.0,2.0,3.0
+Kadan Young,656.0,45.0,2.0,3.0
+Ben Broggio,679.0,45.0,2.0,3.0
+Jamaldeen Jimoh,710.0,45.0,2.0,3.0
+Donyell Malen,725.0,55.0,2.0,3.0
+Tyler Adams,60.0,49.0,3.0,3.0
+Jaidon Anthony,61.0,45.0,3.0,3.0
+David Brooks,62.0,49.0,3.0,3.0
+Ryan Christie,63.0,49.0,3.0,3.0
+Lewis Cook,64.0,50.0,3.0,3.0
+Romain Faivre,66.0,50.0,3.0,3.0
+Hamed Traorè,67.0,45.0,3.0,3.0
+Justin Kluivert,71.0,55.0,3.0,3.0
+Dango Ouattara,74.0,50.0,3.0,3.0
+Philip Billing,76.0,48.0,3.0,3.0
+Alex Scott,77.0,47.0,3.0,3.0
+Antoine Semenyo,78.0,56.0,3.0,3.0
+Luis Sinisterra,80.0,48.0,3.0,3.0
+Marcus Tavernier,83.0,54.0,3.0,3.0
+Ben Winterburn,687.0,45.0,3.0,3.0
+Dominic Sadi,723.0,45.0,3.0,3.0
+Ethan Brierley,87.0,44.0,4.0,3.0
+Mikkel Damsgaard,89.0,50.0,4.0,3.0
+Josh Dasilva,90.0,48.0,4.0,3.0
+Vitaly Janelt,94.0,49.0,4.0,3.0
+Mathias Jensen,95.0,53.0,4.0,3.0
+Yunus Emre Konak,97.0,45.0,4.0,3.0
+Keane Lewis-Potter,98.0,50.0,4.0,3.0
+Bryan Mbeumo,99.0,78.0,4.0,3.0
+Christian Nørgaard,101.0,48.0,4.0,3.0
+Frank Onyeka,102.0,49.0,4.0,3.0
+Myles Peart-Harris,103.0,45.0,4.0,3.0
+Kevin Schade,106.0,51.0,4.0,3.0
+Yehor Yarmoliuk,111.0,44.0,4.0,3.0
+Fábio Freitas Gouveia Carvalho,314.0,46.0,4.0,3.0
+Ryan Trevitt,602.0,44.0,4.0,3.0
+Gustavo Nunes Fernandes Gomes,634.0,49.0,4.0,3.0
+Tony Yogane,661.0,45.0,4.0,3.0
+Paris Maghoma,674.0,45.0,4.0,3.0
+Simon Adingra,113.0,52.0,5.0,3.0
+Benicio Baker-Boaitey,114.0,45.0,5.0,3.0
+Carlos Baleba,115.0,50.0,5.0,3.0
+Amario Cozier-Duberry,118.0,45.0,5.0,3.0
+Mahmoud Dahoud,119.0,49.0,5.0,3.0
+Julio Enciso,121.0,54.0,5.0,3.0
+Billy Gilmour,124.0,50.0,5.0,3.0
+Pascal Groß,125.0,65.0,5.0,3.0
+Jack Hinshelwood,126.0,49.0,5.0,3.0
+Ibrahim Osman,127.0,50.0,5.0,3.0
+Kacper Kozłowski,130.0,45.0,5.0,3.0
+Solly March,132.0,65.0,5.0,3.0
+Adrian Mazilu,133.0,45.0,5.0,3.0
+James Milner,134.0,50.0,5.0,3.0
+Yankuba Minteh,135.0,50.0,5.0,3.0
+Mitoma Kaoru,136.0,63.0,5.0,3.0
+Jakub Moder,137.0,44.0,5.0,3.0
+Cameron Peupion,140.0,44.0,5.0,3.0
+Jeremy Sarmiento Morante,141.0,49.0,5.0,3.0
+Mats Wieffer,149.0,47.0,5.0,3.0
+Brajan Gruda,595.0,54.0,5.0,3.0
+Yasin Ayari,600.0,50.0,5.0,3.0
+Andrew Moran,601.0,50.0,5.0,3.0
+Georginio Rutter,618.0,51.0,5.0,3.0
+Matt O'Riley,629.0,55.0,5.0,3.0
+Diego Gómez,714.0,55.0,5.0,3.0
+Andrey Nascimento dos Santos,150.0,45.0,6.0,3.0
+Ângelo Gabriel Borges Damaceno,151.0,45.0,6.0,3.0
+Moisés Caicedo Corozo,157.0,49.0,6.0,3.0
+Cesare Casadei,158.0,44.0,6.0,3.0
+Carney Chukwuemeka,161.0,48.0,6.0,3.0
+Kiernan Dewsbury-Hall,166.0,55.0,6.0,3.0
+Enzo Fernández,168.0,50.0,6.0,3.0
+Conor Gallagher,169.0,59.0,6.0,3.0
+Omari Kellyman,173.0,44.0,6.0,3.0
+Roméo Lavia,174.0,45.0,6.0,3.0
+Noni Madueke,177.0,61.0,6.0,3.0
+Mykhailo Mudryk,179.0,62.0,6.0,3.0
+Christopher Nkunku,181.0,58.0,6.0,3.0
+Cole Palmer,182.0,114.0,6.0,3.0
+Renato Palma Veiga,184.0,44.0,6.0,3.0
+Jadon Sancho,386.0,62.0,6.0,3.0
+Pedro Lomba Neto,560.0,62.0,6.0,3.0
+João Félix Sequeira,621.0,60.0,6.0,3.0
+Samuel Rak-Sakyi,695.0,45.0,6.0,3.0
+Tyrique George,696.0,45.0,6.0,3.0
+Naouirou Ahamada,190.0,45.0,7.0,3.0
+Cheick Doucouré,193.0,49.0,7.0,3.0
+Malcolm Ebiowei,197.0,45.0,7.0,3.0
+Eberechi Eze,199.0,67.0,7.0,3.0
+Will Hughes,203.0,49.0,7.0,3.0
+Daichi Kamada,205.0,51.0,7.0,3.0
+Jefferson Lerma Solís,206.0,48.0,7.0,3.0
+Matheus França de Oliveira,208.0,44.0,7.0,3.0
+David Ozoh,212.0,45.0,7.0,3.0
+Jesurun Rak-Sakyi,213.0,45.0,7.0,3.0
+Jeffrey Schlupp,214.0,46.0,7.0,3.0
+Adam Wharton,216.0,47.0,7.0,3.0
+Ismaïla Sarr,585.0,59.0,7.0,3.0
+Franco Umeh-Chibueze,644.0,44.0,7.0,3.0
+Justin Devenny,645.0,45.0,7.0,3.0
+Asher Agbinone,646.0,45.0,7.0,3.0
+Kaden Rodney,647.0,45.0,7.0,3.0
+Abdoulaye Doucouré,217.0,51.0,8.0,3.0
+Idrissa Gueye,222.0,48.0,8.0,3.0
+James Garner,223.0,49.0,8.0,3.0
+Jack Harrison,224.0,52.0,8.0,3.0
+Tim Iroegbunam,226.0,43.0,8.0,3.0
+Dwight McNeil,230.0,51.0,8.0,3.0
+Jesper Lindstrøm,577.0,50.0,8.0,3.0
+Harrison Armstrong,603.0,45.0,8.0,3.0
+Jenson Metcalfe,614.0,45.0,8.0,3.0
+Orel Mangala,651.0,50.0,8.0,3.0
+Callum Bates,678.0,45.0,8.0,3.0
+Reiss Nelson,10.0,50.0,9.0,3.0
+Emile Smith Rowe,19.0,52.0,9.0,3.0
+Adama Traoré,239.0,47.0,9.0,3.0
+Andreas Hoelgebaum Pereira,240.0,50.0,9.0,3.0
+Tom Cairney,243.0,48.0,9.0,3.0
+Luke Harris,246.0,45.0,9.0,3.0
+Alex Iwobi,247.0,59.0,9.0,3.0
+Saša Lukić,249.0,48.0,9.0,3.0
+Harrison Reed,254.0,47.0,9.0,3.0
+Harry Wilson,259.0,52.0,9.0,3.0
+Josh King,604.0,45.0,9.0,3.0
+Martial Godo,605.0,44.0,9.0,3.0
+Sander Berge,622.0,50.0,9.0,3.0
+Nathan Broadhead,262.0,49.0,10.0,3.0
+Wes Burns,264.0,48.0,10.0,3.0
+Conor Chaplin,265.0,51.0,10.0,3.0
+Marcus Myers-Harness,271.0,49.0,10.0,3.0
+Cameron Humphreys,273.0,45.0,10.0,3.0
+Omari Giraud-Hutchinson,274.0,52.0,10.0,3.0
+Massimo Luongo,277.0,44.0,10.0,3.0
+Sam Morsy,278.0,49.0,10.0,3.0
+Jack Taylor,281.0,48.0,10.0,3.0
+Kalvin Phillips,359.0,48.0,10.0,3.0
+Jaden Philogene,569.0,53.0,10.0,3.0
+Sam Szmodics,611.0,58.0,10.0,3.0
+Jens Cajuste,619.0,45.0,10.0,3.0
+Jack Clarke,631.0,54.0,10.0,3.0
+Chiedozie Ogbene,632.0,48.0,10.0,3.0
+Facundo Buonanotte,117.0,48.0,11.0,3.0
+Jordan Ayew,192.0,52.0,11.0,3.0
+Boubakary Soumaré,285.0,44.0,11.0,3.0
+Hamza Choudhury,287.0,43.0,11.0,3.0
+Bobby De Cordova-Reid,290.0,52.0,11.0,3.0
+Michael Golding,292.0,44.0,11.0,3.0
+Wanya Marçal-Madivádua,297.0,45.0,11.0,3.0
+Stephy Mavididi,298.0,51.0,11.0,3.0
+Kasey McAteer,299.0,47.0,11.0,3.0
+Wilfred Ndidi,300.0,49.0,11.0,3.0
+Harry Winks,309.0,44.0,11.0,3.0
+Oliver Skipp,501.0,47.0,11.0,3.0
+Abdul Fatawu,570.0,52.0,11.0,3.0
+Will Alves,606.0,45.0,11.0,3.0
+Bilal El Khannouss,635.0,48.0,11.0,3.0
+Henry Cartwright,694.0,45.0,11.0,3.0
+Stefan Bajčetić Maquieira,312.0,45.0,12.0,3.0
+Bobby Clark,315.0,45.0,12.0,3.0
+Diogo Teixeira da Silva,317.0,72.0,12.0,3.0
+Ben Doak,318.0,45.0,12.0,3.0
+Harvey Elliott,319.0,52.0,12.0,3.0
+Endo Wataru,320.0,46.0,12.0,3.0
+Ryan Gravenberch,323.0,50.0,12.0,3.0
+Curtis Jones,324.0,53.0,12.0,3.0
+Luis Díaz,327.0,75.0,12.0,3.0
+Mohamed Salah,328.0,137.0,12.0,3.0
+Alexis Mac Allister,329.0,62.0,12.0,3.0
+James McConnell,330.0,44.0,12.0,3.0
+Tyler Morton,331.0,44.0,12.0,3.0
+Dominik Szoboszlai,336.0,63.0,12.0,3.0
+Federico Chiesa,636.0,68.0,12.0,3.0
+Treymaurice Nyoni,688.0,45.0,12.0,3.0
+Bernardo Veiga de Carvalho e Silva,342.0,63.0,13.0,3.0
+Oscar Bobb,343.0,47.0,13.0,3.0
+Kevin De Bruyne,345.0,94.0,13.0,3.0
+Jérémy Doku,346.0,62.0,13.0,3.0
+Phil Foden,348.0,92.0,13.0,3.0
+Jack Grealish,349.0,64.0,13.0,3.0
+Mateo Kovačić,354.0,54.0,13.0,3.0
+Matheus Luiz Nunes,356.0,49.0,13.0,3.0
+James McAtee,357.0,46.0,13.0,3.0
+Rodrigo 'Rodri' Hernandez,360.0,62.0,13.0,3.0
+Sávio 'Savinho' Moreira de Oliveira,571.0,65.0,13.0,3.0
+Nico O'Reilly,607.0,49.0,13.0,3.0
+Ilkay Gündogan,625.0,64.0,13.0,3.0
+Jacob Wright,671.0,45.0,13.0,3.0
+Amad Diallo,364.0,55.0,14.0,3.0
+Antony Matheus dos Santos,365.0,57.0,14.0,3.0
+Bruno Borges Fernandes,366.0,84.0,14.0,3.0
+Carlos Henrique Casimiro,368.0,47.0,14.0,3.0
+Christian Eriksen,370.0,53.0,14.0,3.0
+Alejandro Garnacho,372.0,60.0,14.0,3.0
+Hannibal Mejbri,373.0,45.0,14.0,3.0
+Kobbie Mainoo,378.0,52.0,14.0,3.0
+Scott McTominay,381.0,49.0,14.0,3.0
+Mason Mount,382.0,63.0,14.0,3.0
+Facundo Pellistri Rebollo,384.0,50.0,14.0,3.0
+Marcus Rashford,385.0,66.0,14.0,3.0
+Toby Collyer,613.0,45.0,14.0,3.0
+Manuel Ugarte,652.0,49.0,14.0,3.0
+Jack Fletcher,667.0,45.0,14.0,3.0
+Jayce Fitzgerald,673.0,45.0,14.0,3.0
+Miguel Almirón Rejala,391.0,54.0,15.0,3.0
+Harvey Barnes,392.0,60.0,15.0,3.0
+Bruno Guimarães Rodriguez Moura,394.0,61.0,15.0,3.0
+Anthony Gordon,398.0,77.0,15.0,3.0
+Isaac Hayden,400.0,44.0,15.0,3.0
+Jacob Murphy,402.0,51.0,15.0,3.0
+Joelinton Cássio Apolinário de Lira,403.0,60.0,15.0,3.0
+Garang Kuol,406.0,44.0,15.0,3.0
+Sean Longstaff,410.0,46.0,15.0,3.0
+Lewis Miley,411.0,50.0,15.0,3.0
+Sandro Tonali,417.0,55.0,15.0,3.0
+Joe White,419.0,45.0,15.0,3.0
+Joe Willock,420.0,47.0,15.0,3.0
+Elliot Anderson,423.0,50.0,16.0,3.0
+Josh Bowler,426.0,45.0,16.0,3.0
+Eric da Silva Moreira,428.0,44.0,16.0,3.0
+Danilo dos Santos de Oliveira,429.0,47.0,16.0,3.0
+Nicolás Domínguez,431.0,48.0,16.0,3.0
+Anthony Elanga,432.0,53.0,16.0,3.0
+Morgan Gibbs-White,433.0,64.0,16.0,3.0
+Callum Hudson-Odoi,434.0,52.0,16.0,3.0
+Alex Mighten,435.0,45.0,16.0,3.0
+Lewis O'Brien,439.0,50.0,16.0,3.0
+Ibrahim Sangaré,442.0,43.0,16.0,3.0
+Ryan Yates,449.0,49.0,16.0,3.0
+James Ward-Prowse,531.0,62.0,16.0,3.0
+João Pedro Ferreira Silva,596.0,59.0,16.0,3.0
+Ramón Sosa,620.0,55.0,16.0,3.0
+Lesley Ugochukwu,188.0,44.0,17.0,3.0
+Ryan Fraser,397.0,48.0,17.0,3.0
+Carlos Alcaraz Durán,450.0,49.0,17.0,3.0
+Samuel Amo-Ameyaw,451.0,44.0,17.0,3.0
+Joe Aribo,452.0,49.0,17.0,3.0
+Shea Charles,458.0,45.0,17.0,3.0
+Samuel Edozie,459.0,49.0,17.0,3.0
+Kamaldeen Sulemana,462.0,50.0,17.0,3.0
+Adam Lallana,463.0,50.0,17.0,3.0
+Will Smallbone,471.0,50.0,17.0,3.0
+Maxwel Cornet,515.0,47.0,17.0,3.0
+Flynn Downes,518.0,47.0,17.0,3.0
+Ben Brereton Díaz,584.0,49.0,17.0,3.0
+Tyler Dibling,608.0,45.0,17.0,3.0
+Mateus Gonçalo Espanha Fernandes,623.0,50.0,17.0,3.0
+Joseph O'Brien-Whitmarsh,693.0,45.0,17.0,3.0
+Rodrigo Bentancur,480.0,49.0,18.0,3.0
+Lucas Bergvall,481.0,44.0,18.0,3.0
+Yves Bissouma,482.0,49.0,18.0,3.0
+Bryan Gil Salvatierra,483.0,50.0,18.0,3.0
+Alfie Devine,485.0,45.0,18.0,3.0
+Archie Gray,489.0,46.0,18.0,3.0
+Pierre-Emile Højbjerg,490.0,50.0,18.0,3.0
+Brennan Johnson,491.0,64.0,18.0,3.0
+Dejan Kulusevski,492.0,64.0,18.0,3.0
+Giovani Lo Celso,493.0,49.0,18.0,3.0
+James Maddison,494.0,75.0,18.0,3.0
+Pape Matar Sarr,499.0,48.0,18.0,3.0
+Manor Solomon,502.0,54.0,18.0,3.0
+Son Heung-min,503.0,98.0,18.0,3.0
+Timo Werner,509.0,62.0,18.0,3.0
+Mikey Moore,610.0,45.0,18.0,3.0
+Wilson Odobert,612.0,53.0,18.0,3.0
+Callum Olusesi,683.0,45.0,18.0,3.0
+Luca Williams-Barnett,689.0,45.0,18.0,3.0
+Min-Hyeok Yang,717.0,45.0,18.0,3.0
+Edson Álvarez Velázquez,511.0,50.0,19.0,3.0
+Jarrod Bowen,514.0,73.0,19.0,3.0
+George Earthy,519.0,45.0,19.0,3.0
+Mohammed Kudus,525.0,62.0,19.0,3.0
+Luis Guilherme Lira dos Santos,526.0,47.0,19.0,3.0
+Lucas Tolentino Coelho de Lima,527.0,57.0,19.0,3.0
+Tomáš Souček,530.0,49.0,19.0,3.0
+Andy Irving,576.0,48.0,19.0,3.0
+Crysencio Summerville,587.0,56.0,19.0,3.0
+Guido Rodríguez,588.0,48.0,19.0,3.0
+Carlos Soler,654.0,50.0,19.0,3.0
+Lewis Orford,701.0,45.0,19.0,3.0
+Boubacar Traoré,534.0,48.0,20.0,3.0
+Jean-Ricner Bellegarde,535.0,49.0,20.0,3.0
+Francisco Jorge Tomás Oliveira,537.0,45.0,20.0,3.0
+Tawanda Chirewa,538.0,45.0,20.0,3.0
+Luke Cundle,540.0,45.0,20.0,3.0
+Tommy Doyle,544.0,48.0,20.0,3.0
+Enso González,547.0,44.0,20.0,3.0
+Gonçalo Manuel Ganchinho Guedes,548.0,53.0,20.0,3.0
+Hwang Hee-chan,550.0,61.0,20.0,3.0
+Joe Hodge,551.0,45.0,20.0,3.0
+João Victor Gomes da Silva,553.0,49.0,20.0,3.0
+Mario Lemina,557.0,49.0,20.0,3.0
+Daniel Castelo Podence,562.0,55.0,20.0,3.0
+Rodrigo Martins Gomes,563.0,52.0,20.0,3.0
+Pablo Sarabia,565.0,50.0,20.0,3.0
+André Trindade da Costa Neto,642.0,50.0,20.0,3.0
+Carlos Roberto Forbs Borges,655.0,55.0,20.0,3.0
+Tom Edozie,682.0,45.0,20.0,3.0
