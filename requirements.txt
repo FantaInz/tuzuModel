@@ -1,15 +1,14 @@
 pandas
 numpy
-rapidfuzz
 ipykernel
-xgboost
 scikit-learn==1.5.2
 matplotlib
 jupyter
 GitPython
-optuna
 seaborn
 catboost
-lightgbm
 psycopg2-binary==2.9.10
-
+# lightgbm
+# optuna
+# xgboost
+# rapidfuzz
