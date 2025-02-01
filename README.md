@@ -20,7 +20,7 @@ You are welcome to both of these and adapt them to your needs.
 
 1. Clone the repository and navigate to the project folder:  
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/FantaInz/tuzuModel.git
    cd tuzuModel
    ```
 
@@ -38,7 +38,7 @@ You are welcome to both of these and adapt them to your needs.
 
 1. Clone the repository and navigate to the project folder:  
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/FantaInz/tuzuModel.git
    cd tuzuModel
    ```
 
@@ -70,7 +70,7 @@ You are welcome to both of these and adapt them to your needs.
 
 2. Clone the repository and navigate to the project folder:  
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/FantaInz/tuzuModel.git
    cd tuzuModel
    ```
 
